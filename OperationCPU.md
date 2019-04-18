@@ -1,6 +1,7 @@
 ## #OperationCPU : Digital Innovation Workshop
 
 Date : (Sun) April 28, 2019
+
 Venue : [Chaopraya Univeristy](http://www.cpu.ac.th/)
 
 ### Certificate of Attendance
@@ -36,8 +37,6 @@ Venue : [Chaopraya Univeristy](http://www.cpu.ac.th/)
 + VXOpCPU-20190428-29
 + VXOpCPU-20190428-30
 
-```markdown
-
 ### Contributor[s]
 
 + VXOpCPU-20190428-Chonlatit-Rujiphut (ชลทิตย์ รุจิพืช)
@@ -51,8 +50,6 @@ Venue : [Chaopraya Univeristy](http://www.cpu.ac.th/)
 + VXOpCPU-20190428-Sommanut-Ketpong (สมมนัส เกตุผ่อง)
 + VXOpCPU-20190428-Natthavee-Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ)
 + VXOpCPU-20190428-Hatsaya-Sae-Chua (หัสยา แซ่ฉั่ว)
-
-```
 
 ## Facilitator
 + VXOpCPU-20190428-Jakaphun-Junkhiew (จักรพันธ์ จันทร์เขียว) [[FB](https://www.facebook.com/Jojo.just.go)]
