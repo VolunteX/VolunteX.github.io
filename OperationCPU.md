@@ -51,7 +51,7 @@
 + VXOpCPU-20190428-Hatsaya-Sae-Chua (หัสยา แซ่ฉั่ว)
 
 ## Facilitator
-+ VXOpCPU-20190428-Jakaphun-Junkhiew (จักรพันธ์ จันทร์เขียว) [[FB](https://www.facebook.com/Jojo.just.go)]
++ [VXOpCPU-20190428-Jakaphun-Junkhiew](/OperationCPU/VXOpCPU-20190428-Jakaphun-Junkhiew.pdf) (จักรพันธ์ จันทร์เขียว) [[FB](https://www.facebook.com/Jojo.just.go)]
 
 ## Operation Enabler
 + Pattama Thongprapai (ปัทมา ทองประไพ)
