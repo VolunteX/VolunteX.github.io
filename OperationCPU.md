@@ -1,5 +1,7 @@
 ## #OperationCPU : Digital Innovation Workshop
 
++ Date : (Sun) April 28, 2019
++ Venue : [Chaopraya Univeristy](http://www.cpu.ac.th/)
 
 ### Certificate of Attendance
 
