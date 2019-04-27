@@ -48,6 +48,7 @@
 + VXOpCPU-20190428-Sommanut-Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 + VXOpCPU-20190428-Natthavee-Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
 + VXOpCPU-20190428-Hatsaya-Sae-Chua (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/Note.Hatsaya)]
++ VXOpCPU-20190428-Kanyarat-Limcharoenviriyakul (กันยารัตน์ ลิ้มเจริญวิริยกุล) [[➳](https://www.facebook.com/BewzTiie)]
 
 ## Facilitator
 + [VXOpCPU-20190428-Jakaphun-Junkhiew](/OperationCPU/VXOpCPU-20190428-Jakaphun-Junkhiew.pdf) (จักรพันธ์ จันทร์เขียว) [[➳](https://www.facebook.com/Jojo.just.go)]
