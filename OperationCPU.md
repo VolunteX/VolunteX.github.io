@@ -23,12 +23,8 @@
 + [VXOpCPU-20190428-19 Kasanee Panhaew](/OperationCPU/VXOpCPU-20190428-19.pdf) (นางสาวเกศนี ปานแห้ว)
 + [VXOpCPU-20190428-20 Viracha Waorathum](/OperationCPU/VXOpCPU-20190428-20.pdf) (นางสาววิรชา วรทุม)
 + [VXOpCPU-20190428-21 Worawit Pidta](/OperationCPU/VXOpCPU-20190428-21.pdf) (นายวรวิทย์ ปิดตา)
-+ [VXOpCPU-20190428-22 Oanchaliphon Sangiamsin](/OperationCPU/VXOpCPU-20190428-22.pdf) (นางสาวอัญชลีพร เสงี่ยมศิลป์)
 + [VXOpCPU-20190428-23 Sirichanya Tanpannam](/OperationCPU/VXOpCPU-20190428-23.pdf) (นางสาวศิริจรรญา ตันปั้นน้ำ)
 + [VXOpCPU-20190428-24 Thanadon Baimueang](/OperationCPU/VXOpCPU-20190428-24.pdf) (นายธนาดล บ่ายเมือง)
-+ [VXOpCPU-20190428-25 Ausani Chaemouam](/OperationCPU/VXOpCPU-20190428-25.pdf) (นางสาวอุษณีย์ แจ่มอ่วม)
-+ [VXOpCPU-20190428-27 Sudarat Soujareon](/OperationCPU/VXOpCPU-20190428-27.pdf) (นางสาวสุดารัตน์ เสือเจริญ)
-+ [VXOpCPU-20190428-28 Saharat Rongthong](/OperationCPU/VXOpCPU-20190428-28.pdf) (นายสหรัฐ รงค์ทอง)
 + [VXOpCPU-20190428-29 Somchok Khiaosuk](/OperationCPU/VXOpCPU-20190428-29.pdf) (นายสมโชค เขียวสุข)
 
 ### Contributor[s]
