@@ -18,6 +18,7 @@
 + VXOpBSU-20200126-Sommanut-Ketpong (สมมนัส เกตุผ่อง)
 + VXOpBSU-20200126-Natthavee-Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ)
 + VXOpBSU-20200126-Hatsaya-Sae-Chua (หัสยา แซ่ฉั่ว)
++ VXOpBSU-20200126-Somrut-Chetnuch (สมรัฐ เชตนุช)
 
 ## Facilitator
 + (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
