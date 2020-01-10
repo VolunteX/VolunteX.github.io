@@ -3,6 +3,8 @@
 + Date : (Sun) April 28, 2019
 + Venue : [Chaopraya Univeristy](http://www.cpu.ac.th/)
 
+[![](/OperationCPU/AfterTheMatch.jpg "#OperationCPU")](https://www.facebook.com/VolunteXTH/photos/a.1439198196221318/1447899312017873/)
+
 ### Certificate of Attendance
 
 + [VXOpCPU-20190428-01 Phurit Chepnurat](/OperationCPU/VXOpCPU-20190428-01.pdf) (นายภูริช ชีพนุรัตน์)
