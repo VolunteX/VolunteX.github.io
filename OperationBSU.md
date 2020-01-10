@@ -1,7 +1,7 @@
 ## #OperationBSU : #NewGradChallenge Workshop
 
 + Date : (Sun) January 26, 2020
-+ Venue : [Chaopraya Univeristy](http://www.bsu.ac.th/)
++ Venue : [Bangkok Suvarnabhumi University](http://www.bsu.ac.th/)
 
 ### Certificate of Attendance
 
