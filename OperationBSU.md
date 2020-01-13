@@ -20,6 +20,8 @@
 + VXOpBSU-20200126-Hatsaya-Sae-Chua (หัสยา แซ่ฉั่ว)
 + VXOpBSU-20200126-Somrut-Chetnuch (สมรัฐ เชตนุช)
 + VXOpBSU-20200126-Taweechai-Sermsawang (ทวีชัย เสริมสว่าง)
++ VXOpBSU-20200126-Thitaree-Kularjsee (ฐิตารีย์ กุลอาจศรี) #NewGenMVP
++ VXOpBSU-20200126-Abdulloh-Etaeluengoh (อับดุลเล๊าะ อีแตลือเง๊าะ) #NewGenMVP
 
 ## Facilitator
 + Tanapeak Pexyean (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
