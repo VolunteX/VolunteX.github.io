@@ -32,7 +32,7 @@
 
 ## Official Sponsor
 + Nathachai Phokairatana (ณัฐชัย โภไคยรัตน์) [[➳](https://www.facebook.com/mobiuz.pw)], [Rapid7](https://www.rapid7.com/)
-+ [Red Kernels Co., Ltd.](https://www.facebook.com/Red-Kernels-Co-Ltd-103726511010245/)
++ Red Kernels Co., Ltd. [[➳](https://www.facebook.com/Red-Kernels-Co-Ltd-103726511010245/)]
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
