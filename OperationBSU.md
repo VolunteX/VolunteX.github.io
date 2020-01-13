@@ -22,7 +22,7 @@
 + VXOpBSU-20200126-Taweechai-Sermsawang (ทวีชัย เสริมสว่าง)
 
 ## Facilitator
-+ (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
++ Tanapeak Pexyean (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
 
 ## Operation Enabler
 + Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
