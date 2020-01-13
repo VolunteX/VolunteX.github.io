@@ -27,5 +27,8 @@
 ## Operation Enabler
 + Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
 
+## Official Sponsor
++ Nathachai Phokairatana (ณัฐชัย โภไคยรัตน์) [[➳](https://www.facebook.com/mobiuz.pw)], [Rapid7](https://www.rapid7.com/)
+
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
