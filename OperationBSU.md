@@ -21,13 +21,14 @@
 + VXOpBSU-20200126-Somrut-Chetnuch (สมรัฐ เชตนุช)
 + VXOpBSU-20200126-Taweechai-Sermsawang (ทวีชัย เสริมสว่าง)
 + VXOpBSU-20200126-Sakchai-Chaiyarak (ศักดิ์ชัย ไชยรักษ์)
++ VXOpBSU-20200126-Siwaporn-Linthaluek ()
 + VXOpBSU-20200126-Thitaree-Kularjsee (ฐิตารีย์ กุลอาจศรี) #NewGenMVP
 + VXOpBSU-20200126-Abdulloh-Etaeluengoh (อับดุลเล๊าะ อีแตลือเง๊าะ) #NewGenMVP
 + VXOpBSU-20200126-Chutchawan-Suworatrai (ชัชวาล สุวรไตร) #NewGenMVP
 + VXOpBSU-20200126-Artid-Sringam (อาทิตย์ ไทรงาม)
 
 ## Facilitator
-+ Tanapeak Pexyean (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
++ + [VXOpBSU-20200126-Tanapeak-Pexyean](/OperationBSU/VXOpBSU-20200126-Tanapeak-Pexyean.pdf) (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
 
 ## Operation Enabler
 + Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
