@@ -18,6 +18,7 @@
 + VXOpBSU-20200126-Sommanut-Ketpong (สมมนัส เกตุผ่อง)
 + VXOpBSU-20200126-Natthavee-Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ)
 + VXOpBSU-20200126-Hatsaya-Sae-Chua (หัสยา แซ่ฉั่ว)
++ VXOpBSU-20200126-Patcharapon-Susuk (พัชรพล สู่สุข)
 + VXOpBSU-20200126-Somrut-Chetnuch (สมรัฐ เชตนุช)
 + VXOpBSU-20200126-Taweechai-Sermsawang (ทวีชัย เสริมสว่าง)
 + VXOpBSU-20200126-Sakchai-Chaiyarak (ศักดิ์ชัย ไชยรักษ์)
