@@ -24,6 +24,7 @@
 + VXOpBSU-20200126-Thitaree-Kularjsee (ฐิตารีย์ กุลอาจศรี) #NewGenMVP
 + VXOpBSU-20200126-Abdulloh-Etaeluengoh (อับดุลเล๊าะ อีแตลือเง๊าะ) #NewGenMVP
 + VXOpBSU-20200126-Chutchawan-Suworatrai (ชัชวาล สุวรไตร) #NewGenMVP
++ VXOpBSU-20200126-Artid-Sringam (อาทิตย์ ไทรงาม)
 
 ## Facilitator
 + Tanapeak Pexyean (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
