@@ -28,7 +28,7 @@
 + VXOpBSU-20200126-Artid-Sringam (อาทิตย์ ไทรงาม)
 
 ## Facilitator
-+ + [VXOpBSU-20200126-Tanapeak-Pexyean](/OperationBSU/VXOpBSU-20200126-Tanapeak-Pexyean.pdf) (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
++ [VXOpBSU-20200126-Tanapeak-Pexyean](/OperationBSU/VXOpBSU-20200126-Tanapeak-Pexyean.pdf) (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
 
 ## Operation Enabler
 + Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
