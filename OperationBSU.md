@@ -19,11 +19,9 @@
 1. VXOpBSU-20200126-Taweechai-Sermsawang (ทวีชัย เสริมสว่าง) [[➳](https://www.facebook.com/victor.history)]
 1. VXOpBSU-20200126-Sakchai-Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
 1. VXOpBSU-20200126-Siwaporn-Linthaluek (ศิวพร ลินทะลึก) [[➳](https://www.facebook.com/LoVeNoMoErTeAr)]
-
-#NewGenMVP 
-1. VXOpBSU-20200126-Thitaree-Kularjsee (ฐิตารีย์ กุลอาจศรี) [[➳](https://www.facebook.com/yaipanggogii)] 
-1. VXOpBSU-20200126-Abdulloh-Etaeluengoh (อับดุลเล๊าะ อีแตลือเง๊าะ) [[➳](https://www.facebook.com/dekbacom)] 
-1. VXOpBSU-20200126-Chutchawan-Suworatrai (ชัชวาล สุวรไตร) [[➳](https://www.facebook.com/BakhamOil)] 
+1. VXOpBSU-20200126-Thitaree-Kularjsee (ฐิตารีย์ กุลอาจศรี) [[➳](https://www.facebook.com/yaipanggogii)] #NewGenMVP 
+1. VXOpBSU-20200126-Abdulloh-Etaeluengoh (อับดุลเล๊าะ อีแตลือเง๊าะ) [[➳](https://www.facebook.com/dekbacom)] #NewGenMVP 
+1. VXOpBSU-20200126-Chutchawan-Suworatrai (ชัชวาล สุวรไตร) [[➳](https://www.facebook.com/BakhamOil)] #NewGenMVP 
 1. VXOpBSU-20200126-Artid-Sringam (อาทิตย์ ไทรงาม) [[➳](https://www.facebook.com/artidhui)]
 
 ## Facilitator
