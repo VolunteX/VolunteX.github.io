@@ -71,7 +71,7 @@
 1. Kritsada Thanya-udorn (กฤษฎา ธัญญอุดร)
 1. Kunawat Kasawattana (คุณาวัฒน์ เกสะวัฒนะ)
 1. Manop Khumkreng (มนพ คุ้มเกรง)
-1. Manurach Srisuklom (มนูรัช ศรีสุขล้อม)
+1. Manurash Srisuklom (มนูรัช ศรีสุขล้อม)
 1. Marisa Kluayniem (มาริสา กล้วยเนียม)
 1. Matha Naksir (เมธา นาคศรี)
 1. Mathus Samosorn) (เมทัส สโมสร)
