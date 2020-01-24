@@ -105,7 +105,7 @@
 1. Phisit Phech-munvaja (พิสิษฐ์ เพชรมั่นวาจา)
 1. Pikun Sapthamrong (พิกุล ทรัพย์ธำรงศ์)
 1. Pimchanok Jansingkon (พิมพ์ชนก จันสิงขร)
-1. Piraponng Srikaeotangwong (พีระพงศ์ ศรีแก้วต่างวงศ์)
+1. Pirapong Srikaeotangwong(พีระพงศ์ ศรีแก้วต่างวงศ์)
 1. Piyanat Muang-in (ปิยะณัฐ เมืองอินทร์)
 1. Pongsathon Yomlaead (พงศธร ย่อมละเอียด)
 1. Pornpun Khunkri (พรพรรณ ขุนไกร)
