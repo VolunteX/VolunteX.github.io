@@ -15,4 +15,4 @@ https://fb.me/VolunteXTH
 
 [![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
 
-[![](/@VolunteXTH.jpg "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
+[![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
