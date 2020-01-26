@@ -3,6 +3,8 @@
 + Date : (Sun) January 26, 2020
 + Venue : [Bangkok Suvarnabhumi University](http://www.bsu.ac.th/)
 
+[![](/OperationBSU/AfterTheMatch.jpg "#OperationBSU")](????)
+
 ### Contributor[s]
 
 1. [VXOpBSU-20200126-Sirisak-Ketkaew](/OperationBSU/VXOpBSU-20200126-Sirisak-Ketkaew.pdf) (ศิริศักดิ์ เกตุแก้ว) [[➳](https://www.facebook.com/sirisak.k94)]
