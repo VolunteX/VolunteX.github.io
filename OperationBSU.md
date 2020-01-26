@@ -93,7 +93,7 @@
 1. Nattapon Lonin (ณัฐพล หล่อนิล)
 1. Nattawut Puttajak (ณัฐวุฒิ พุทธจักร)
 1. Natthaphon Saelee (นัฐพล  แซ่ลี้)
-1. Nawarut Heara (ณวรุตม์ เหรา)
+1. Nawarut Heara (ณวรุตม์ เหรา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nawarut-Heara.pdf)]
 1. Noppakorn Sawangsaeng (นพกร สว่างแสง)
 1. Orayanee Wisedrojana (อรญาณี วิเศษรจนา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Orayanee-Wisedrojana.pdf)]
 1. Pakin kongsawad (ภาคิน คงสวัสดิ์)       
