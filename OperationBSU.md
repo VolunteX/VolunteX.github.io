@@ -14,7 +14,6 @@
 1. VXOpBSU-20200126-Sommanut-Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 1. VXOpBSU-20200126-Natthavee-Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
 1. VXOpBSU-20200126-Hatsaya-Sae-Chua (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/Note.Hatsaya)]
-1. VXOpBSU-20200126-Patcharapon-Susuk (พัชรพล สู่สุข) [[➳](https://www.facebook.com/Forestwick)]
 1. VXOpBSU-20200126-Somrut-Chetnuch (สมรัฐ เชตนุช) [[➳](https://www.facebook.com/somrut.chetnuch)]
 1. VXOpBSU-20200126-Taweechai-Sermsawang (ทวีชัย เสริมสว่าง) [[➳](https://www.facebook.com/victor.history)]
 1. VXOpBSU-20200126-Sakchai-Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
