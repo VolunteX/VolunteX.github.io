@@ -95,7 +95,7 @@
 1. Natthaphon Saelee (นัฐพล  แซ่ลี้)
 1. Nawarut Heara (ณวรุตม์ เหรา)
 1. Noppakorn Sawangsaeng (นพกร สว่างแสง)
-1. [Orayanee Wisedrojana (อรญาณี วิเศษรจนา)((https://voluntex.github.io/OperationBSU/attendance/VXOpBSU-20200126-Orayanee-Wisedrojana.pdf))]
+1. Orayanee Wisedrojana (อรญาณี วิเศษรจนา) [[Cert]((https://voluntex.github.io/OperationBSU/attendance/VXOpBSU-20200126-Orayanee-Wisedrojana.pdf))]
 1. Pakin kongsawad (ภาคิน คงสวัสดิ์)       
 1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ)
 1. Panupong Yookong (ภาณุพงศ์ อยู่คง)
