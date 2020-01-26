@@ -117,7 +117,7 @@
 1. Prariyes Khamsiri (ปริเยศ คำศิริ)
 1. Saharat santisukpota(สหรัฐ สันติสุขโพธา)
 1. Sarawuth Vattanasri (สราวุธ วัฒนศรี)
-1. Siwanat Ritbumrung (ศิวณัฐ ฤทธิ์บำรุง)
+1. Siwanat Ritbumrung (ศิวณัฐ ฤทธิ์บำรุง) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Siwanat-Ritbumrung.pdf)]
 1. Somparn Posoongnoen (สมภาร ปอสูงเนิน)
 1. Songsap Chinnapatpongsin (ทรงทรัพย์ ชินภัทรพงศ์สิน)
 1. Sudarat Hongha (สุดารัตน์ หงหา)
