@@ -110,7 +110,7 @@
 1. Phanuwat Chantong (ภาณุวัฒน์ จันทร์ทอง)
 1. Phichitchai Wonghat (พิชิตชัย วงหัส)
 1. Phisit Phech-munvaja (พิสิษฐ์ เพชรมั่นวาจา)
-1. Pikun Sapthamrong (พิกุล ทรัพย์ธำรงศ์)
+1. Pikun Sapthamrong (พิกุล ทรัพย์ธำรงศ์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pikun-Sapthamrong.pdf)]
 1. Pimchanok Jansingkon (พิมพ์ชนก จันสิงขร)
 1. Pirapong Srikaeotangwong(พีระพงศ์ ศรีแก้วต่างวงศ์)
 1. Piyanat Muang-in (ปิยะณัฐ เมืองอินทร์)
