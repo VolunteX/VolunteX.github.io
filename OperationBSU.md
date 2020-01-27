@@ -76,7 +76,7 @@
 1. Kittisak Buayai (กิตติศักดิ์ บัวใหญ่)
 1. Kittisak Lekcharoensri (กิตติศักดิ์ เล็กเจริญศรี)
 1. Korakod Puanglamjeak (กรกฏ พวงลำเจียก) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Korakod-Puanglamjeak.pdf)]
-1. Kornchanok Premsirisuthakorn (กรชนก เปรมสิริสุธากร)
+1. Kornchanok Premsirisuthakorn (กรชนก เปรมสิริสุธากร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kornchanok-Premsirisuthakorn.pdf)]
 1. Krisada  Boonrod (กฤษฎา บุญรอด)
 1. Kritsada Thanya-udorn (กฤษฎา ธัญญอุดร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kritsada-Thanya-udorn.pdf)]
 1. Kunawat Kasawattana (คุณาวัฒน์ เกสะวัฒนะ)
