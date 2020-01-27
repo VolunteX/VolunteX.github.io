@@ -145,5 +145,6 @@
 1. Yosita Kongthaworn (โยษิตา คงถาวร)
 1. Yossapol Mamah (ยศพล มามะ)
 1. Yutthana Sarobon (ยุทธนา สโรบล)
+1. Natthapol Na Ubol (ณัฐพล ณ อุบล) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natthapol-Na-Ubol.pdf)]
 
 [![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
