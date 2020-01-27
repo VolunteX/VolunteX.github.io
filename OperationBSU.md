@@ -136,7 +136,7 @@
 1. Top Tungvicha (ท๊อป ถุงวิชา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Top-Tungvicha.pdf)]
 1. Warawit Navasuchinda (วรวิช นวสุจินดา)
 1. Warunee  Nanjing (วารุณี นวลจันทร์)
-1. Weerapon Saywon (วีระพล สายวรณ์)
+1. Weerapon Saywon (วีระพล สายวรณ์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Weerapon-Saywon.pdf)]
 1. Weerasak Boonmee (วีระศักดิ์ บุญมี)
 1. Werawat Sonneam (วีรวัฒน์ สอนเนียม)
 1. Wipada Thesnok (วิภาดา เทศนอก)
