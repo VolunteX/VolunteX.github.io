@@ -88,7 +88,7 @@
 1. Mintra Chumpee (มินตรา จำปี)
 1. Montree  Kerdpetch (มนตรี เกิดเพชร)
 1. Natasat Donkongmi) (ณัฏฐ์ศาสน์ ดอนคงมี)
-1. Natdao Sritongtap (ณัฎดาว สีทองทาบ)
+1. Natdao Sritongtap (ณัฎดาว สีทองทาบ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natdao-Sritongtap.pdf)]
 1. Natea Juthaisong (นที จูไธสง)
 1. Nattakan Prosri (ณัฐกานต์ โพธิ์ศรี)
 1. Nattapol Laohachokboonma (ณัฐพล เลาหโชคบุญมา)
