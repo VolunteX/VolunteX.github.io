@@ -99,7 +99,7 @@
 1. Noppakorn Sawangsaeng (นพกร สว่างแสง)
 1. Orayanee Wisedrojana (อรญาณี วิเศษรจนา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Orayanee-Wisedrojana.pdf)]
 1. Pakin kongsawad (ภาคิน คงสวัสดิ์)       
-1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ)
+1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Panpong-Sangsuwan.pdf)]
 1. Panupong Yookong (ภาณุพงศ์ อยู่คง)
 1. Panuwat Masantie (พนุวัฒน์ มาสันเทียะ)
 1. Papatsone  Kamolwantanakul (ปภัสสร กมลวันทนากุล)
