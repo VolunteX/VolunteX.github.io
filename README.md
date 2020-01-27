@@ -12,6 +12,6 @@ VolunteXTH@gmail.com
 https://fb.me/VolunteXTH
 ```
 
-[![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png =232x72 "Let @VolunteXTH be your friend")](https://lin.ee/cnIgUj4)
+[![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Let @VolunteXTH be your friend")](https://lin.ee/cnIgUj4)
 
-[![](/@VolunteXTH.png =232x232 "Let @VolunteXTH be your friend")](https://lin.ee/cnIgUj4)
+[![](/@VolunteXTH.png "Let @VolunteXTH be your friend")](https://lin.ee/cnIgUj4)
