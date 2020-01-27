@@ -132,7 +132,7 @@
 1. Thanapol Thananchai (ธนาพล ทะนันชัย)
 1. Thanawat Taweechoktiwavan (ธนวัต ทวีโชคทิวาวรรณ)
 1. Thanyaluck Naklang (ธัญญลักษณ์ หนากลาง)
-1. Thitipum Hoydokhom (ฐิติภูมิ ห้อยดอกหอม)
+1. Thitipum Hoydokhom (ฐิติภูมิ ห้อยดอกหอม) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Thitipum-Hoydokhom.pdf)]
 1. Top Tungvicha (ท๊อป ถุงวิชา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Top-Tungvicha.pdf)]
 1. Warawit Navasuchinda (วรวิช นวสุจินดา)
 1. Warunee  Nanjing (วารุณี นวลจันทร์)
