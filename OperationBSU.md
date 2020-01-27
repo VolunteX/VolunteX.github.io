@@ -91,7 +91,7 @@
 1. Natdao Sritongtap (ณัฎดาว สีทองทาบ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natdao-Sritongtap.pdf)]
 1. Natea Juthaisong (นที จูไธสง)
 1. Nattakan Prosri (ณัฐกานต์ โพธิ์ศรี)
-1. Nattapol Laohachokboonma (ณัฐพล เลาหโชคบุญมา)
+1. Nattapol Laohachokboonma (ณัฐพล เลาหโชคบุญมา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nattapol-Laohachokboonma.pdf)]
 1. Nattapon Lonin (ณัฐพล หล่อนิล)
 1. Nattawut Puttajak (ณัฐวุฒิ พุทธจักร)
 1. Natthaphon Saelee (นัฐพล  แซ่ลี้)
