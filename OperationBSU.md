@@ -53,7 +53,7 @@
 1. Apiwat Pongmahachai (อภิวัฒน์ พงษ์มหาชัย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Apiwat-Pongmahachai.pdf)]
 1. Apiwat Tapang (อภิวัฒ ต๊ะเป็ง) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Apiwat-Tapang.pdf)]
 1. Arisa Arachat (อาริสา อารชัต)
-1. Atirath Wangsatang (อธิราช วังสตัง)
+1. Atirath Wangsatang (อธิราช วังสตัง) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Atirath-Wangsatang.pdf)]
 1. Aukkaya Jadphol (อรรฆยา จัดพล)
 1. Benjawan Jaihan (เบญจวรรณ ใจหาญ)
 1. Bovornrat  Tianpeng (บวรรัตน์ เทียนเพ็ง)
