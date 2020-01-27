@@ -124,7 +124,7 @@
 1. Songsap Chinnapatpongsin (ทรงทรัพย์ ชินภัทรพงศ์สิน)
 1. Sudarat Hongha (สุดารัตน์ หงหา)
 1. Sukunya Rudtho (สุกัญญา รุดโถ)
-1. Surasilp Rojamornkul (สุรศิลป์ โรจน์อมรกุล)
+1. Surasilp Rojamornkul (สุรศิลป์ โรจน์อมรกุล) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Surasilp-Rojamornkul.pdf)]
 1. Surattisak Tupkrut (สุรัติศักดิ์ ทับครุธ)
 1. Suwanna Homlert (สุวรรณา หอมเลิศ)
 1. Tanakorn Manchitt (ธนกร มั่นจิตต์)
