@@ -75,7 +75,7 @@
 1. Kittapart Kamonman (กฤตภาส กมลมาลย์)
 1. Kittisak Buayai (กิตติศักดิ์ บัวใหญ่)
 1. Kittisak Lekcharoensri (กิตติศักดิ์ เล็กเจริญศรี)
-1. Korakod Puanglamjeak (กรกฏ พวงลำเจียก)
+1. Korakod Puanglamjeak (กรกฏ พวงลำเจียก) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Korakod-Puanglamjeak.pdf)]
 1. Kornchanok Premsirisuthakorn (กรชนก เปรมสิริสุธากร)
 1. Krisada  Boonrod (กฤษฎา บุญรอด)
 1. Kritsada Thanya-udorn (กฤษฎา ธัญญอุดร)
