@@ -82,7 +82,7 @@
 1. Kunawat Kasawattana (คุณาวัฒน์ เกสะวัฒนะ)
 1. Manop Khumkreng (มนพ คุ้มเกรง)
 1. Manurash Srisuklom (มนูรัช ศรีสุขล้อม)
-1. Marisa Kluayniem (มาริสา กล้วยเนียม)
+1. Marisa Kluayniem (มาริสา กล้วยเนียม) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Marisa-Kluayniem.pdf)]
 1. Matha Naksir (เมธา นาคศรี)
 1. Mathus Samosorn) (เมทัส สโมสร)
 1. Mintra Chumpee (มินตรา จำปี)
