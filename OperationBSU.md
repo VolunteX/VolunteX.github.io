@@ -143,7 +143,7 @@
 1. Woramet Poommadue (วรเมธ พุ่มมะเดื่อ)
 1. Worawut Mekloy (วรวุฒิ เมฆลอย)
 1. Yosita Kongthaworn (โยษิตา คงถาวร)
-1. Yossapol Mamah (ยศพล มามะ)
+1. Yossapol Mamah (ยศพล มามะ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Yossapol-Mamah.pdf)]
 1. Yutthana Sarobon (ยุทธนา สโรบล)
 1. Natthapol Na Ubol (ณัฐพล ณ อุบล) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natthapol-Na-Ubol.pdf)]
 1. Akarapon Pootorn (อัครพล ภูธร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Akarapon-Pootorn.pdf)]
