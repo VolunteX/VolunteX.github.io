@@ -108,7 +108,7 @@
 1. Peerapong Boonloh (พีระพงศ์ บุญเลาะ)
 1. Peerapong Phetsuk (พีระพงษ์ เพชรสุข) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Peerapong-Phetsuk.pdf)]
 1. Phanuwat Chantong (ภาณุวัฒน์ จันทร์ทอง)
-1. Phichitchai Wonghat (พิชิตชัย วงหัส)
+1. Phichitchai Wonghat (พิชิตชัย วงหัส) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Phichitchai-Wonghat.pdf)]
 1. Phisit Phech-munvaja (พิสิษฐ์ เพชรมั่นวาจา)
 1. Pikun Sapthamrong (พิกุล ทรัพย์ธำรงศ์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pikun-Sapthamrong.pdf)]
 1. Pimchanok Jansingkon (พิมพ์ชนก จันสิงขร)
