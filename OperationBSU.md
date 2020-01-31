@@ -106,7 +106,7 @@
 1. Paris Kheunkhan (พฤทธิ์ เขื่อนขันธ์)
 1. Pattarapon Janprom (ภัทรพล จันทร์พรหม)
 1. Peerapong Boonloh (พีระพงศ์ บุญเลาะ)
-1. Peerapong  Phetsuk (พีระพงษ์ เพชรสุข)
+1. Peerapong Phetsuk (พีระพงษ์ เพชรสุข) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Peerapong-Phetsuk.pdf)]
 1. Phanuwat Chantong (ภาณุวัฒน์ จันทร์ทอง)
 1. Phichitchai Wonghat (พิชิตชัย วงหัส)
 1. Phisit Phech-munvaja (พิสิษฐ์ เพชรมั่นวาจา)
