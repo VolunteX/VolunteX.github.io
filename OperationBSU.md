@@ -49,7 +49,7 @@
 1. Alongkron Keawdulduk (อลงกรณ์ แก้วดุลดุก)
 1. Amit Azad (อะมิท อะเเซด)
 1. Anirut Thachalat (อนิรุต ท่าฉลาด)
-1. Apinut Pannnok (อภินัทธ์ พันธ์นอก)
+1. Apinut Pannok (อภินัทธ์ พันธ์นอก) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Apinut-Pannok.pdf)]
 1. Apiwat Pongmahachai (อภิวัฒน์ พงษ์มหาชัย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Apiwat-Pongmahachai.pdf)]
 1. Apiwat Tapang (อภิวัฒ ต๊ะเป็ง) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Apiwat-Tapang.pdf)]
 1. Arisa Arachat (อาริสา อารชัต)
