@@ -101,7 +101,7 @@
 1. Pakin Kongsawad (ภาคิน คงสวัสดิ์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pakin-Kongsawad.pdf)]
 1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Panpong-Sangsuwan.pdf)]
 1. Panupong Yookong (ภาณุพงศ์ อยู่คง)
-1. Panuwat Masantie (พนุวัฒน์ มาสันเทียะ)
+1. Panuwat Masantie (พนุวัฒน์ มาสันเทียะ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Panuwat-Masantie.pdf)]
 1. Papatsone  Kamolwantanakul (ปภัสสร กมลวันทนากุล)
 1. Paris Kheunkhan (พฤทธิ์ เขื่อนขันธ์)
 1. Pattarapon Janprom (ภัทรพล จันทร์พรหม)
