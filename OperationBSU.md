@@ -84,10 +84,10 @@
 1. Manurash Srisuklom (มนูรัช ศรีสุขล้อม)
 1. Marisa Kluayniem (มาริสา กล้วยเนียม) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Marisa-Kluayniem.pdf)]
 1. Matha Naksir (เมธา นาคศรี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Matha-Naksir.pdf)]
-1. Mathus Samosorn) (เมทัส สโมสร)
+1. Mathus Samosorn (เมทัส สโมสร)
 1. Mintra Chumpee (มินตรา จำปี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Mintra-Chumpee.pdf)]
 1. Montree  Kerdpetch (มนตรี เกิดเพชร)
-1. Natasat Donkongmi) (ณัฏฐ์ศาสน์ ดอนคงมี)
+1. Natasat Donkongmi (ณัฏฐ์ศาสน์ ดอนคงมี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natasat-Donkongmi.pdf)]
 1. Natdao Sritongtap (ณัฎดาว สีทองทาบ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natdao-Sritongtap.pdf)]
 1. Natea Juthaisong (นที จูไธสง)
 1. Nattakan Prosri (ณัฐกานต์ โพธิ์ศรี)
