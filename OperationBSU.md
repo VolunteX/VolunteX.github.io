@@ -113,7 +113,7 @@
 1. Pikun Sapthamrong (พิกุล ทรัพย์ธำรงศ์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pikun-Sapthamrong.pdf)]
 1. Pimchanok Jansingkon (พิมพ์ชนก จันสิงขร)
 1. Pirapong Srikaeotangwong(พีระพงศ์ ศรีแก้วต่างวงศ์)
-1. Piyanat Muang-in (ปิยะณัฐ เมืองอินทร์)
+1. Piyanat Muang-in (ปิยะณัฐ เมืองอินทร์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Piyanat-Muang-in.pdf)]
 1. Pongsathon Yomlaead (พงศธร ย่อมละเอียด) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pongsathon-Yomlaead.pdf)]
 1. Pornpun Khunkri (พรพรรณ ขุนไกร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pornpun-Khunkri.pdf)]
 1. Prariyes Khamsiri (ปริเยศ คำศิริ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Prariyes-Khamsiri.pdf)]
