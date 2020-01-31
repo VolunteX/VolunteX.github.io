@@ -71,7 +71,7 @@
 1. Kanokwan Hanthongchai (กนกวรรณ หาญธงไชย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kanokwan-Hanthongchai.pdf)]
 1. Kanyarat Chonchee (กัญญารัตน์ ชลชี)
 1. Kanyarat Lowkaew (กัญญารัตน์ โหลแก้ว) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kanyarat-Lowkaew.pdf)]
-1. Kitiphat Phonun (กิติพัฒน์ โพธิ์นันท์)
+1. Kitiphat Phonun (กิติพัฒน์ โพธิ์นันท์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kitiphat-Phonun.pdf)]
 1. Kittapart Kamonman (กฤตภาส กมลมาลย์)
 1. Kittisak Buayai (กิตติศักดิ์ บัวใหญ่)
 1. Kittisak Lekcharoensri (กิตติศักดิ์ เล็กเจริญศรี)
