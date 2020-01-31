@@ -116,7 +116,7 @@
 1. Piyanat Muang-in (ปิยะณัฐ เมืองอินทร์)
 1. Pongsathon Yomlaead (พงศธร ย่อมละเอียด) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pongsathon-Yomlaead.pdf)]
 1. Pornpun Khunkri (พรพรรณ ขุนไกร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pornpun-Khunkri.pdf)]
-1. Prariyes Khamsiri (ปริเยศ คำศิริ)
+1. Prariyes Khamsiri (ปริเยศ คำศิริ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Prariyes-Khamsiri.pdf)]
 1. Saharat santisukpota(สหรัฐ สันติสุขโพธา)
 1. Sarawuth Vattanasri (สราวุธ วัฒนศรี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Sarawuth-Vattanasri.pdf)]
 1. Siwanat Ritbumrung (ศิวณัฐ ฤทธิ์บำรุง) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Siwanat-Ritbumrung.pdf)]
