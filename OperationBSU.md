@@ -89,7 +89,7 @@
 1. Montree  Kerdpetch (มนตรี เกิดเพชร)
 1. Natasat Donkongmi (ณัฏฐ์ศาสน์ ดอนคงมี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natasat-Donkongmi.pdf)]
 1. Natdao Sritongtap (ณัฎดาว สีทองทาบ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natdao-Sritongtap.pdf)]
-1. Natea Juthaisong (นที จูไธสง)
+1. Natea Juthaisong (นที จูไธสง) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Natea-Juthaisong.pdf)]
 1. Nattakan Prosri (ณัฐกานต์ โพธิ์ศรี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nattakan-Prosri.pdf)]
 1. Nattapol Laohachokboonma (ณัฐพล เลาหโชคบุญมา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nattapol-Laohachokboonma.pdf)]
 1. Nattapon Lonin (ณัฐพล หล่อนิล) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nattapon-Lonin.pdf)]
