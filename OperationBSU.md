@@ -57,7 +57,7 @@
 1. Aukkaya Jadphol (อรรฆยา จัดพล)
 1. Benjawan Jaihan (เบญจวรรณ ใจหาญ)
 1. Bovornrat  Tianpeng (บวรรัตน์ เทียนเพ็ง)
-1. Chaiwat  Paikrathok (ชัยวัฒน์ ไพกระโทก)
+1. Chaiwat Paikrathok (ชัยวัฒน์ ไพกระโทก) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Chaiwat-Paikrathok.pdf)]
 1. Chaiyaporn Makkulchorn (ชัยพร มากกุญชร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Chaiyaporn-Makkulchorn.pdf)]
 1. Chanaphat Rodchaey (ชนาพัฒน์ รอดเฉย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Chanaphat-Rodchaey.pdf)]
 1. Cherdchai Yimno (เชิดชัย ยิ้มน้อย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Cherdchai-Yimno.pdf)]
