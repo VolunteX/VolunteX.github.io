@@ -62,7 +62,7 @@
 1. Chanaphat Rodchaey (ชนาพัฒน์ รอดเฉย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Chanaphat-Rodchaey.pdf)]
 1. Cherdchai Yimno (เชิดชัย ยิ้มน้อย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Cherdchai-Yimno.pdf)]
 1. Chonthicha yongseng (ชลธิชา ย่งเส็ง)
-1. Chutima Ketsa (ชุติมา เกตุษา)
+1. Chutima Ketsa (ชุติมา เกตุษา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Chutima-Ketsa.pdf)]
 1. Ekkarach Namthong (เอกราช น้ำทอง)
 1. Janthip Klomkaew (จันทร์ทิพย์ กล่อมแก้ว)
 1. Jaras Danprakorn (จรัส แดนประกรณ์)
@@ -149,5 +149,6 @@
 1. Akarapon Pootorn (อัครพล ภูธร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Akarapon-Pootorn.pdf)]
 1. Mongkhol Suansuk (มงคล สวนสุข) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Mongkhol-Suansuk.pdf)]
 1. Jirapat Saengngoen (จิรพัฒน์ แสงเงิน) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Jirapat-Saengngoen.pdf)]
+1. Panida Phokasem
 
 [![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
