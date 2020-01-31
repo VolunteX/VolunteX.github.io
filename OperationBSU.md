@@ -138,7 +138,7 @@
 1. Warunee  Nanjing (วารุณี นวลจันทร์)
 1. Weerapon Saywon (วีระพล สายวรณ์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Weerapon-Saywon.pdf)]
 1. Weerasak Boonmee (วีระศักดิ์ บุญมี)
-1. Werawat Sonneam (วีรวัฒน์ สอนเนียม)
+1. Werawat Sonneam (วีรวัฒน์ สอนเนียม) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Werawat-Sonneam.pdf)]
 1. Wipada Thesnok (วิภาดา เทศนอก) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Wipada-Thesnok.pdf)]
 1. Woramet Poommadue (วรเมธ พุ่มมะเดื่อ)
 1. Worawut Mekloy (วรวุฒิ เมฆลอย)
