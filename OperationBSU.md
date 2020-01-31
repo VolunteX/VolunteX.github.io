@@ -92,7 +92,7 @@
 1. Natea Juthaisong (นที จูไธสง)
 1. Nattakan Prosri (ณัฐกานต์ โพธิ์ศรี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nattakan-Prosri.pdf)]
 1. Nattapol Laohachokboonma (ณัฐพล เลาหโชคบุญมา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nattapol-Laohachokboonma.pdf)]
-1. Nattapon Lonin (ณัฐพล หล่อนิล)
+1. Nattapon Lonin (ณัฐพล หล่อนิล) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nattapon-Lonin.pdf)]
 1. Nattawut Puttajak (ณัฐวุฒิ พุทธจักร)
 1. Natthaphon Saelee (นัฐพล  แซ่ลี้)
 1. Nawarut Heara (ณวรุตม์ เหรา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Nawarut-Heara.pdf)]
