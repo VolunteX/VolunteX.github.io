@@ -118,7 +118,7 @@
 1. Pornpun Khunkri (พรพรรณ ขุนไกร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Pornpun-Khunkri.pdf)]
 1. Prariyes Khamsiri (ปริเยศ คำศิริ)
 1. Saharat santisukpota(สหรัฐ สันติสุขโพธา)
-1. Sarawuth Vattanasri (สราวุธ วัฒนศรี)
+1. Sarawuth Vattanasri (สราวุธ วัฒนศรี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Sarawuth-Vattanasri.pdf)]
 1. Siwanat Ritbumrung (ศิวณัฐ ฤทธิ์บำรุง) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Siwanat-Ritbumrung.pdf)]
 1. Somparn Posoongnoen (สมภาร ปอสูงเนิน)
 1. Songsap Chinnapatpongsin (ทรงทรัพย์ ชินภัทรพงศ์สิน)
