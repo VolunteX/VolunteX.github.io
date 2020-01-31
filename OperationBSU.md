@@ -59,7 +59,7 @@
 1. Bovornrat  Tianpeng (บวรรัตน์ เทียนเพ็ง)
 1. Chaiwat  Paikrathok (ชัยวัฒน์ ไพกระโทก)
 1. Chaiyaporn Makkulchorn (ชัยพร มากกุญชร)
-1. Chanaphat Rodchaey (ชนาพัฒน์ รอดเฉย)
+1. Chanaphat Rodchaey (ชนาพัฒน์ รอดเฉย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Chanaphat-Rodchaey.pdf)]
 1. Cherdchai yimno (เชิดชัย ยิ้มน้อย)
 1. Chonthicha yongseng (ชลธิชา ย่งเส็ง)
 1. Chutima Ketsa (ชุติมา เกตุษา)
