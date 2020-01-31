@@ -121,7 +121,7 @@
 1. Sarawuth Vattanasri (สราวุธ วัฒนศรี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Sarawuth-Vattanasri.pdf)]
 1. Siwanat Ritbumrung (ศิวณัฐ ฤทธิ์บำรุง) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Siwanat-Ritbumrung.pdf)]
 1. Somparn Posoongnoen (สมภาร ปอสูงเนิน)
-1. Songsap Chinnapatpongsin (ทรงทรัพย์ ชินภัทรพงศ์สิน)
+1. Songsap Chinnapatpongsin (ทรงทรัพย์ ชินภัทรพงศ์สิน) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Songsap-Chinnapatpongsin.pdf)]
 1. Sudarat Hongha (สุดารัตน์ หงหา)
 1. Sukunya Rudtho (สุกัญญา รุดโถ)
 1. Surasilp Rojamornkul (สุรศิลป์ โรจน์อมรกุล) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Surasilp-Rojamornkul.pdf)]
