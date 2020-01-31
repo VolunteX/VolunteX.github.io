@@ -79,7 +79,7 @@
 1. Kornchanok Premsirisuthakorn (กรชนก เปรมสิริสุธากร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kornchanok-Premsirisuthakorn.pdf)]
 1. Krisada  Boonrod (กฤษฎา บุญรอด)
 1. Kritsada Thanya-udorn (กฤษฎา ธัญญอุดร) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kritsada-Thanya-udorn.pdf)]
-1. Kunawat Kasawattana (คุณาวัฒน์ เกสะวัฒนะ)
+1. Kunawat Kasawattana (คุณาวัฒน์ เกสะวัฒนะ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kunawat-Kasawattana.pdf)]
 1. Manop Khumkreng (มนพ คุ้มเกรง)
 1. Manurash Srisuklom (มนูรัช ศรีสุขล้อม)
 1. Marisa Kluayniem (มาริสา กล้วยเนียม) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Marisa-Kluayniem.pdf)]
