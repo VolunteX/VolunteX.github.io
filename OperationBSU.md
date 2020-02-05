@@ -127,7 +127,7 @@
 1. Surasilp Rojamornkul (สุรศิลป์ โรจน์อมรกุล) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Surasilp-Rojamornkul.pdf)]
 1. Surattisak Tupkrut (สุรัติศักดิ์ ทับครุธ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Surattisak-Tupkrut.pdf)]
 1. Suwanna Homlert (สุวรรณา หอมเลิศ)
-1. Tanakorn Manchitt (ธนกร มั่นจิตต์)
+1. Tanakorn Manchitt (ธนกร มั่นจิตต์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Tanakorn-Manchitt.pdf)]
 1. Thanapat Yammeechao (ธนภัทร​ แย้มมีเชาว์)
 1. Thanapol Thananchai (ธนาพล ทะนันชัย)
 1. Thanawat Taweechoktiwavan (ธนวัต ทวีโชคทิวาวรรณ)
