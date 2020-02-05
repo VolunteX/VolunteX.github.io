@@ -67,7 +67,7 @@
 1. Janthip Klomkaew (จันทร์ทิพย์ กล่อมแก้ว)
 1. Jaras Danprakorn (จรัส แดนประกรณ์)
 1. Jirasak Phon-att (จิรศักดิ์ ผลอรรถ) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Jirasak-Phon-att.pdf)]
-1. Jiratheep Saksri (นายจิรทีปต์ ศักดิ์ศรี)
+1. Jiratheep Saksri (นายจิรทีปต์ ศักดิ์ศรี) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Jiratheep-Saksri.pdf)]
 1. Kanokwan Hanthongchai (กนกวรรณ หาญธงไชย) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kanokwan-Hanthongchai.pdf)]
 1. Kanyarat Chonchee (กัญญารัตน์ ชลชี)
 1. Kanyarat Lowkaew (กัญญารัตน์ โหลแก้ว) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Kanyarat-Lowkaew.pdf)]
