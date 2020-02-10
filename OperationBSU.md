@@ -134,7 +134,7 @@
 1. Thanyaluck Naklang (ธัญญลักษณ์ หนากลาง)
 1. Thitipum Hoydokhom (ฐิติภูมิ ห้อยดอกหอม) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Thitipum-Hoydokhom.pdf)]
 1. Top Tungvicha (ท๊อป ถุงวิชา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Top-Tungvicha.pdf)]
-1. Warawit Navasuchinda (วรวิช นวสุจินดา)
+1. Warawit Navasuchinda (วรวิช นวสุจินดา) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Warawit-Navasuchinda.pdf)]
 1. Warunee  Nanjing (วารุณี นวลจันทร์)
 1. Weerapon Saywon (วีระพล สายวรณ์) [[Cert](OperationBSU/attendance/VXOpBSU-20200126-Weerapon-Saywon.pdf)]
 1. Weerasak Boonmee (วีระศักดิ์ บุญมี)
