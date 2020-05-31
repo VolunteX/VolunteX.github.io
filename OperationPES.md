@@ -7,7 +7,7 @@
 
 ### Certificate of Completion
 
-1. John Doe (จอห์น โด) [[Cert](OperationBSU/attendance/VXOpPES-20200126-Apinut-Pannok.pdf)]
+1. John Doe (จอห์น โด) [[Cert](OperationBSU/attendance/VXOpPES-20200612-John-Doe.pdf)]
 
 ### Contributor[s]
 
