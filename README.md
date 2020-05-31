@@ -1,7 +1,7 @@
 ## Voluntary eXchange of Thailand #VolunteXTH
 
 + IWD2021 : (Monday) March 8, 2021
-+ [#OperationPES](OperationPES) : #LearnToCode Online : Pathum Thani Primary Educational Service Area 1
++ [#OperationPES](OperationPES) : #LearnToCode Online : Pathum Thani Primary Educational Service (1)
 + [#OperationBSU](OperationBSU) : #NewGradChallenge Workshop on January 26, 2020
 + [#OperationCPU](OperationCPU) : "Digital Innovation Workshop" on April 28, 2019
 + #OperationKMUTNB : "Secure Software Development Workshop" on January 27 , 2019
