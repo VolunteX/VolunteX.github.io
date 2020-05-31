@@ -1,4 +1,4 @@
-## #OperationPES : Pathum Thani Primary Educational Service (Area 1)
+## #OperationPES : "#LearnToCode Online" for Pathum Thani Primary Educational Service (Area 1)
 
 + Date : (Fri) June 12, 2020
 + Venue : [Virtual Event](https://qrgo.page.link/6vfJu)
