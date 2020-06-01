@@ -15,8 +15,8 @@ for Pathum Thani Primary Educational Service (Area 1)
 1. [John Doe](/OperationPES/VXOpPES-20200612-John-Doe.pdf) (จอห์น โด) [[➳](#)]
 
 ### Operation Facilitator
-+ [Chutirut-Prasongmanee](/OperationPES/VXOpPES-20200612-Chutirut-Prasongmanee.pdf) (ชุติรัตน์ ประสงค์มณี) [[➳](https://www.facebook.com/chutirut.prasongmanee.7)]
 + [Vasu Dabbaransi](/OperationPES/VXOpPES-20200612-Vasu-Dabbaransi.pdf) (วสุ ทัพพะรังสี) [[➳](https://web.facebook.com/news.daisy)]
++ [Chutirut-Prasongmanee](/OperationPES/VXOpPES-20200612-Chutirut-Prasongmanee.pdf) (ชุติรัตน์ ประสงค์มณี) [[➳](https://www.facebook.com/chutirut.prasongmanee.7)]
 
 ### Operation Enabler
 + [John Doe](/OperationPES/VXOpPES-20200612-John-Doe.pdf) (จอห์น โด) [[➳](https://www.facebook.com/chutirut.prasongmanee.7)]
