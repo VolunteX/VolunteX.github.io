@@ -16,7 +16,7 @@ for Pathum Thani Primary Educational Service (Area 1)
 
 ### Operation Facilitator
 + [Vasu Dabbaransi](/OperationPES/VXOpPES-20200612-Vasu-Dabbaransi.pdf) (วสุ ทัพพะรังสี) [[➳](https://web.facebook.com/news.daisy)]
-+ [Chutirut-Prasongmanee](/OperationPES/VXOpPES-20200612-Chutirut-Prasongmanee.pdf) (ชุติรัตน์ ประสงค์มณี) [[➳](https://www.facebook.com/chutirut.prasongmanee.7)]
++ [Chutirut Prasongmanee](/OperationPES/VXOpPES-20200612-Chutirut-Prasongmanee.pdf) (ชุติรัตน์ ประสงค์มณี) [[➳](https://www.facebook.com/chutirut.prasongmanee.7)]
 
 ### Operation Enabler
 + [National Science and Technology Development Agency](http://nstda.or.th)
