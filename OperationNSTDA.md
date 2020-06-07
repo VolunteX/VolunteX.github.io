@@ -1,5 +1,5 @@
 ## #OperationNSTDA : "#LearnToCode Online" 
-*For **Pathum Thani Primary Educational Service (Area 1)** *
+*For* ***Pathum Thani Primary Educational Service (Area 1)***
 
 + Date : **(Friday) June 12, 2020**
 + Venue : **[Virtual Event]**
