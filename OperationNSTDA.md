@@ -12,7 +12,7 @@
 + [National Science and Technology Development Agency](http://nstda.or.th)
 + [The Office of Pathum Thani Primary Educational Service (Area 1)](http://www.pathum1.go.th)
 
-### Official Sponsor
+### Official Supporter
 [![](/OperationNSTDA/pics/ARIT-logo.png "ARIT Co., Ltd.")](https://www.arit.co.th/)
 
 ### Operation Leader
