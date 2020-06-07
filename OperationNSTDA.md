@@ -19,7 +19,7 @@ for Pathum Thani Primary Educational Service (Area 1)
 + [The Office of Pathum Thani Primary Educational Service (Area 1)](http://www.pathum1.go.th)
 
 ### Official Sponsor
-+ [John Doe](/OperationNSTDA/VXOpNSTDA-20200612-John-Doe.pdf) (จอห์น โด) [[➳](https://www.facebook.com/chutirut.prasongmanee.7)]
++ [ARIT Co., Ltd.](https://www.arit.co.th/)
 
 ### Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
