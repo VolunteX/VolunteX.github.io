@@ -21,6 +21,6 @@ for Pathum Thani Primary Educational Service (Area 1)
 ### Official Sponsor
 + [John Doe](/OperationNSTDA/VXOpNSTDA-20200612-John-Doe.pdf) (จอห์น โด) [[➳](https://www.facebook.com/chutirut.prasongmanee.7)]
 
-### Operation Leader
+### Operation Leader(s)
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 + Sakchai Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
