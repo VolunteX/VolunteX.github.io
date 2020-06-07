@@ -19,7 +19,7 @@
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 
 ### Contributor[s]
-1. [Sakchai Chaiyarak](/OperationBSU/VXOpBSU-20200126-Sakchai-Chaiyarak.pdf) (ศักดิ์ชัย ไชยรักษ์) **#DICT9** [[➳](https://www.facebook.com/chaiyaraks)]
+1. [Sakchai Chaiyarak](/OperationBSU/VXOpBSU-20200126-Sakchai-Chaiyarak.pdf) (ศักดิ์ชัย ไชยรักษ์) **DICT9-KMUTNB** [[➳](https://www.facebook.com/chaiyaraks)]
 1. [Thitaree Kularjsee](/OperationBSU/VXOpBSU-20200126-Thitaree-Kularjsee.pdf) (ฐิตารีย์ กุลอาจศรี) **#NewGenMVP** [[➳](https://www.facebook.com/yaipanggogii)]
 
 ### Certificate of Completion
