@@ -4,8 +4,6 @@ for Pathum Thani Primary Educational Service (Area 1)
 + Date : (Fri) June 12, 2020
 + Venue : [Virtual Event]
 
-[![](/OperationNSTDA/AfterTheMatch.jpg "#OperationNSTDA")](#)
-
 ### Contributor[s]
 1. [Sakchai Chaiyarak](/OperationBSU/VXOpBSU-20200126-Sakchai-Chaiyarak.pdf) (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)] #DICT9
 1. [Thitaree Kularjsee](/OperationBSU/VXOpBSU-20200126-Thitaree-Kularjsee.pdf) (ฐิตารีย์ กุลอาจศรี) [[➳](https://www.facebook.com/yaipanggogii)] #NewGenMVP
