@@ -2,7 +2,7 @@
 *For* ***Pathum Thani Primary Educational Service (Area 1)***
 
 + Date : **(Friday) June 12, 2020**
-+ Venue : **Virtual Event : [https://mayk.in/LearnToCode] (https://meet.google.com/fsd-code-jiw)**
++ Venue : **Virtual Event [Google Meet] : [https://mayk.in/LearnToCode](https://meet.google.com/fsd-code-jiw)**
 
 ### Operation Facilitator
 + [Vasu Dabbaransi](/OperationNSTDA/VXOpNSTDA-20200612-Vasu-Dabbaransi.pdf) (วสุ ทัพพะรังสี) [[➳](https://web.facebook.com/news.daisy)]
