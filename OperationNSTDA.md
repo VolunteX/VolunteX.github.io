@@ -19,8 +19,9 @@
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 
 ### Contributor[s]
-1. [Sakchai Chaiyarak](/OperationBSU/VXOpBSU-20200126-Sakchai-Chaiyarak.pdf) (ศักดิ์ชัย ไชยรักษ์) **DICT9-KMUTNB** [[➳](https://www.facebook.com/chaiyaraks)]
-1. [Thitaree Kularjsee](/OperationBSU/VXOpBSU-20200126-Thitaree-Kularjsee.pdf) (ฐิตารีย์ กุลอาจศรี) **#NewGenMVP** [[➳](https://www.facebook.com/yaipanggogii)]
+1. [Sakchai Chaiyarak](/OperationNSTDA/VXOpNSTDA-20200612-Sakchai-Chaiyarak.pdf) (ศักดิ์ชัย ไชยรักษ์) **DICT9-KMUTNB** [[➳](https://www.facebook.com/chaiyaraks)]
+1. [Thitaree Kularjsee](/OperationNSTDA/VXOpNSTDA-20200612-Thitaree-Kularjsee.pdf) (ฐิตารีย์ กุลอาจศรี) **#NewGenMVP** [[➳](https://www.facebook.com/yaipanggogii)]
+1. [Hatsaya Sae-Chua](/OperationNSTDA/VXOpNSTDA-20200612-Hatsaya-Sae-Chua.pdf) (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/Note.Hatsaya)]
 
 ### Certificate of Completion
 1. John Doe (จอห์น โด) [[Cert](OperationNSTDA/attendance/VXOpNSTDA-20200612-John-Doe.pdf)]
