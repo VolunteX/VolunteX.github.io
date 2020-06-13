@@ -19,8 +19,8 @@
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 
 ### Contributor[s]
-1. [Sakchai Chaiyarak](/OperationNSTDA/VXOpNSTDA-20200612-Sakchai-Chaiyarak.pdf) (ศักดิ์ชัย ไชยรักษ์) **DICT9-KMUTNB** [[➳](https://www.facebook.com/chaiyaraks)]
-1. [Thitaree Kularjsee](/OperationNSTDA/VXOpNSTDA-20200612-Thitaree-Kularjsee.pdf) (ฐิตารีย์ กุลอาจศรี) **#NewGenMVP** [[➳](https://www.facebook.com/yaipanggogii)]
+1. [Sakchai Chaiyarak](/OperationNSTDA/VXOpNSTDA-20200612-Sakchai-Chaiyarak.pdf) (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
+1. [Thitaree Kularjsee](/OperationNSTDA/VXOpNSTDA-20200612-Thitaree-Kularjsee.pdf) (ฐิตารีย์ กุลอาจศรี) [[➳](https://www.facebook.com/yaipanggogii)]
 1. [Hatsaya Sae-Chua](/OperationNSTDA/VXOpNSTDA-20200612-Hatsaya-Sae-Chua.pdf) (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/profile.php?id=100005176634024)]
 
 ### Certificate of Completion
