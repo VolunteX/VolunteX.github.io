@@ -24,4 +24,4 @@
 1. [Hatsaya Sae-Chua](/OperationNSTDA/VXOpNSTDA-20200612-Hatsaya-Sae-Chua.pdf) (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/profile.php?id=100005176634024)]
 
 ### Certificate of Completion
-1. John Doe (จอห์น โด) [[Cert](OperationNSTDA/attendance/VXOpNSTDA-20200612-John-Doe.pdf)]
+1. Siwaporn Linthaluek (ศิวพร ลินทะลึก) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Siwaporn-Linthaluek.pdf)]
