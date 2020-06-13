@@ -15,7 +15,7 @@
 1. [Pemika Limpittaya](/OperationBSU/VXOpBSU-20200126-Pemika-Limpittaya.pdf) (เปมิกา ลิ้มพิทยา) [[➳](https://www.facebook.com/tourlek.fisho)]
 1. [Sommanut Ketpong](/OperationBSU/VXOpBSU-20200126-Sommanut-Ketpong.pdf) (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 1. [Natthavee Phetbunphen](/OperationBSU/VXOpBSU-20200126-Natthavee-Phetbunphen.pdf) (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
-1. [Hatsaya Sae-Chua](/OperationBSU/VXOpBSU-20200126-Hatsaya-Sae-Chua.pdf) (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/Note.Hatsaya)]
+1. [Hatsaya Sae-Chua](/OperationBSU/VXOpBSU-20200126-Hatsaya-Sae-Chua.pdf) (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/profile.php?id=100005176634024)]
 1. [Somrut Chetnuch](/OperationBSU/VXOpBSU-20200126-Somrut-Chetnuch.pdf) (สมรัฐ เชตนุช) [[➳](https://www.facebook.com/somrut.chetnuch)]
 1. [Taweechai Sermsawang](/OperationBSU/VXOpBSU-20200126-Taweechai-Sermsawang.pdf) (ทวีชัย เสริมสว่าง) [[➳](https://www.facebook.com/victor.history)]
 1. [Sakchai Chaiyarak](/OperationBSU/VXOpBSU-20200126-Sakchai-Chaiyarak.pdf) (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
