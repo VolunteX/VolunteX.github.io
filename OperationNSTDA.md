@@ -65,5 +65,5 @@
 ![](/OperationNSTDA/photo/Sunanta-Panyarat-2.jpg "Khun Sunanta Panyarat")
 ![](/OperationNSTDA/photo/Unchulee-Suwattana.jpg "Khun Unchulee Suwattana")
 ![](/OperationNSTDA/photo/Naphong-Wannapiroon.jpg "Khun Naphong Wannapiroon")
-![](/OperationNSTDA/photo/Atis-kucharoenthavorn.jpg "Khun Atis kucharoenthavorn")
+![](/OperationNSTDA/photo/Atis-Kucharoenthavorn.jpg "Khun Atis Kucharoenthavorn")
 
