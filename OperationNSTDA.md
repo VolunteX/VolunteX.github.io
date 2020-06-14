@@ -44,3 +44,6 @@
 ![](/OperationNSTDA/photo/Waraporn-Pongpalad.jpg "Khun Waraporn Pongpalad")
 ![](/OperationNSTDA/photo/Waraporn-Pongpalad.jpg "Khun Thanyaporn-Rujichob")
 ![](/OperationNSTDA/photo/Waraporn-Pongpalad.jpg "Khun Thanyaporn-Rujichob")
+![](/OperationNSTDA/photo/Duangporn-Ketmanee-Parichat-1.jpg "Khun Duangporn, Khun Ketmanee & Khun Parichat")
+![](/OperationNSTDA/photo/Duangporn-Ketmanee-Parichat-2.jpg "Khun Duangporn, Khun Ketmanee & Khun Parichat")
+![](/OperationNSTDA/photo/Duangporn-Ketmanee-Parichat-3.jpg "Khun Duangporn, Khun Ketmanee & Khun Parichat")
