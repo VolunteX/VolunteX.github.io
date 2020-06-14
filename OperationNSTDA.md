@@ -30,6 +30,8 @@
 + Mathuwan Srikong (มธุวัลย์ ศรีคง) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Mathuwan-Srikong.pdf)]
 + Ubonrat Sangsamran (อุบลรัตน์ สังข์สำราญ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Ubonrat-Sangsamran.pdf)]
 + Benjamas Potikamphon (เบญจมาศ โพธิกำพล) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Benjamas-Potikamphon.pdf)]
++ Waraporn Pongpalad (วราพร พงษ์ปลัด) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Waraporn-Pongpalad.pdf)]
+
 
 ### Memories of this Operation
 
