@@ -32,6 +32,9 @@
 + Benjamas Potikamphon (เบญจมาศ โพธิกำพล) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Benjamas-Potikamphon.pdf)]
 + Waraporn Pongpalad (วราพร พงษ์ปลัด) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Waraporn-Pongpalad.pdf)]
 + Thanyaporn Rujichob (ธัญญาภรณ์ รุจิชอบ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Thanyaporn-Rujichob.pdf)]
++ Duangporn Gorprasranwit (ดวงพร ก่อประศาสน์วิทย์) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Duangporn-Gorprasranwit.pdf)]
++ Ketmanee Ratrongtai (เกษมณี รัตน์รองใต้)
++ Parichat Satamnuay (ปาริชาติ ศาสตร์อำนวย)
 
 
 ### Memories of this Operation
