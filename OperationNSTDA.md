@@ -39,6 +39,7 @@
 + Manatsanan Sirisomboon (มนัสนันท์ ศิริสมบูรณ์) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Manatsanan-Sirisomboon.pdf)]
 + Watusiri Buasa (วธูสิริ บัวสระ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Watusiri-Buasa.pdf)]
 + Nantiporn Namkot (นันทิพร นามโคตร) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Nantiporn-Namkot.pdf)]
++ Sunanta Panyarat (สุนันทา ปัญญารัตน์)
 
 ### Memories of this Operation
 
@@ -57,4 +58,6 @@
 ![](/OperationNSTDA/photo/Manatsanan-Sirisomboon.jpg "Khun Manatsanan Sirisomboon")
 ![](/OperationNSTDA/photo/Watusiri-Buasa.jpg "Khun Watusiri Buasa")
 ![](/OperationNSTDA/photo/Nantiporn-Namkot.jpg "Khun Nantiporn Namkot")
+![](/OperationNSTDA/photo/Sunanta-Panyarat-1.jpg "Khun Sunanta Panyarat")
+![](/OperationNSTDA/photo/Sunanta-Panyarat-2.jpg "Khun Sunanta Panyarat")
 
