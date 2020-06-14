@@ -43,6 +43,7 @@
 + Unchulee Suwattana (อัญชุลี สุวัฑฒน) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Unchulee-Suwattana.pdf)]
 + Naphong Wannapiroon (ณพงศ์ วรรณพิรุณ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Naphong-Wannapiroon.pdf)]
 + Atis Kucharoenthavorn (อธิษฐ์ คู่เจริญถาวร) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Atis-Kucharoenthavorn.pdf)]
++ Sarawut Nimrasri (สราวุฒิ นิ่มราศรี) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Sarawut-Nimrasri.pdf)]
 
 ### Memories of this Operation
 
