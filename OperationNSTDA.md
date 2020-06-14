@@ -70,6 +70,7 @@
 ![](/OperationNSTDA/photo/Atis-Kucharoenthavorn.jpg "Khun Atis Kucharoenthavorn")
 ![](/OperationNSTDA/photo/Sarawut-Nimrasri.jpg "Khun Sarawut Nimrasri")
 ![](/OperationNSTDA/photo/Supatchar-Junsawang.jpg "Khun Supatchar Junsawang")
+![](/OperationNSTDA/photo/AfterTheMatch.jpg "After the Match")
 
 
 
