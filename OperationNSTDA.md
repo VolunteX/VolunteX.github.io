@@ -32,6 +32,7 @@
 
 ### Memories of this Operation
 
+![](/OperationNSTDA/photo/During.jpg "Credit: Khun Siwaporn Linthaluek")
 ![](/OperationNSTDA/photo/Siwaporn-Linthaluek.jpg "Khun Siwaporn Linthaluek")
 ![](/OperationNSTDA/photo/Mathuwan-Srikong.jpg "Khun Mathuwan Srikong")
 ![](/OperationNSTDA/photo/Ubonrat-Sangsamran.jpg "Khun Ubonrat Sangsamran")
