@@ -52,3 +52,8 @@
 ![](/OperationNSTDA/photo/Duangporn-Ketmanee-Parichat-1.jpg "Khun Duangporn, Khun Ketmanee & Khun Parichat")
 ![](/OperationNSTDA/photo/Duangporn-Ketmanee-Parichat-2.jpg "Khun Duangporn, Khun Ketmanee & Khun Parichat")
 ![](/OperationNSTDA/photo/Duangporn-Ketmanee-Parichat-3.jpg "Khun Duangporn, Khun Ketmanee & Khun Parichat")
+![](/OperationNSTDA/photo/Somporn-Oomyart.jpg "Khun Somporn Oomyart")
+![](/OperationNSTDA/photo/Manatsanan-Sirisomboon.jpg "Khun Manatsanan Sirisomboon")
+![](/OperationNSTDA/photo/Watusiri-Buasa.jpg "Khun Watusiri Buasa")
+
+
