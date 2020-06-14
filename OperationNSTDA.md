@@ -42,6 +42,7 @@
 + Sunanta Panyarat (สุนันทา ปัญญารัตน์) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Sunanta-Panyarat.pdf)]
 + Unchulee Suwattana (อัญชุลี สุวัฑฒน) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Unchulee-Suwattana.pdf)]
 + Naphong Wannapiroon (ณพงศ์ วรรณพิรุณ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Naphong-Wannapiroon.pdf)]
++ Atis kucharoenthavorn (อธิษฐ์ คู่เจริญถาวร)
 
 ### Memories of this Operation
 
