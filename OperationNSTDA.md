@@ -4,6 +4,8 @@
 + Date : **(Friday) June 12, 2020**
 + Venue : **Virtual Event** : [***[https://mayk.in/LearnToCode](https://meet.google.com/fsd-code-jiw)***]
 
+![](/OperationNSTDA/photo/Poster.jpg "Credit: Khun Siwaporn Linthaluek")
+
 ### Operation Facilitator
 + [Vasu Dabbaransi](/OperationNSTDA/VXOpNSTDA-20200612-Vasu-Dabbaransi.pdf) (วสุ ทัพพะรังสี) [[➳](https://web.facebook.com/news.daisy)]
 + [Chutirut Prasongmanee](/OperationNSTDA/VXOpNSTDA-20200612-Chutirut-Prasongmanee.pdf) (ชุติรัตน์ ประสงค์มณี) [[➳](https://www.facebook.com/chutirut.prasongmanee.7)]
