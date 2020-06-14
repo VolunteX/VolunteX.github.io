@@ -55,5 +55,5 @@
 ![](/OperationNSTDA/photo/Somporn-Oomyart.jpg "Khun Somporn Oomyart")
 ![](/OperationNSTDA/photo/Manatsanan-Sirisomboon.jpg "Khun Manatsanan Sirisomboon")
 ![](/OperationNSTDA/photo/Watusiri-Buasa.jpg "Khun Watusiri Buasa")
-
+![](/OperationNSTDA/photo/Nantiporn-Namkot.jpg "Khun Nantiporn Namkot")
 
