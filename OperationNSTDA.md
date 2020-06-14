@@ -29,6 +29,7 @@
 + Siwaporn Linthaluek (ศิวพร ลินทะลึก) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Siwaporn-Linthaluek.pdf)]
 + Mathuwan Srikong (มธุวัลย์ ศรีคง) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Mathuwan-Srikong.pdf)]
 + Ubonrat Sangsamran (อุบลรัตน์ สังข์สำราญ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Ubonrat-Sangsamran.pdf)]
++ Benjamas Potikamphon (เบญจมาศ โพธิกำพล) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Benjamas-Potikamphon.pdf)]
 
 ### Memories of this Operation
 
@@ -36,3 +37,4 @@
 ![](/OperationNSTDA/photo/Siwaporn-Linthaluek.jpg "Khun Siwaporn Linthaluek")
 ![](/OperationNSTDA/photo/Mathuwan-Srikong.jpg "Khun Mathuwan Srikong")
 ![](/OperationNSTDA/photo/Ubonrat-Sangsamran.jpg "Khun Ubonrat Sangsamran")
+![](/OperationNSTDA/photo/Benjamas-Potikamphon.jpg "Khun Benjamas Potikamphon")
