@@ -44,6 +44,7 @@
 + Naphong Wannapiroon (ณพงศ์ วรรณพิรุณ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Naphong-Wannapiroon.pdf)]
 + Atis Kucharoenthavorn (อธิษฐ์ คู่เจริญถาวร) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Atis-Kucharoenthavorn.pdf)]
 + Sarawut Nimrasri (สราวุฒิ นิ่มราศรี) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Sarawut-Nimrasri.pdf)]
++ Supatchar Junsawang (สุภัชชา จันทร์สว่าง) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Supatchar-Junsawang.pdf)]
 
 ### Memories of this Operation
 
@@ -68,6 +69,7 @@
 ![](/OperationNSTDA/photo/Naphong-Wannapiroon.jpg "Khun Naphong Wannapiroon")
 ![](/OperationNSTDA/photo/Atis-Kucharoenthavorn.jpg "Khun Atis Kucharoenthavorn")
 ![](/OperationNSTDA/photo/Sarawut-Nimrasri.jpg "Khun Sarawut Nimrasri")
+![](/OperationNSTDA/photo/Supatchar-Junsawang.jpg "Khun Supatchar Junsawang")
 
 
 
