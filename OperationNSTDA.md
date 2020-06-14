@@ -41,6 +41,7 @@
 + Nantiporn Namkot (นันทิพร นามโคตร) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Nantiporn-Namkot.pdf)]
 + Sunanta Panyarat (สุนันทา ปัญญารัตน์) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Sunanta-Panyarat.pdf)]
 + Unchulee Suwattana (อัญชุลี สุวัฑฒน) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Unchulee-Suwattana.pdf)]
++ Naphong Wannapiroon (ณพงศ์ วรรณพิรุณ)
 
 ### Memories of this Operation
 
@@ -62,4 +63,5 @@
 ![](/OperationNSTDA/photo/Sunanta-Panyarat-1.jpg "Khun Sunanta Panyarat")
 ![](/OperationNSTDA/photo/Sunanta-Panyarat-2.jpg "Khun Sunanta Panyarat")
 ![](/OperationNSTDA/photo/Unchulee-Suwattana.jpg "Khun Unchulee Suwattana")
+![](/OperationNSTDA/photo/Naphong-Wannapiroon.jpg "Khun Naphong Wannapiroon")
 
