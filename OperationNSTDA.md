@@ -30,4 +30,4 @@
 
 ### Memories of this Operation
 
-[![](/OperationNSTDA/photo/UbonratSangsamran.jpg "Khun Ubonrat Sangsamran")]
+![](/OperationNSTDA/photo/UbonratSangsamran.jpg "Khun Ubonrat Sangsamran")
