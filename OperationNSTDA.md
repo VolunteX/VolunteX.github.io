@@ -38,6 +38,7 @@
 + Somporn Oomyart (สมพร อุ้มญาติ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Somporn-Oomyart.pdf)]
 + Manatsanan Sirisomboon (มนัสนันท์ ศิริสมบูรณ์) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Manatsanan-Sirisomboon.pdf)]
 + Watusiri Buasa (วธูสิริ บัวสระ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Watusiri-Buasa.pdf)]
++ Nantiporn Namkot (นันทิพร นามโคตร) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Nantiporn-Namkot.pdf)]
 
 ### Memories of this Operation
 
