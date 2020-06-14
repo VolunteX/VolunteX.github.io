@@ -35,9 +35,9 @@
 + Duangporn Gorprasranwit (ดวงพร ก่อประศาสน์วิทย์) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Duangporn-Gorprasranwit.pdf)]
 + Ketmanee Ratrongtai (เกษมณี รัตน์รองใต้) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Ketmanee-Ratrongtai.pdf)]
 + Parichat Satamnuay (ปาริชาติ ศาสตร์อำนวย) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Parichat-Satamnuay.pdf)]
-+ Somporn Oomyart (สมพร อุ้มญาติ)
-+ Manatsanan Sirisomboon (มนัสนันท์ ศิริสมบูรณ์)
-+ Watusiri Buasa (วธูสิริ บัวสระ)
++ Somporn Oomyart (สมพร อุ้มญาติ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Somporn-Oomyart.pdf)]
++ Manatsanan Sirisomboon (มนัสนันท์ ศิริสมบูรณ์) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Manatsanan-Sirisomboon.pdf)]
++ Watusiri Buasa (วธูสิริ บัวสระ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Watusiri-Buasa.pdf)]
 
 ### Memories of this Operation
 
