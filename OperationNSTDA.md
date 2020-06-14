@@ -31,6 +31,7 @@
 + Ubonrat Sangsamran (อุบลรัตน์ สังข์สำราญ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Ubonrat-Sangsamran.pdf)]
 + Benjamas Potikamphon (เบญจมาศ โพธิกำพล) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Benjamas-Potikamphon.pdf)]
 + Waraporn Pongpalad (วราพร พงษ์ปลัด) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Waraporn-Pongpalad.pdf)]
++ Thanyaporn Rujichob (ธัญญาภรณ์ รุจิชอบ) [[Cert](OperationNSTDA/cert/VXOpNSTDA-20200612-Thanyaporn-Rujichob.pdf)]
 
 
 ### Memories of this Operation
@@ -41,3 +42,5 @@
 ![](/OperationNSTDA/photo/Ubonrat-Sangsamran.jpg "Khun Ubonrat Sangsamran")
 ![](/OperationNSTDA/photo/Benjamas-Potikamphon.jpg "Khun Benjamas Potikamphon")
 ![](/OperationNSTDA/photo/Waraporn-Pongpalad.jpg "Khun Waraporn Pongpalad")
+![](/OperationNSTDA/photo/Waraporn-Pongpalad.jpg "Khun Thanyaporn-Rujichob")
+![](/OperationNSTDA/photo/Waraporn-Pongpalad.jpg "Khun Thanyaporn-Rujichob")
