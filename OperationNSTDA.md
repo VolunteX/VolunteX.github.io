@@ -72,4 +72,4 @@
 ![](/OperationNSTDA/photo/Supatchar-Junsawang.jpg "Khun Supatchar Junsawang")
 ![](/OperationNSTDA/photo/AfterTheMatch.jpg "After the Match")
 
-([Video on Youtube](https://youtu.be/KuXVaCFCQiI))
+::: ([Video on Youtube](https://youtu.be/KuXVaCFCQiI)) :::
