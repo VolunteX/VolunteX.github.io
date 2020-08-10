@@ -18,6 +18,6 @@ https://fb.me/VolunteXTH
 
 [![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Let @VolunteXTH be your friend")](https://lin.ee/cnIgUj4)
 
-[![](/fb-m.png "Talk w/ us via FB messenger")](https://m.me/VolunteXTH)
+[![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
 
 [![](/@VolunteXTH.png "Let @VolunteXTH be your friend")](https://lin.ee/cnIgUj4)
