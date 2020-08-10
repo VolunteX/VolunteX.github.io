@@ -24,6 +24,6 @@
 
 1. John Doe (John Doe)
 
-[![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
+[![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
 
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
