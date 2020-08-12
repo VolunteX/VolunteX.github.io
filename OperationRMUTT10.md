@@ -14,6 +14,9 @@
 1. Ongart Visarnpat (องอาจ วิสาลพัธน์) [[➳](https://www.facebook.com/profile.php?id=100001047251442)]
 1. Pattama Thongprapai (ปัทมา ทองประไพ) [[➳](https://www.facebook.com/pattama.thongprapai)]
 1. Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
+1. Pattira Namkate (ภัททิรา นามเกตุ) [[➳](https://www.facebook.com/baitoeyJa)]
+1. Dawaree Photong (ด๊ะวรี โพทอง) [[➳](https://www.facebook.com/bced.kmutnb)]
+1. Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)]
 
 ## Operation Facilitator
 + Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
