@@ -1,5 +1,4 @@
 ## Voluntary eXchange of Thailand #VolunteXTH
-### (previously #InfoSecEvangelist)
 
 + IWD2021 : (Monday) March 8, 2021
 + [#OperationRMUTT10](OperationRMUTT10) : #NewGradChallenge (AI+Security) on September 19, 2020
