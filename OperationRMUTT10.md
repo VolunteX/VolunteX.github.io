@@ -1,4 +1,4 @@
-## #OperationRMUTT10 : #NewGradChallenge Workshop (AI+Security)
+## #OperationRMUTT10 : #NewGradChallenge (AI+Security) Workshop 
 
 + Date : (Sat) September 19, 2020
 + Venue : [Faculty of Science and Technology, RMUTT](http://www.sci.rmutt.ac.th/)
