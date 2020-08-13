@@ -8,13 +8,11 @@
 1. Siraphum Pechto (สิรภูมิ เพ็ชรโต) [[➳](https://www.facebook.com/SiraphumPechto)]
 1. Angkarn Pummarin (อังคาร ภุมรินทร์) [[➳](https://www.facebook.com/in8l00p)]
 1. Pemika Limpittaya(เปมิกา ลิ้มพิทยา) [[➳](https://www.facebook.com/tourlek.fisho)]
-1. Sommanut Ketpong(สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 1. Somyote Utayapanalee (สมยศ อุทยาพนาลี) [[➳](https://www.facebook.com/yote.utaya)]
 1. Sirisak Ketkaew (ศิริศักดิ์ เกตุแก้ว) [[➳](https://www.facebook.com/sirisak.k94)]
 1. Hatsaya Sae-Chua (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/profile.php?id=100005176634024)]
 1. Ongart Visarnpat (องอาจ วิสาลพัธน์) [[➳](https://www.facebook.com/profile.php?id=100001047251442)]
 1. Pattama Thongprapai (ปัทมา ทองประไพ) [[➳](https://www.facebook.com/pattama.thongprapai)]
-1. Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
 1. Pattira Namkate (ภัททิรา นามเกตุ) [[➳](https://www.facebook.com/baitoeyJa)]
 1. Dawaree Photong (ด๊ะวรี โพทอง) [[➳](https://www.facebook.com/bced.kmutnb)]
 1. Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)]
@@ -30,6 +28,9 @@
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
++ Sommanut Ketpong(สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
++ Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
+
 
 ### Audiences
 
