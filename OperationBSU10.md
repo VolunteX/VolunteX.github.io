@@ -1,6 +1,6 @@
 ## #OperationBSU10 : #HourOfCode
 
-+ Date : (Sat) September 19, 2020
++ Date : (Sat) September 5, 2020
 + Venue : [Bangkok Suvarnabhumi University](http://www.bsu.ac.th/)
 
 ## Contributor[s]
