@@ -2,6 +2,7 @@
 
 + IWD2021 : (Monday) March 8, 2021
 + [#OperationRMUTT10](OperationRMUTT10) : #NewGradChallenge (AI+Security) on September 19, 2020
++ [#OperationBSU10](OperationBSU10) : #HourOfCode on September 5, 2020
 + [#OperationNSTDA](OperationNSTDA) : #LearnToCode Online : Virtual Event on June 12, 2020
 + [#OperationBSU](OperationBSU) : #NewGradChallenge Workshop on January 26, 2020
 + [#OperationCPU](OperationCPU) : "Digital Innovation Workshop" on April 28, 2019
