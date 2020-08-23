@@ -37,7 +37,7 @@
 
 1. John Doe (John Doe)
 
-### Become a Supporter
+## Become a Supporter
 
 [![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
 
