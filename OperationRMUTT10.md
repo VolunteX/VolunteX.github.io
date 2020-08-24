@@ -38,7 +38,7 @@
 1. John Doe (John Doe)
 
 ```markdown
-Let's volunteer to make an impact together.
+Let's volunteer to make an impact together!
 ```
 
 ## Become a Supporter
