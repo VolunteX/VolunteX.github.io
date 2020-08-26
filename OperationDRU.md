@@ -8,8 +8,8 @@
 ## Contributor[s]
 1. Chonlatit Rujiphut (ชลทิตย์ รุจิพืช) [[➳](https://www.facebook.com/Tsunakun27)]
 1. Pongsak Yodjai (พงษ์ศักดิ์ ยอดใจ) [[➳](https://www.facebook.com/iampongsak)]
-1.
-1.
+1. xxx
+1. xxx
 
 ## Operation Facilitator
 + O (โอ) [[➳](https://www.facebook.com/oooo)]
