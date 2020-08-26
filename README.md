@@ -8,7 +8,7 @@
 + [#OperationCPU](OperationCPU) : "Digital Innovation Workshop" on April 28, 2019
 + [#OperationKMUTNB](https://www.facebook.com/hashtag/OperationKMUTNB) : "Secure Software Development Workshop" on January 27, 2019
 + [#OperationNorthBkk](https://www.facebook.com/hashtag/OperationNorthBkk) : "Digital Innovation Workshop" on December 09, 2018 
-+ #ThaiLao #HourOfCode on July 14, 2018
++ Operation #ThaiLao : #HourOfCode on July 14, 2018
 + [#OperationRMUTT](https://youtu.be/9-vCHJvjWBU) : "Guide to IT Careers" on March 3, 2018
 + [#OperationMFU](https://www.facebook.com/hashtag/OperationMFU) : "Securing the Human Workshop" on November 18, 2017 
 + [#OperationDRU](OperationDRU) : "Securing the Human Day" on August 27, 2017
