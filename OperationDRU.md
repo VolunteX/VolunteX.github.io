@@ -17,12 +17,13 @@
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 
-```markdown
-Let's volunteer to make an impact together!
-```
 [![](/OperationDRU/Brown.jpg "#OperationDRU")](https://www.facebook.com/hashtag/OperationDRU)
 
 [![](/OperationDRU/Team.jpg "#OperationDRU")](https://www.facebook.com/hashtag/OperationDRU)
+
+```markdown
+Let's volunteer to make an impact together!
+```
 
 ## Become a Supporter
 
