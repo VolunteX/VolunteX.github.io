@@ -3,7 +3,7 @@
 + Date : (Sat) August 27, 2017
 + Venue : [Dhonburi Rajabhat Univerity](https://www.dru.ac.th/)
 
-[![](/Cover.jpg "#OperationDRU")](https://www.facebook.com/hashtag/OperationDRU)
+[![](/OperationDRU/Cover.jpg "#OperationDRU")](https://www.facebook.com/hashtag/OperationDRU)
 
 ## Contributor[s]
 1. Chonlatit Rujiphut (ชลทิตย์ รุจิพืช) [[➳](https://www.facebook.com/Tsunakun27)]
@@ -20,9 +20,9 @@
 ```markdown
 Let's volunteer to make an impact together!
 ```
-[![](/Brown.jpg "#OperationDRU")](https://www.facebook.com/hashtag/OperationDRU)
+[![](/OperationDRU/Brown.jpg "#OperationDRU")](https://www.facebook.com/hashtag/OperationDRU)
 
-[![](/Team.jpg "#OperationDRU")](https://www.facebook.com/hashtag/OperationDRU)
+[![](/OperationDRU/Team.jpg "#OperationDRU")](https://www.facebook.com/hashtag/OperationDRU)
 
 ## Become a Supporter
 
