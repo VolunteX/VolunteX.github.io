@@ -10,7 +10,7 @@
 + [#OperationNorthBkk](https://www.facebook.com/hashtag/OperationNorthBkk) : "Digital Innovation Workshop" on December 09, 2018 
 + [#OperationRMUTT](https://youtu.be/9-vCHJvjWBU) : "Guide to IT Careers" on March 3, 2018
 + [#OperationMFU](https://www.facebook.com/hashtag/OperationMFU) : "Securing the Human Workshop" on November 18, 2017 
-+ [#OperationDRU](https://www.facebook.com/hashtag/Operationdru) : "Securing the Human Day" on August 27, 2017
++ [#OperationDRU](OperationDRU) : "Securing the Human Day" on August 27, 2017
 
 ```markdown
 VolunteXTH@gmail.com
