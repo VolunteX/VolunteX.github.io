@@ -8,11 +8,11 @@
 ## Contributor[s]
 1. Chonlatit Rujiphut (ชลทิตย์ รุจิพืช) [[➳](https://www.facebook.com/Tsunakun27)]
 1. Pongsak Yodjai (พงษ์ศักดิ์ ยอดใจ) [[➳](https://www.facebook.com/iampongsak)]
-1. xxx
-1. xxx
+1. Patcharapon Susuk (พัชรพล สู่สุข) [[➳](https://www.facebook.com/Forestwick)]
+1. Thirapat Wiwittanaporn (ภัทร) [[➳](https://www.facebook.com/w.thpat)]
 
 ## Operation Facilitator
-+ O (โอ) [[➳](https://www.facebook.com/oooo)]
++ O (โอ) [[➳](https://www.facebook.com/ota.kung.56)]
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
