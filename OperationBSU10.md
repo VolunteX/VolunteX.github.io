@@ -18,7 +18,7 @@
 1. Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)] [**Sec-Girl**]
 
 ## Operation Facilitator
-+ Tanapeak-Pexyean (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
++ Tanapeak Pexyean (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
 
 ## Operation Enabler
 + TBA
