@@ -14,12 +14,13 @@
 ## Operation Facilitator
 + Chutima Singharod (ชุติมา สิงห์รอด) [[➳](https://www.facebook.com/parnziizaa)]
 
-## Official Sponsor
-+ [![](/OperationMFU/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
-+ [![](/OperationMFU/DellEMC_298.jpg "Digital Transformation - IT & Workforce Solutions")](https://www.delltechnologies.com/)
-
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
+
+## Official Sponsor
+[![](/OperationMFU/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
+
+[![](/OperationMFU/DellEMC_298.jpg "Digital Transformation - IT & Workforce Solutions")](https://www.delltechnologies.com/)
 
 ```markdown
 Let's volunteer to make an impact together!
