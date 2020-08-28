@@ -31,11 +31,17 @@
 
 ### Audiences
 
-1. Yutthana Sarobon (ยุทธนา สโรบล)
-1. Thanapol thananchai (ธนาพล ทะนันชัย)
+1. Dultichai Sansuk (ดุลธิชัย แสนสุข)
 1. Ekkarach Namtong (เอกราช น้ำทอง)
+1. Jirapat Sengngoen (จิรพัฒน์ แสงเงิน)
 1. Jirasak Phon-att (จีรศักดิ์ ผลอรรถ)
+1. Naluesa Rammamon (นฤสา รัมมะมนต์)
 1. Orayanee Wisetrojana (อรญาณี วิเศษรจนา)
+1. Phantakan Dutsadeepan (พันธกานต์ ดุษดีพันธ์)
+1. Phatharakamon Duangwatcharapan (ภทรกมล ดวงวัชรพันธ์)
+1. Saksit Kumkrong (ศักดิ์สิทธิ์ คุ้มครอง)
+1. Thanapol thananchai (ธนาพล ทะนันชัย)
+1. Yutthana Sarobon (ยุทธนา สโรบล)
 
 ```markdown
 Let's volunteer to make an impact together!
