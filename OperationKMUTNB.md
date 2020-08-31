@@ -33,6 +33,18 @@ Let's volunteer to make an impact together!
 
 [![](/OperationKMUTNB/pic/Prep.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
 
+[![](/OperationKMUTNB/pic/During.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
+
+[![](/OperationKMUTNB/pic/During1.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
+
+[![](/OperationKMUTNB/pic/During2.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
+
+[![](/OperationKMUTNB/pic/During3.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
+
+[![](/OperationKMUTNB/pic/During4.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
+
+[![](/OperationKMUTNB/pic/During5.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
+
 [![](/OperationKMUTNB/pic/AfterTheMatch1.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
 
 [![](/OperationKMUTNB/pic/AfterTheMatch2.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
