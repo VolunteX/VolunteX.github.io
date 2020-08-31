@@ -32,9 +32,6 @@
 ## Official Sponsor
 [![](/OperationRMUTT10/pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
 
-### Audiences
-
-1. John Doe (John Doe)
 
 ```markdown
 Let's volunteer to make an impact together!
