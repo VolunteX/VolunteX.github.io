@@ -3,6 +3,8 @@
 + Date : (Sat) January 27, 2019
 + Venue : [King Mongkut's University of Technology North Bangkok](https://www.kmutnb.ac.th/)
 
+[![](/OperationKMUTNB/pic/Group.jpg "#OperationNorthBKK")](https://web.facebook.com/hashtag/OperationNorthBKK)
+
 ## Contributor[s]
 1.
 
