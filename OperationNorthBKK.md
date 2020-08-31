@@ -9,7 +9,7 @@
 1.
 
 ## Operation Facilitator
-+
++ Wachraya Keawkumnerd (วชิรญาณ์ แก้วกำเนิด) [[➳](https://web.facebook.com/whan.keawkumnerd)]
 
 ## Official Sponsor
 [![](/OperationBSU10/pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
