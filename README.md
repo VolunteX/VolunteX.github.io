@@ -7,7 +7,7 @@
 + [#OperationBSU](OperationBSU) : #NewGradChallenge Workshop on January 26, 2020
 + [#OperationCPU](OperationCPU) : "Digital Innovation Workshop" on April 28, 2019
 + [#OperationKMUTNB](https://www.facebook.com/hashtag/OperationKMUTNB) : "Secure Software Development Workshop" on January 27, 2019
-+ [#OperationNorthBkk](OperationNorthBkk) : "Digital Innovation Workshop" on December 09, 2018 
++ [#OperationNorthBkk](OperationNorthBKK) : "Digital Innovation Workshop" on December 09, 2018 
 + [Operation #ThaiLao](https://www.facebook.com/photo.php?fbid=2154561901239070) : #HourOfCode on July 14, 2018
 + [#OperationRMUTT](https://youtu.be/9-vCHJvjWBU) : "IT Career Guide" on March 3, 2018
 + [#OperationMFU](OperationMFU) : "Securing the Human Workshop" on November 18, 2017 
