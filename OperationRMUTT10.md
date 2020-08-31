@@ -24,14 +24,13 @@
 ## Operation Enabler
 + TBA
 
-## Official Sponsor
-+ TBA
-
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 + Sommanut Ketpong(สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 + Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
 
+## Official Sponsor
+[![](/OperationRMUTT10/pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
 
 ### Audiences
 
