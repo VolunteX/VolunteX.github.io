@@ -14,7 +14,7 @@
 1. Pongsak Yodjai (พงษ์ศักดิ์ ยอดใจ) [[➳](https://www.facebook.com/iampongsak)]
 1. Patcharapon Susuk (พัชรพล สู่สุข) [[➳](https://www.facebook.com/Forestwick)]
 1. Apichit Tiammuang (อภิชิต เทียมเมือง) [[➳](https://www.facebook.com/zer0kan)]
-1.  [[➳](https://www.facebook.com/victor.history)
+1. Taweechai Sermsawang (ทวีชัย เสริมสว่าง) [[➳](https://www.facebook.com/victor.history)]
 1. Akkarach Kawbunjun (เอกราช แก้วบุญจันทร์) [[➳](https://www.facebook.com/akkarach.kawbunjun)
 1. Noppadol Keawkom (นพดล แก้วคำ) [[➳](https://www.facebook.com/noppadol.km)
 1. Jedsada Thongkanluang (เจษฎา ทองก้านเหลือง) [[➳](https://www.facebook.com/tomcisco)
