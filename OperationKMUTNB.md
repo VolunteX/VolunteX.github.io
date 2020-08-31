@@ -28,3 +28,5 @@ Let's volunteer to make an impact together!
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
 
 [![](/OperationKMUTNB/pic/Team.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
+
+[![](/OperationKMUTNB/pic/Prep.jpg "#OperationKMUTNB")](https://www.facebook.com/hashtag/OperationKMUTNB)
