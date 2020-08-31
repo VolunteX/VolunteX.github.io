@@ -3,6 +3,8 @@
 + Date : (Sat) December 9, 2018
 + Venue : [North Bangkok University](http://www.northbkk.ac.th/)
 
+[![](/OperationNorthBKK/pic/Group.jpg "#OperationNorthBKK")](https://web.facebook.com/hashtag/OperationNorthBKK)
+
 ## Contributor[s]
 1.
 
