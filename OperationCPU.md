@@ -49,9 +49,10 @@
 
 ## Operation Enabler
 + Pattama Thongprapai (ปัทมา ทองประไพ) [[➳](https://www.facebook.com/pattama.thongprapai)]
++ Nathachai Phokairatana (ณัฐชัย โภไคยรัตน์) [[➳](https://www.facebook.com/mobiuz.pw)]
 
 ## Official Sponsor
-+ Nathachai Phokairatana (ณัฐชัย โภไคยรัตน์) [[➳](https://www.facebook.com/mobiuz.pw)], [Rapid7](https://www.rapid7.com/)
+[![](/OperationCPU/pic/Rapid7_logo_300.png "Rapid7 powers the practice of SecOps by delivering shared visibility, analytics, and automation to unite security, IT, and DevOps teams.")](https://www.rapid7.com/)
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
