@@ -10,7 +10,7 @@
 +
 
 ## Official Sponsor
-+ 
+[![](/OperationKMUTNB/pic/Rapid7_logo.png "Rapid7 powers the practice of SecOps by delivering shared visibility, analytics, and automation to unite security, IT, and DevOps teams.")](https://www.rapid7.com/)
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
