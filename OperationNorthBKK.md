@@ -36,3 +36,7 @@ Let's volunteer to make an impact together!
 
 [![](/OperationNorthBKK/pic/Gift.jpg "#OperationNorthBKK")](https://web.facebook.com/hashtag/OperationNorthBKK)
 
+[![](/OperationNorthBKK/pic/Prep.jpg "#OperationNorthBKK")](https://web.facebook.com/hashtag/OperationNorthBKK)
+
+[![](/OperationNorthBKK/pic/Poster.jpg "#OperationNorthBKK")](https://web.facebook.com/hashtag/OperationNorthBKK)
+
