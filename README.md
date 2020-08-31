@@ -14,9 +14,6 @@
 + [#OperationDRU](OperationDRU) : "Securing the Human Day" on August 27, 2017
 
 ```markdown
-VolunteXTH@gmail.com
-https://fb.me/VolunteXTH
-
 Let's volunteer to make an impact together!
 ```
 ## Become a supporter
@@ -26,3 +23,8 @@ Let's volunteer to make an impact together!
 [![](/@VolunteXTH.png "Let @VolunteXTH be your friend")](https://line.me/R/ti/p/@voluntex)
 
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
+
+```markdown
+VolunteXTH@gmail.com
+https://fb.me/VolunteXTH
+```
