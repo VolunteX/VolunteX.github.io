@@ -20,7 +20,7 @@
 1. Pattama Thongprapai (ปัทมา ทองประไพ) [[➳](https://www.facebook.com/pattama.thongprapai)]
 
 ## Operation Facilitator
-+ Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
++ Dr.Wichet Plaimart (ดร.วิเชษฐ์ พลายมาศ) [[➳](https://www.facebook.com/wichet.plaimart)]
 
 ## Operation Enabler
 + TBA
@@ -44,3 +44,5 @@ Let's volunteer to make an impact together!
 [![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
 
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
+
+[![](/OperationRMUTT/pic/Poster.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
