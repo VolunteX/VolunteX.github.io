@@ -56,7 +56,7 @@ Let's volunteer to make an impact together!
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
 
 ```markdown
-Required
+Pre-requisite
 ```
 + [https://govshare.data.go.th/bsu/OperationBSU10/Python](https://govshare.data.go.th/bsu/OperationBSU10/Python)
 + [https://git-scm.com/download/](https://git-scm.com/download/)
