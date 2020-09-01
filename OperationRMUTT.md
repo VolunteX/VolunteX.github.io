@@ -3,6 +3,8 @@
 + Date : (Sat) March 3, 2018
 + Venue : [Rajamangala University of Technology Thanyaburi : RMUTT](http://www.rmutt.ac.th/)
 
+[![](/OperationRMUTT/Group.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+
 <iframe width="1280" height="720" src="http://www.youtube.com/watch?v=9-vCHJvjWBU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![](http://img.youtube.com/vi/9-vCHJvjWBU/0.jpg)](http://www.youtube.com/watch?v=9-vCHJvjWBU "")
