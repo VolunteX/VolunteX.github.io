@@ -5,8 +5,6 @@
 
 [![](/OperationRMUTT/pic/Group.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
-[![](/OperationRMUTT/pic/Opening.png "#OperationRMUTT")](https://youtu.be/9-vCHJvjWBU)
-
 ## Contributor[s]
 1. Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
 1. Siraphum Pechto (สิรภูมิ เพ็ชรโต) [[➳](https://www.facebook.com/SiraphumPechto)]
@@ -44,5 +42,7 @@ Let's volunteer to make an impact together!
 [![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
 
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
+
+[![](/OperationRMUTT/pic/Opening.png "#OperationRMUTT")](https://youtu.be/9-vCHJvjWBU)
 
 [![](/OperationRMUTT/pic/Poster.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
