@@ -18,9 +18,6 @@
 1. Hatsaya Sae-Chua (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/profile.php?id=100005176634024)]
 1. Ongart Visarnpat (องอาจ วิสาลพัธน์) [[➳](https://www.facebook.com/profile.php?id=100001047251442)]
 1. Pattama Thongprapai (ปัทมา ทองประไพ) [[➳](https://www.facebook.com/pattama.thongprapai)]
-1. Pattira Namkate (ภัททิรา นามเกตุ) [[➳](https://www.facebook.com/baitoeyJa)] [**Sec-Girl**]
-1. Dawaree Photong (ด๊ะวรี โพทอง) [[➳](https://www.facebook.com/bced.kmutnb)] [**Sec-Girl**]
-1. Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)] [**Sec-Girl**]
 
 ## Operation Facilitator
 + Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
