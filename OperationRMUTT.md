@@ -55,4 +55,6 @@ Let's volunteer to make an impact together!
 
 [![](/OperationRMUTT/pic/During4.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
+[![](/OperationRMUTT/pic/During5.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+
 [![](/OperationRMUTT/pic/Poster.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
