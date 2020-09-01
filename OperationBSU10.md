@@ -43,11 +43,6 @@
 1. Thanapol thananchai (ธนาพล ทะนันชัย)
 1. Yutthana Sarobon (ยุทธนา สโรบล)
 
-+ [https://govshare.data.go.th/bsu/OperationBSU10/Python](https://govshare.data.go.th/bsu/OperationBSU10/Python)
-+ [https://git-scm.com/download/]
-+ [https://www.python.org/downloads/]
-+ [https://code.visualstudio.com/download]
-
 ```markdown
 Let's volunteer to make an impact together!
 ```
@@ -59,3 +54,9 @@ Let's volunteer to make an impact together!
 [![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
 
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
+
+## Something to Have
++ [https://govshare.data.go.th/bsu/OperationBSU10/Python](https://govshare.data.go.th/bsu/OperationBSU10/Python)
++ [https://git-scm.com/download/](https://git-scm.com/download/)
++ [https://www.python.org/downloads/](https://www.python.org/downloads/)
++ [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
