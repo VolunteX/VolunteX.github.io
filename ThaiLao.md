@@ -15,11 +15,11 @@
 ## Facilitator
 + Petch Wongkarn (เพชร วังกานต์) [[➳](https://www.facebook.com/petch.wongkarn)]
 
-## Official Sponsor
-[![](/ThaiLao/pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
-
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
+
+## Official Sponsor
+[![](/ThaiLao/pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
 
 ```markdown
 Let's volunteer to make an impact together!
