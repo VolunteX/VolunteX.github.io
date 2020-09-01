@@ -9,7 +9,7 @@
 1. Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
 1. Siraphum Pechto (สิรภูมิ เพ็ชรโต) [[➳](https://www.facebook.com/SiraphumPechto)]
 1. Angkarn Pummarin (อังคาร ภุมรินทร์) [[➳](https://www.facebook.com/in8l00p)]
-1. Sommanut Ketpong(สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
+1. Sommanut Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 1. Ongart Visarnpat (องอาจ วิสาลพัธน์) [[➳](https://www.facebook.com/profile.php?id=100001047251442)]
 1. Eakkphol Pobsuknirundorn (เอกพล พบสุขนิรันดร) [[➳](https://www.facebook.com/eakkphol)]
 1. Donlaporn (ดลพร) [[➳](https://www.facebook.com/icezybodyslam.fc)]
