@@ -15,13 +15,16 @@
 1. Sirisak Ketkaew (ศิริศักดิ์ เกตุแก้ว) [[➳](https://www.facebook.com/sirisak.k94)]
 1. Hatsaya Sae-Chua (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/profile.php?id=100005176634024)]
 1. Ongart Visarnpat (องอาจ วิสาลพัธน์) [[➳](https://www.facebook.com/profile.php?id=100001047251442)]
-1. Pattama Thongprapai (ปัทมา ทองประไพ) [[➳](https://www.facebook.com/pattama.thongprapai)]
+
+1. Eakkphol Pobsuknirundorn (เอกพล พบสุขนิรันดร) [[➳](https://www.facebook.com/eakkphol)]
+1. Donlaporn (ดลพร) [[➳](https://www.facebook.com/icezybodyslam.fc)
+
 
 ## Operation Facilitator
 + Dr.Wichet Plaimart (ดร.วิเชษฐ์ พลายมาศ) [[➳](https://www.facebook.com/wichet.plaimart)]
 
 ## Operation Enabler
-+ TBA
++ Nathachai Phokairatana (ณัฐชัย โภไคยรัตน์) [[➳](https://www.facebook.com/mobiuz.pw)]
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
