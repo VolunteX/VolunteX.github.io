@@ -1,7 +1,7 @@
 ## #OperationRMUTT : IT Career Guide
 
 + Date : (Sat) March 3, 2018
-+ Venue : [Rajamangala University of Technology Thanyaburi : RMUTT](http://www.rmutt.ac.th/)
++ Venue : [Faculty of Technical Education : RMUTT](http://www.teched.rmutt.ac.th/)
 
 [![](/OperationRMUTT/pic/Group.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
