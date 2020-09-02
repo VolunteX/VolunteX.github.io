@@ -12,7 +12,7 @@
 1. Sommanut Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 1. Ongart Visarnpat (องอาจ วิสาลพัธน์) [[➳](https://www.facebook.com/profile.php?id=100001047251442)]
 1. Eakkphol Pobsuknirundorn (เอกพล พบสุขนิรันดร) [[➳](https://www.facebook.com/eakkphol)]
-1. Donlaporn (ดลพร) [[➳](https://www.facebook.com/icezybodyslam.fc)]
+1. Donlaporn Srisoonthornharuthai (ดลพร ศรีสุนทรหฤทัย) [[➳](https://www.facebook.com/icezybodyslam.fc)]
 1. Patcharapon Susuk (พัชรพล สู่สุข) [[➳](https://www.facebook.com/Forestwick)]
 1. Apichit Tiammuang (อภิชิต เทียมเมือง) [[➳](https://www.facebook.com/zer0kan)]
 1. Surasak Sakulyamon (สุรศักดิ์ สกุลยามัญ) [[➳](https://www.facebook.com/profile.php?id=100007446705392)]
