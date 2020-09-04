@@ -5,8 +5,6 @@
 
 ## Contributor[s]
 1. Siraphum Pechto (สิรภูมิ เพ็ชรโต) [[➳](https://www.facebook.com/SiraphumPechto)]
-1. Angkarn Pummarin (อังคาร ภุมรินทร์) [[➳](https://www.facebook.com/in8l00p)]
-1. Pemika Limpittaya(เปมิกา ลิ้มพิทยา) [[➳](https://www.facebook.com/tourlek.fisho)]
 1. Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
 1. Chonlatit Rujiphut (ชลทิตย์ รุจิพืช) [[➳](https://www.facebook.com/Tsunakun27)]
 1. Suparath Suwannakorth (สุภรัชต์ สุวรรณโครธ) [[➳](https://www.facebook.com/babababest)]
@@ -14,7 +12,6 @@
 1. Sommanut Ketpong(สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 1. Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
 1. Pattira Namkate (ภัททิรา นามเกตุ) [[➳](https://www.facebook.com/baitoeyJa)] [**Sec-Girl**]
-1. Dawaree Photong (ด๊ะวรี โพทอง) [[➳](https://www.facebook.com/bced.kmutnb)] [**Sec-Girl**]
 1. Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)] [**Sec-Girl**]
 
 ## Operation Facilitator
