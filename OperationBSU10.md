@@ -57,5 +57,6 @@ Pre-requisite
 ```
 + [https://govshare.data.go.th/bsu/OperationBSU10/Python](https://govshare.data.go.th/bsu/OperationBSU10/Python)
 + [https://git-scm.com/download/](https://git-scm.com/download/)
++ [https://desktop.github.com/](https://desktop.github.com/)
 + [https://www.python.org/downloads/](https://www.python.org/downloads/)
 + [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
