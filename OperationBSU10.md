@@ -28,16 +28,32 @@
 
 ## Attendees
 
+1. Akkarawut Duangsuwan (อัครวุฒิ ดวงสุวรรณ์)
+1. Aphiwat Thapeng (อภิวัฒ ต๊ะเป็ง)
 1. Dultichai Sansuk (ดุลธิชัย แสนสุข)
 1. Ekkarach Namtong (เอกราช น้ำทอง)
 1. Jirapat Sengngoen (จิรพัฒน์ แสงเงิน)
 1. Jirasak Phon-att (จีรศักดิ์ ผลอรรถ)
+1. Kanokaon Ubalee (กนกอร อุบาลี)
+1. Kasempong (เกษมพงศ์ นครชัย)
+1. Kittipong Boonklong (กิตติพงศ์ บุญครอง)
+1. Kittithat Thongdi (กิตติธัช ทองดี)
 1. Naluesa Rammamon (นฤสา รัมมะมนต์)
+1. Natdao Sritongtap (ณัฎดาว สีทองทาบ)
+1. Orasa Tunmak (อรสา ทุนมาก)
 1. Orayanee Wisetrojana (อรญาณี วิเศษรจนา)
+1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ)
 1. Phantakan Dutsadeepan (พันธกานต์ ดุษดีพันธ์)
 1. Phatharakamon Duangwatcharapan (ภทรกมล ดวงวัชรพันธ์)
+1. Phatharaphon phosiri (ภัทรพล โพธิ์ศิริ)
+1. Prakat Leeluesai (ประกาศ ลีลือสาย)
+1. Prarinya Yakaitoi (ปริญญา ยาไก่ต้อย)
+1. Sakanant Pasuriwong (ศักดิ์อนันต์ ผาสุริวงศ์)
 1. Saksit Kumkrong (ศักดิ์สิทธิ์ คุ้มครอง)
 1. Thanapol thananchai (ธนาพล ทะนันชัย)
+1. Thanyalak Phungoen (ธัญลักษณ์ ภูเงิน)
+1. Top Tungvicha (ท๊อป ถุงวิชา)
+1. Yuttanait Yena (ยุทธเนตร เยนา)
 1. Yutthana Sarobon (ยุทธนา สโรบล)
 
 ```markdown
