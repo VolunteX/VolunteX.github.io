@@ -17,7 +17,7 @@
 1. Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)] [**Sec-Girl**]
 
 ## Operation Facilitator
-+ Tanapeak Pexyean (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
++ [Tanapeak Pexyean](OperationBSU10/VXOpBSU10-20200905-Tanapeak-Pexyean.pdf) (ธณพิชญ์ เป็กเยียน) [[➳](https://www.facebook.com/teerapon.pexyean)]
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
