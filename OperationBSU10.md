@@ -3,6 +3,8 @@
 + Date : (Fri-Sat) September 4-5, 2020
 + Venue : [Bangkok Suvarnabhumi University](http://www.bsu.ac.th/)
 
+[![](/OperationBSU10/pic/Group.jpg "#OperationBSU10")](https://www.facebook.com/hashtag/OperationBSU10)
+
 ## Contributor[s]
 1. Siraphum Pechto (สิรภูมิ เพ็ชรโต) [[➳](https://www.facebook.com/SiraphumPechto)]
 1. Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
