@@ -18,6 +18,7 @@
 
 ## Operation Facilitator
 + [Tanapeak Pexyean](OperationBSU10/VXOpBSU10-20200905-Tanapeak-Pexyean.pdf) ([ธณพิชญ์ เป็กเยียน](OperationBSU10/VXOpBSU10-20200905-Tanapeak-Pexyean.pdf)) [[➳](https://www.facebook.com/teerapon.pexyean)]
++ [Somparn Posoongnoen]
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
@@ -49,7 +50,6 @@
 1. Prarinya Yakaitoi (ปริญญา ยาไก่ต้อย)
 1. Sakanant Pasuriwong (ศักดิ์อนันต์ ผาสุริวงศ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Sakanant-Pasuriwong.pdf)]
 1. Saksit Kumkrong (ศักดิ์สิทธิ์ คุ้มครอง)
-1. Somparn Posoongnoen (xxxxxxxxxxx)
 1. Thanapol thananchai (ธนาพล ทะนันชัย)
 1. Thanyalak Phungoen (ธัญลักษณ์ ภูเงิน)
 1. Top Tungvicha (ท๊อป ถุงวิชา)  [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Top-Tungvicha.pdf)]
