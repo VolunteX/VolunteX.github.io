@@ -51,7 +51,7 @@
 1. Saksit Kumkrong (ศักดิ์สิทธิ์ คุ้มครอง)
 1. Thanapol thananchai (ธนาพล ทะนันชัย)
 1. Thanyalak Phungoen (ธัญลักษณ์ ภูเงิน)
-1. Top Tungvicha (ท๊อป ถุงวิชา)
+1. Top Tungvicha (ท๊อป ถุงวิชา)  [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Top-Tungvicha.pdf)]
 1. Yuttanait Yena (ยุทธเนตร เยนา)
 1. Yutthana Sarobon (ยุทธนา สโรบล)
 
