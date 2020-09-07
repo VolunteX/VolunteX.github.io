@@ -35,7 +35,7 @@
 1. Jirasak Phon-att (จีรศักดิ์ ผลอรรถ)
 1. Kanokaon Ubalee (กนกอร อุบาลี)
 1. Kasempong (เกษมพงศ์ นครชัย)
-1. Kittipong Boonklong (กิตติพงศ์ บุญครอง)
+1. Kittipong Boonklong (กิตติพงศ์ บุญครอง) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Kittipong-Boonklong.pdf)]
 1. Kittithat Thongdi (กิตติธัช ทองดี)
 1. Naluesa Rammamon (นฤสา รัมมะมนต์)
 1. Natdao Sritongtap (ณัฎดาว สีทองทาบ)
