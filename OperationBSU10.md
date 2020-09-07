@@ -49,6 +49,7 @@
 1. Prarinya Yakaitoi (ปริญญา ยาไก่ต้อย)
 1. Sakanant Pasuriwong (ศักดิ์อนันต์ ผาสุริวงศ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Sakanant-Pasuriwong.pdf)]
 1. Saksit Kumkrong (ศักดิ์สิทธิ์ คุ้มครอง)
+1. Somparn Posoongnoen (xxxxxxxxxxx)
 1. Thanapol thananchai (ธนาพล ทะนันชัย)
 1. Thanyalak Phungoen (ธัญลักษณ์ ภูเงิน)
 1. Top Tungvicha (ท๊อป ถุงวิชา)  [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Top-Tungvicha.pdf)]
