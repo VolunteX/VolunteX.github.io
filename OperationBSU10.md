@@ -39,7 +39,7 @@
 1. Kittipong Boonklong (กิตติพงศ์ บุญครอง) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Kittipong-Boonklong.pdf)]
 1. Kittithat Thongdi (กิตติธัช ทองดี)
 1. Naluesa Rammamon (นฤสา รัมมะมนต์)
-1. Natdao Sritongtap (ณัฎดาว สีทองทาบ)
+1. Natdao Sritongtap (ณัฎดาว สีทองทาบ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Natdao-Sritongtap.pdf)]
 1. Orasa Tunmak (อรสา ทุนมาก)
 1. Orayanee Wisetrojana (อรญาณี วิเศษรจนา)
 1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ)
