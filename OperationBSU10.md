@@ -18,7 +18,7 @@
 
 ## Operation Facilitator
 + [Tanapeak Pexyean](OperationBSU10/VXOpBSU10-20200905-Tanapeak-Pexyean.pdf) ([ธณพิชญ์ เป็กเยียน](OperationBSU10/VXOpBSU10-20200905-Tanapeak-Pexyean.pdf)) [[➳](https://www.facebook.com/teerapon.pexyean)]
-+ [Somparn Posoongnoen]
++ [Somparn Posoongnoen](OperationBSU10/VXOpBSU10-20200905-Somparn-Posoongnoen.pdf)
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
