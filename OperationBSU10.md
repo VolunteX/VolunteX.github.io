@@ -30,7 +30,7 @@
 
 1. Akkarawut Duangsuwan (อัครวุฒิ ดวงสุวรรณ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Akkarawut-Duangsuwan.pdf)]
 1. Aphiwat Tapang (อภิวัฒ ต๊ะเป็ง) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Aphiwat-Tapang.pdf)]
-1. Dultichai Sansuk (ดุลธิชัย แสนสุข)
+1. Dultichai Sansuk (ดุลธิชัย แสนสุข) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Dultichai-Sansuk.pdf)]
 1. Ekkarach Namtong (เอกราช น้ำทอง)
 1. Jirapat Sengngoen (จิรพัฒน์ แสงเงิน) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Jirapat-Sengngoen.pdf)]
 1. Jirasak Phon-att (จีรศักดิ์ ผลอรรถ)
