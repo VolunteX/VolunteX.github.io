@@ -37,7 +37,7 @@
 1. Kanokaon Ubalee (กนกอร อุบาลี)
 1. Kasempong (เกษมพงศ์ นครชัย)
 1. Kittipong Boonklong (กิตติพงศ์ บุญครอง) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Kittipong-Boonklong.pdf)]
-1. Kittithat Thongdi (กิตติธัช ทองดี)
+1. Kittitah Thongdee (กิตติธัช ทองดี) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Kittitah-Thongdee.pdf)]
 1. Naluesa Rammamon (นฤสา รัมมะมนต์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Naluesa-Rammamon.pdf)]
 1. Natdao Sritongtap (ณัฎดาว สีทองทาบ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Natdao-Sritongtap.pdf)]
 1. Orasa Tunmak (อรสา ทุนมาก)
