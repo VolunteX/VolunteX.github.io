@@ -24,7 +24,7 @@
 + Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
 
 ## Operation Enabler
-1. Eakkphol Pobsuknirundorn (เอกพล พบสุขนิรันดร) [[➳](https://www.facebook.com/eakkphol)]
++ Eakkphol Pobsuknirundorn (เอกพล พบสุขนิรันดร) [[➳](https://www.facebook.com/eakkphol)]
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
