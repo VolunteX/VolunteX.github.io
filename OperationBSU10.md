@@ -42,7 +42,7 @@
 1. Natdao Sritongtap (ณัฎดาว สีทองทาบ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Natdao-Sritongtap.pdf)]
 1. Orasa Tunmak (อรสา ทุนมาก)
 1. Orayanee Wisetrojana (อรญาณี วิเศษรจนา)
-1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ)
+1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Panpong-Sangsuwan.pdf)]
 1. Phantakan Dutsadeepan (พันธกานต์ ดุษดีพันธ์)
 1. Phatharakamon Duangwatcharapan (ภทรกมล ดวงวัชรพันธ์)
 1. Phatharaphon phosiri (ภัทรพล โพธิ์ศิริ)
