@@ -11,7 +11,7 @@
 1. Chonlatit Rujiphut (ชลทิตย์ รุจิพืช) [[➳](https://www.facebook.com/Tsunakun27)]
 1. Suparath Suwannakorth (สุภรัชต์ สุวรรณโครธ) [[➳](https://www.facebook.com/babababest)]
 1. Sirisak Ketkaew (ศิริศักดิ์ เกตุแก้ว) [[➳](https://www.facebook.com/sirisak.k94)]
-1. Sommanut Ketpong(สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
+1. Sommanut Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 1. Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
 1. Pattira Namkate (ภัททิรา นามเกตุ) [[➳](https://www.facebook.com/baitoeyJa)] [**Sec-Girl**]
 1. Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)] [**Sec-Girl**]
