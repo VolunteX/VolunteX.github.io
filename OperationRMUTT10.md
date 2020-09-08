@@ -18,6 +18,7 @@
 1. Dawaree Photong (ด๊ะวรี โพทอง) [[➳](https://www.facebook.com/bced.kmutnb)] [**Sec-Girl**]
 1. Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)] [**Sec-Girl**]
 1. Suparath Suwannakorth (สุภรัชต์ สุวรรณโครธ) [[➳](https://www.facebook.com/babababest)]
+1. Jedsada Thongkanluang (เจษฎา ทองก้านเหลือง) [[➳](https://www.facebook.com/tomcisco)]
 
 ## Operation Facilitator
 + Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
