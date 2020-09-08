@@ -28,7 +28,7 @@
 
 ## Attendees
 
-1. Akkarawut Duangsuwan (อัครวุฒิ ดวงสุวรรณ์)
+1. Akkarawut Duangsuwan (อัครวุฒิ ดวงสุวรรณ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Akkarawut-Duangsuwan.pdf)]
 1. Aphiwat Tapang (อภิวัฒ ต๊ะเป็ง) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Aphiwat-Tapang.pdf)]
 1. Dultichai Sansuk (ดุลธิชัย แสนสุข)
 1. Ekkarach Namtong (เอกราช น้ำทอง)
