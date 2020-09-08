@@ -32,7 +32,7 @@
 1. Aphiwat Tapang (อภิวัฒ ต๊ะเป็ง) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Aphiwat-Tapang.pdf)]
 1. Dultichai Sansuk (ดุลธิชัย แสนสุข)
 1. Ekkarach Namtong (เอกราช น้ำทอง)
-1. Jirapat Sengngoen (จิรพัฒน์ แสงเงิน)
+1. Jirapat Sengngoen (จิรพัฒน์ แสงเงิน) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Jirapat-Sengngoen.pdf)]
 1. Jirasak Phon-att (จีรศักดิ์ ผลอรรถ)
 1. Kanokaon Ubalee (กนกอร อุบาลี)
 1. Kasempong (เกษมพงศ์ นครชัย)
