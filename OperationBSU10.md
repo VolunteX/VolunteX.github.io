@@ -43,7 +43,7 @@
 1. Orasa Tunmak (อรสา ทุนมาก)
 1. Orayanee Wisetrojana (อรญาณี วิเศษรจนา)
 1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Panpong-Sangsuwan.pdf)]
-1. Phantakan Dutsadeepan (พันธกานต์ ดุษดีพันธ์)
+1. Phantakan Dutsadeepan (พันธกานต์ ดุษดีพันธ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Phantakan-Dutsadeepan.pdf)]
 1. Phatharakamon Duangwatcharapan (ภทรกมล ดวงวัชรพันธ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Phatharakamon-Duangwatcharapan.pdf)]
 1. Phatharaphon phosiri (ภัทรพล โพธิ์ศิริ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Phatharaphon-Phosiri.pdf)]
 1. Prakat Leeluesai (ประกาศ ลีลือสาย)
