@@ -45,7 +45,7 @@
 1. Panpong Sangsuwan (ปานพงษ์ แสงสุวรรณ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Panpong-Sangsuwan.pdf)]
 1. Phantakan Dutsadeepan (พันธกานต์ ดุษดีพันธ์)
 1. Phatharakamon Duangwatcharapan (ภทรกมล ดวงวัชรพันธ์)
-1. Phatharaphon phosiri (ภัทรพล โพธิ์ศิริ)
+1. Phatharaphon phosiri (ภัทรพล โพธิ์ศิริ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Phatharaphon-Phosiri.pdf)]
 1. Prakat Leeluesai (ประกาศ ลีลือสาย)
 1. Prarinya Yakaitoi (ปริญญา ยาไก่ต้อย)
 1. Sakanant Pasuriwong (ศักดิ์อนันต์ ผาสุริวงศ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Sakanant-Pasuriwong.pdf)]
