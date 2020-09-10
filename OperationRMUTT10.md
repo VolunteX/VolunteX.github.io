@@ -38,6 +38,9 @@
 
 [![](/OperationRMUTT10/pic/CAIlogo.png "พัฒนา ยกระดับ การนำความรู้ของบุคลากรในองค์กรให้ใช้ AI ได้อย่างมีคุณภาพระดับมาตรฐาน")](https://www.caicamp.com/)
 
+[![](/OperationRMUTT10/pic/cp-all-logo.png "พัฒนา ยกระดับ การนำความรู้ของบุคลากรในองค์กรให้ใช้ AI ได้อย่างมีคุณภาพระดับมาตรฐาน")](https://www.caicamp.com/)
+[![](/OperationRMUTT10/pic/cp-all-logo_150.png "พัฒนา ยกระดับ การนำความรู้ของบุคลากรในองค์กรให้ใช้ AI ได้อย่างมีคุณภาพระดับมาตรฐาน")](https://www.caicamp.com/)
+
 ```markdown
 Let's volunteer to make an impact together!
 ```
