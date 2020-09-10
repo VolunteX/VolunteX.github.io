@@ -37,8 +37,6 @@
 [![](/OperationRMUTT10/pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
 
 [![](/OperationRMUTT10/pic/CAIlogo.png "พัฒนา ยกระดับ การนำความรู้ของบุคลากรในองค์กรให้ใช้ AI ได้อย่างมีคุณภาพระดับมาตรฐาน")](https://www.caicamp.com/)
-
-[![](/OperationRMUTT10/pic/cp-all-logo.png "พัฒนา ยกระดับ การนำความรู้ของบุคลากรในองค์กรให้ใช้ AI ได้อย่างมีคุณภาพระดับมาตรฐาน")](https://www.caicamp.com/)
 [![](/OperationRMUTT10/pic/cp-all-logo_150.png "พัฒนา ยกระดับ การนำความรู้ของบุคลากรในองค์กรให้ใช้ AI ได้อย่างมีคุณภาพระดับมาตรฐาน")](https://www.caicamp.com/)
 
 ```markdown
