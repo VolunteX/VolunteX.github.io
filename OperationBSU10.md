@@ -46,7 +46,7 @@
 1. Phantakan Dutsadeepan (พันธกานต์ ดุษดีพันธ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Phantakan-Dutsadeepan.pdf)]
 1. Phatharakamon Duangwatcharapan (ภทรกมล ดวงวัชรพันธ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Phatharakamon-Duangwatcharapan.pdf)]
 1. Phatharaphon phosiri (ภัทรพล โพธิ์ศิริ) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Phatharaphon-Phosiri.pdf)]
-1. Prakat Leeluesai (ประกาศ ลีลือสาย)
+1. Prakat Leeluesai (ประกาศ ลีลือสาย) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Prakat-Leeluesai.pdf)]
 1. Prarinya Yakaitoi (ปริญญา ยาไก่ต้อย)
 1. Sakanant Pasuriwong (ศักดิ์อนันต์ ผาสุริวงศ์) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Sakanant-Pasuriwong.pdf)]
 1. Saksit Kumkrong (ศักดิ์สิทธิ์ คุ้มครอง) [[Cert](OperationBSU10/attendance/VXOpBSU10-20200905-Saksit-Kumkrong.pdf)]
