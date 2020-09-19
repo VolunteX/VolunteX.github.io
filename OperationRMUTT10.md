@@ -51,3 +51,8 @@ Let's volunteer to make an impact together!
 [![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
 
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
+
+
+[![](/OperationRMUTT10/pic/Group-AI.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
+
+[![](/OperationRMUTT10/pic/Group-Sec.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
