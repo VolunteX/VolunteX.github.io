@@ -3,8 +3,10 @@
 + Date : (Sat) September 19, 2020
 + Venue : [Faculty of Science and Technology, RMUTT](http://www.sci.rmutt.ac.th/)
 
+
+[![](/OperationRMUTT10/pic/Group.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
+
 ## Contributor[s]
-1. Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
 1. Angkarn Pummarin (อังคาร ภุมรินทร์) [[➳](https://www.facebook.com/in8l00p)]
 1. Pemika Limpittaya (เปมิกา ลิ้มพิทยา) [[➳](https://www.facebook.com/tourlek.fisho)]
 1. Chonlatit Rujiphut (ชลทิตย์ รุจิพืช) [[➳](https://www.facebook.com/Tsunakun27)]
