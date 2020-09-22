@@ -49,7 +49,7 @@
 + Korawee Kong-in (กรวีร์ กองอินทร์) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Korawee-Kong-in.pdf)]
 + Kornkit Buasongsai (กรกฤต บัวส่องใส) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Kornkit-Buasongsai.pdf)]
 + Nat Nuangthong (นรรทน์ เนืองทอง) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nat-Nuangthong.pdf)]
-+ Noppharat Nuamkhien (นพรัตน์ นวมเขียน)
++ Noppharat Nuamkhien (นพรัตน์ นวมเขียน) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Noppharat-Nuamkhien.pdf)]
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
 + Oran Ninhun (โอฬาร นิลหันต์) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Oran-Ninhun.pdf)]
 + Panichar Sontichai (พรรณิฌา สนธิชัย) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Panichar-Sontichai.pdf)]
