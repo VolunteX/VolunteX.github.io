@@ -54,6 +54,7 @@
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
 + Oran Ninhun (โอฬาร นิลหันต์) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Oran-Ninhun.pdf)]
 + Panichar Sontichai (พรรณิฌา สนธิชัย) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Panichar-Sontichai.pdf)]
++ Pittawat Phoemkittikun
 + Preeda Prajongsil (ปรีดา ประจงศิลป์) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Preeda-Prajongsil.pdf)]
 + Pruchya Thubthong (ปรัชญา ทับทอง) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Pruchya-Thubthong.pdf)]
 + Rati Iemlaor (รติ เอี่ยมละออ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Rati-Iemlaor.pdf)]
