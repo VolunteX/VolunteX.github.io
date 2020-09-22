@@ -43,9 +43,9 @@
 ## Attendees
 
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
++ Thananchai Ruensin (ธนันชัย รื่นสิน) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Thananchai-Ruensin.pdf)]
 + Wannaphorn Pephut (วรรณพร เป้พุฒ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Wannaphorn-Pephut.pdf)]
 + Witthawat Chalee (วิทวัส ชาลี) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Witthawat-Chalee.pdf)]
-+ Thananchai Ruensin (ธนันชัย รื่นสิน)
 
 ```markdown
 Let's volunteer to make an impact together!
