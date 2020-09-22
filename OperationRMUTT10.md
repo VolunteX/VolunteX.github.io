@@ -42,6 +42,7 @@
 
 ## Attendees
 
++ Baworntot Tanoum (บวรทศ ตันอ่วม)
 + Nat Nuangthong (นรรทน์ เนืองทอง) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nat-Nuangthong.pdf)]
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
 + Thananchai Ruensin (ธนันชัย รื่นสิน) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Thananchai-Ruensin.pdf)]
