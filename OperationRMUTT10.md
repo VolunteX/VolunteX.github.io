@@ -44,6 +44,7 @@
 
 + Baworntot Tanoum (บวรทศ ตันอ่วม) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Baworntot-Tanoum.pdf)]
 + Chenisa Promprai (เชนิสา พรมไพร) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Chenisa-Promprai.pdf)]
++ Karaphin Meesamphan (กรพิน มีสัมพันธ์) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Karaphin-Meesamphan.pdf)]
 + Nat Nuangthong (นรรทน์ เนืองทอง) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nat-Nuangthong.pdf)]
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
 + Panichar Sontichai (พรรณิฌา สนธิชัย) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Panichar-Sontichai.pdf)]
