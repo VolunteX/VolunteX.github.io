@@ -44,6 +44,7 @@
 
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
 + Wannaphorn Pephut (วรรณพร เป้พุฒ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Wannaphorn-Pephut.pdf)]
++ Witthawat Chalee (วิทวัส ชาลี) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Witthawat-Chalee.pdf)]
 
 ```markdown
 Let's volunteer to make an impact together!
