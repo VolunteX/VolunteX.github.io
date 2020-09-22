@@ -43,7 +43,7 @@
 ## Attendees
 
 + Baworntot Tanoum (บวรทศ ตันอ่วม) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Baworntot-Tanoum.pdf)]
-+ Chanadol Koonkam (ชนดล คูณค้ำ)
++ Chanadol Koonkam (ชนดล คูณค้ำ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Chanadol-Koonkam.pdf)]
 + Chenisa Promprai (เชนิสา พรมไพร) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Chenisa-Promprai.pdf)]
 + Karaphin Meesamphan (กรพิน มีสัมพันธ์) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Karaphin-Meesamphan.pdf)]
 + Nat Nuangthong (นรรทน์ เนืองทอง) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nat-Nuangthong.pdf)]
