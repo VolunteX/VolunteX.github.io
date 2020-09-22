@@ -46,6 +46,7 @@
 + Nat Nuangthong (นรรทน์ เนืองทอง) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nat-Nuangthong.pdf)]
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
 + Saranporn Jaisan (ศรัณย์พร ใจแสน) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Saranporn-Jaisan.pdf)]
++ Suthida Chitson (สุธิดา จิตต์สนธิ์)
 + Thananchai Ruensin (ธนันชัย รื่นสิน) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Thananchai-Ruensin.pdf)]
 + Thanwarat Chimsem (ธัญวรัตน์ ฉิมเสม) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Thanwarat-Chimsem.pdf)]
 + Wannaphorn Pephut (วรรณพร เป้พุฒ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Wannaphorn-Pephut.pdf)]
