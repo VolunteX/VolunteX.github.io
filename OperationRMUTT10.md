@@ -46,7 +46,7 @@
 + Chenisa Promprai (เชนิสา พรมไพร) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Chenisa-Promprai.pdf)]
 + Nat Nuangthong (นรรทน์ เนืองทอง) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nat-Nuangthong.pdf)]
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
-+ Rati Iemlaor (รติ เอี่ยมละออ)
++ Rati Iemlaor (รติ เอี่ยมละออ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Rati-Iemlaor.pdf)]
 + Saranporn Jaisan (ศรัณย์พร ใจแสน) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Saranporn-Jaisan.pdf)]
 + Suthida Chitson (สุธิดา จิตต์สนธิ์) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Suthida-Chitson.pdf)]
 + Thananchai Ruensin (ธนันชัย รื่นสิน) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Thananchai-Ruensin.pdf)]
