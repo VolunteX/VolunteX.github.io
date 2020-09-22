@@ -43,6 +43,7 @@
 ## Attendees
 
 + Nuttapong Luengchookiet (ณัฏฐพงศ์ เหลืองชูเกียรติ) [[Cert](OperationRMUTT10/Attendance/VXOpRMUTT10-20200919-Nuttapong-Luengchookiet.pdf)]
++ Wannaphorn Pephut (วรรณพร เป้พุฒ)
 
 ```markdown
 Let's volunteer to make an impact together!
