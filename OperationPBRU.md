@@ -18,10 +18,6 @@
 ## Official Sponsor
 #CallForSponsor
 
-## Attendees
-
-+ John Doe
-
 ```markdown
 Let's volunteer to make an impact together!
 ```
