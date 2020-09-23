@@ -1,4 +1,4 @@
-## #OperationPBRU : Let's #Git Started
+## #OperationPBRU : Let’s #Git Started & Build a Blog w/ #GitHubPages
 
 + Date : (Fri) October 16, 2020
 + Venue : [Faculty of Science and Technology, PBRU](https://sci.pbru.ac.th/)
