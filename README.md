@@ -2,6 +2,7 @@
 
 + IWD2021 : (Monday) March 8, 2021
 + [#OperationPBRU](OperationPBRU) : Let’s #Git Started & Say Hello to #GitHubPages on Oct 16, 2020
++ [#OperationPBRU](OperationICTSU) : Let’s #Git Started & Say Hello to #GitHubPages on Sep 24, 2020
 + [#OperationRMUTT10](OperationRMUTT10) : #NewGradChallenge (AI+Security) on September 19, 2020
 + [#OperationBSU10](OperationBSU10) : #HourOfCode on September 5, 2020
 + [#OperationNSTDA](OperationNSTDA) : #LearnToCode Online : Virtual Event on June 12, 2020
