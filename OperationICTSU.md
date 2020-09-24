@@ -5,6 +5,6 @@
 
 ## Attendees
 
-+ Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค) 
++ Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค) [[Cert](OperationICTSU/Attendance/VXOpRMUTT10-20200924-Thadtarnan-Sangjitpondchok.pdf)]
 
 
