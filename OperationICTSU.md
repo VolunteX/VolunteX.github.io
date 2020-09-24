@@ -3,3 +3,8 @@
 + Date : (Thu) September 24, 2020
 + Venue : [Faculty of Information and Communication Technology, Silpakorn University](https://www.ict.su.ac.th/)
 
+## Attendees
+
++ Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค) 
+
+
