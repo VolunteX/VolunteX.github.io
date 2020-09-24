@@ -9,6 +9,7 @@
 + [Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์)](https://potato731.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Chaimongkhon-Srilit.pdf)]
 + [Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม)](https://toon63.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Kannatthanan-Biyaem.pdf)]
 + [Naratorn Phetchuchat (นราธร เพ็ชรชูชาติ)](https://fornax66.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Naratorn-Phetchuchat.pdf)]
++ [Pattarawadee Saebae (ภัทรวดี แซ่เบ้)](https://pattarawadeesaebae.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Pattarawadee-Saebae.pdf)]
 + [Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม)](https://jpichayakorn.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Pichayakorn-Saenatham.pdf)]
 + [Sataporn Kennamthieng](https://prototype1503.github.io/)
 + [Supatida Upan (สุภธิดา อุปัญญ์)](https://xsupatx.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Supatida-Upan.pdf)]
