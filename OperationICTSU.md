@@ -16,6 +16,7 @@
 + [Pattarawadee Saebae (ภัทรวดี แซ่เบ้)](https://pattarawadeesaebae.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Pattarawadee-Saebae.pdf)]
 + [Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม)](https://jpichayakorn.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Pichayakorn-Saenatham.pdf)]
 + [Sataporn Kennamthieng](https://prototype1503.github.io/)
++ [Supakorn Chumsing (ศุภกร ชุมสิงห์)](https://dgjasknkzxcnmns.github.io/)
 + [Supatida Upan (สุภธิดา อุปัญญ์)](https://xsupatx.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Supatida-Upan.pdf)]
 + [Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค)](https://eren1555.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Thadtarnan-Sangjitpondchok.pdf)]
 
