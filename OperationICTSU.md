@@ -31,6 +31,7 @@
 + [Phannita Phumalai (พรรนนิตา ภู่มาลัย)](https://dewwwwwp23.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Phannita-Phumalai.pdf)]
 + [Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม)](https://jpichayakorn.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Pichayakorn-Saenatham.pdf)]
 + [Piphat Thongissara (พิพัฒน์ ทองอิสสระ)](https://nutmin.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Piphat-Thongissara.pdf)]
++ [Rachanon Suanma (รชานนท์ สวนมา)](https://porbabasss.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Rachanon-Suanma.pdf)]
 + [Sataporn Kennamthieng](https://prototype1503.github.io/)
 + [Sirindhorn Khola (ศิรินธร คอล้า)](https://zaqzsx.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Sirindhorn-Khola.pdf)]
 + [Sittipon Schrott (สิทธิพล ชร็อตต์)](https://jimmyschrott.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Sittipon-Schrott.pdf)]
