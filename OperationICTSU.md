@@ -25,7 +25,7 @@
 + [Nanthawat Pinitkijwat (นันทวัฒน์ พินิจกิจวัฒน์)](https://iana424.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Nanthawat-Pinitkijwat.pdf)]
 + [Naratorn Phetchuchat (นราธร เพ็ชรชูชาติ)](https://fornax66.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Naratorn-Phetchuchat.pdf)]
 + [Nathakorn Wimonwatwethi (ณฐกร วิมลวัตรเวที)](https://adbskanmsaoib1234.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Nathakorn-Wimonwatwethi.pdf)]
-+ [Nattawat Champa]
++ [Nattawat Champa](https://fyrst-ux.github.io/)
 + [Natthakarn Massuwan (ณัฐกาญจน์ เมษสุวรรณ)](https://nac1742.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Natthakarn-Massuwan.pdf)]
 + [Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)](https://mmiew.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Navarat-Sae-ieb.pdf)]
 + [Nontapat Supanwattanachai (นนทพัทธ์ สุพรรณวัฒนชัย)](https://hoilp.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Nontapat-Supanwattanachai.pdf)]
