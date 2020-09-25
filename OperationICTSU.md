@@ -32,6 +32,7 @@
 + [Nuthapong Tungsuk (ณัฐพงศ์ ถึงสุข)](https://pai411312.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Nuthapong-Tungsuk.pdf)]
 + [Papawee Sriwattana (ปภาวี ศรีวัฒนา)](https://baingern.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Papawee-Sriwa.pdf)]
 + [Pattarawadee Saebae (ภัทรวดี แซ่เบ้)](https://pattarawadeesaebae.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Pattarawadee-Saebae.pdf)]
++ [Phacharapon Pakchuen (พัชรพล ภักตรชื่น)](https://flukeflk.github.io/)
 + [Phannita Phumalai (พรรนนิตา ภู่มาลัย)](https://dewwwwwp23.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Phannita-Phumalai.pdf)]
 + [Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม)](https://jpichayakorn.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Pichayakorn-Saenatham.pdf)]
 + [Piphat Thongissara (พิพัฒน์ ทองอิสสระ)](https://nutmin.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Piphat-Thongissara.pdf)]
