@@ -3,6 +3,9 @@
 + Date : (Thu) September 24, 2020
 + Venue : [Faculty of Information and Communication Technology, Silpakorn University](https://www.ict.su.ac.th/)
 
+
+[![](/OperationRMUTT/pic/Opening.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
+
 ## Attendees
 
 1. [Aphiwat Phoorahong (อภิวัฒน์ ภู่ระหงษ์)](https://pppoomz349.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Aphiwat-Phoorahong.pdf)]
