@@ -36,6 +36,7 @@
 1. [Phannita Phumalai (พรรนนิตา ภู่มาลัย)](https://dewwwwwp23.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Phannita-Phumalai.pdf)]
 1. [Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม)](https://jpichayakorn.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Pichayakorn-Saenatham.pdf)]
 1. [Piphat Thongissara (พิพัฒน์ ทองอิสสระ)](https://nutmin.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Piphat-Thongissara.pdf)]
+1. [Premruedu Techaaphichit (เปรมฤดี เตชอภิชิต)](https://ppramrruiddee.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Premruedu-Techaaphichit.pdf)]
 1. [Rachanon Suanma (รชานนท์ สวนมา)](https://porbabasss.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Rachanon-Suanma.pdf)]
 1. [Sataporn Kennamthieng](https://prototype1503.github.io/)
 1. [Sirindhorn Khola (ศิรินธร คอล้า)](https://zaqzsx.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Sirindhorn-Khola.pdf)]
