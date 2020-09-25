@@ -8,6 +8,7 @@
 + [Apichai Chomjun (อภิชัย ชมจันทร์)](https://kawza5565.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Apichai-Chomjun.pdf)]
 + [Apinya Sangsam (อภิญญา สังข์เสม)](https://koyapinya2543.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Apinya-Sangsam.pdf)]
 + [Atipong Chomdong (อธิพงศ์ ชมดง)](https://dovakiin1245.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Atipong-Chomdong.pdf)]
++ [Atita Somprasong (อทิตา สมประสงค์)](https://afuko57.github.io/)
 + [Aunniya Vijittanantakul (อันต์ณิญา วิจิตตนันทากุล)](https://auyy.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Aunniya-Vijittanantakul.pdf)]
 + [Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์)](https://potato731.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Chaimongkhon-Srilit.pdf)]
 + [Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม)](https://toon63.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Kannatthanan-Biyaem.pdf)]
