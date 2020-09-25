@@ -5,6 +5,7 @@
 
 ## Attendees
 
++ [Aphiwat Phoorahong (อภิวัฒน์ ภู่ระหงษ์)](https://pppoomz349.github.io/)
 + [Apichai Chomjun (อภิชัย ชมจันทร์)](https://kawza5565.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Apichai-Chomjun.pdf)]
 + [Apinya Sangsam (อภิญญา สังข์เสม)](https://koyapinya2543.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Apinya-Sangsam.pdf)]
 + [Atipong Chomdong (อธิพงศ์ ชมดง)](https://dovakiin1245.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Atipong-Chomdong.pdf)]
