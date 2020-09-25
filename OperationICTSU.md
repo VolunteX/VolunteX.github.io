@@ -12,6 +12,7 @@
 + [Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม)](https://toon63.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Kannatthanan-Biyaem.pdf)]
 + [Kittitat Arrucksomboon (กิตติธัช อารักษ์สมบูรณ์)](https://ikk727.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Kittitat-Arrucksomboon.pdf)]
 + [Kriengdet Janchai (เกรียงเดช จันทร์ฉาย)](https://fcuking.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Kriengdet-Janchai.pdf)]
++ [krittima Eambunnapong(กฤติมา เอี่ยมบรรณพงษ์)](https://kme0313073027.github.io/)
 + [Kulkitti Nuangjagoun (กุลกิตติ เนื่องจากอวน)](https://baskub159.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Kulkitti-Nuangjagoun.pdf)]
 + [Naratorn Phetchuchat (นราธร เพ็ชรชูชาติ)](https://fornax66.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Naratorn-Phetchuchat.pdf)]
 + [Nontapat Supanwattanachai (นนทพัทธ์ สุพรรณวัฒนชัย)](https://hoilp.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Nontapat-Supanwattanachai.pdf)]
