@@ -59,3 +59,4 @@
 
 [![](/OperationICTSU/pic/During.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
 [![](/OperationICTSU/pic/During2.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
+[![](/OperationICTSU/pic/During3.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
