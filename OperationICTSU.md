@@ -3,7 +3,6 @@
 + Date : (Thu) September 24, 2020
 + Venue : [Faculty of Information and Communication Technology, Silpakorn University](https://www.ict.su.ac.th/)
 
-
 [![](/OperationRMUTT/pic/Opening.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
 
 ## Attendees
@@ -58,4 +57,4 @@
 1. [Varat Tanawatchwarapanya (วรัท ธนวัชร์วรปัญญา)](https://copwraith.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Varat-Tanawatchwarapanya.pdf)]
 1. [Warachina Pokapanich (วรชินา โภคาพานิชย์)](https://wqoxn13wp.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Warachina-Pokapanich.pdf)]
 
-
+[![](/OperationRMUTT/pic/During.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
