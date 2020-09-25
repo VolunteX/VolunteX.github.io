@@ -12,6 +12,7 @@
 + [Atita Somprasong (อทิตา สมประสงค์)](https://afuko57.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Atita-Somprasong.pdf)]
 + [Aunniya Vijittanantakul (อันต์ณิญา วิจิตตนันทากุล)](https://auyy.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Aunniya-Vijittanantakul.pdf)]
 + [Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์)](https://potato731.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Chaimongkhon-Srilit.pdf)]
++ [Chawalit Marayat (ชวลิต มารยาท)](https://jengl2.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Chawalit-Marayat.pdf)]
 + [Chonticha Mainoy (ชลธิชา ไม่น้อย)](https://chontichajub.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Chonticha-Mainoy.pdf)]
 + [Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม)](https://toon63.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Kannatthanan-Biyaem.pdf)]
 + [Kanokporn Saewoon (กนกพร แซ่หวุ่น)](https://jubgannamod.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Kanokporn-Saewoon.pdf)]
