@@ -32,6 +32,7 @@
 + [Sirindhorn Khola (ศิรินธร คอล้า)](https://zaqzsx.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Sirindhorn-Khola.pdf)]
 + [Sittipon Schrott (สิทธิพล ชร็อตต์)](https://jimmyschrott.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Sittipon-Schrott.pdf)]
 + [Sompong Khunthamsiri (สมพงษ์ คุณธรรมสิริ)](https://khunthamsiri.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Sompong-Khunthamsiri.pdf)]
++ [Suchawadee Yuedyaow (สุชาวดี ยืดยาว)](https://csymn.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Suchawadee-Yuedyaow.pdf)]
 + [Supakorn Chumsing (ศุภกร ชุมสิงห์)](https://dgjasknkzxcnmns.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Supakorn-Chumsing.pdf)]
 + [Supatida Upan (สุภธิดา อุปัญญ์)](https://xsupatx.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Supatida-Upan.pdf)]
 + [Taksaporn Sinsongserm (ทักษพร สินส่งเสริม)](https://konglfs.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Taksaporn-Sinsongserm.pdf)]
