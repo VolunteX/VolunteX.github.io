@@ -4,6 +4,7 @@
 + Venue : [Faculty of Information and Communication Technology, Silpakorn University](https://www.ict.su.ac.th/)
 
 [![](/OperationICTSU/pic/Opening.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
+[![](/OperationICTSU/pic/AfterTheMatch.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
 
 ## Attendees
 
