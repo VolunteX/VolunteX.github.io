@@ -27,7 +27,7 @@
 + [Nathakorn Wimonwatwethi (ณฐกร วิมลวัตรเวที)](https://adbskanmsaoib1234.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Nathakorn-Wimonwatwethi.pdf)]
 + [Nattawat Champa]
 + [Natthakarn Massuwan (ณัฐกาญจน์ เมษสุวรรณ)](https://nac1742.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Natthakarn-Massuwan.pdf)]
-+ [Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)](https://mmiew.github.io/)
++ [Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)](https://mmiew.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Navarat-Sae-ieb.pdf)]
 + [Nontapat Supanwattanachai (นนทพัทธ์ สุพรรณวัฒนชัย)](https://hoilp.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Nontapat-Supanwattanachai.pdf)]
 + [Nuthapong Tungsuk (ณัฐพงศ์ ถึงสุข)](https://pai411312.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Nuthapong-Tungsuk.pdf)]
 + [Papawee Sriwattana (ปภาวี ศรีวัฒนา)](https://baingern.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Papawee-Sriwa.pdf)]
