@@ -58,3 +58,4 @@
 1. [Warachina Pokapanich (วรชินา โภคาพานิชย์)](https://wqoxn13wp.github.io/) [[Cert](OperationICTSU/Attendance/VXOpICTSU-20200924-Warachina-Pokapanich.pdf)]
 
 [![](/OperationICTSU/pic/During.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
+[![](/OperationICTSU/pic/During2.jpg "#OperationICTSU")](https://www.facebook.com/hashtag/OperationICTSU)
