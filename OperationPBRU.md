@@ -9,7 +9,7 @@
 + Pemika Limpittaya (เปมิกา ลิ้มพิทยา) [[➳](https://www.facebook.com/tourlek.fisho)]
 
 ## Operation Facilitator
-+ Dr.Kanokrat Jirasatjanukul [[➳](https://www.facebook.com/lukhyee)]
++ Dr.Kanokrat Jirasatjanukul (ดร.กนกรัตน์ จิรสัจจานุกูล) [[➳](https://www.facebook.com/lukhyee)]
 
 ## Operation Enabler
 + Sakchai Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
