@@ -5,8 +5,8 @@
 
 ## Contributor[s]
 + Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
-+ Natila Ngaoprateeptham (ณฑิฬา เงาประทีปธรรม) [[➳](https://www.facebook.com/natila.smile2gether)]
 + Pemika Limpittaya (เปมิกา ลิ้มพิทยา) [[➳](https://www.facebook.com/tourlek.fisho)]
++ Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
 
 ## Operation Facilitator
 + Dr.Kanokrat Jirasatjanukul (ดร.กนกรัตน์ จิรสัจจานุกูล) [[➳](https://www.facebook.com/lukhyee)]
