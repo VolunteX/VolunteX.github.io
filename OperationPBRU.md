@@ -5,7 +5,6 @@
 
 ## Contributor[s]
 + Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
-+ Pemika Limpittaya (เปมิกา ลิ้มพิทยา) [[➳](https://www.facebook.com/tourlek.fisho)]
 + Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
 + Somyote Utayapanalee (สมยศ อุทยาพนาลี) [[➳](https://www.facebook.com/yote.utaya)]
 
