@@ -17,7 +17,7 @@
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 
 ## Attendees
-1. Amornrat Puangprom (อมรรัตน์ พ่วงพรม) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
+1. Amornrat Puangprom (อมรรัตน์ พ่วงพรม) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Amornrat-Puangprom.pdf)] -->
 1. Chirayut Chunlasaksophon (จิรายุส จุลศักดิ์โสภณ) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
 1. Chonthicha Saengthap (ชลธิชา แสงทับ) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
 1. Chonthipa Pongphueng (ชลธิพา พงษ์ผึ้ง) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
