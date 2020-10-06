@@ -21,11 +21,11 @@
 1. Chirayut Chunlasaksophon (จิรายุส จุลศักดิ์โสภณ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chirayut-Chunlasaksophon.pdf)] -->
 1. Chonthicha Saengthap (ชลธิชา แสงทับ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chonthicha-Saengthap.pdf)] -->
 1. Chonthipa Pongphueng (ชลธิพา พงษ์ผึ้ง) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chonthipa-Pongphueng.pdf)] -->
-1. Julaluk Sukprasroeth (จุฬาลักษณ์ สุขประเสริฐ) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
-1. Kanlaya inphrom (กัลยา อินทร์พรม) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
-1. Keadsaraporn Theansap (เกษราภรณ์ เธียรทรัพย์) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
-1. Khomsan Yungnoo (คมสันต์ ยุงหนู) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
-1. Kitiya Thongrung (กิติยา ทองรุ่ง) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
+1. Julaluk Sukprasroeth (จุฬาลักษณ์ สุขประเสริฐ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Julaluk-Sukprasroeth.pdf)] -->
+1. Kanlaya Inphrom (กัลยา อินทร์พรม) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Kanlaya-Inphrom.pdf)] -->
+1. Keadsaraporn Theansap (เกษราภรณ์ เธียรทรัพย์) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Keadsaraporn-Theansap.pdf)] -->
+1. Khomsan Yungnoo (คมสันต์ ยุงหนู) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Khomsan-Yungnoo.pdf)] -->
+1. Kitiya Thongrung (กิติยา ทองรุ่ง) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Kitiya-Thongrung.pdf)] -->
 1. Kodchakon Malikhoa (กชกร มะลิขาว) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
 1. Natnicha Wanthongsuk (ณัฐณิชา วันทองสุข) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
 1. Netchanok Ooad (เนตรชนก โอ้อวด) <!--- [[Cert](OperationPBRU/attendance/xxx.pdf)] -->
