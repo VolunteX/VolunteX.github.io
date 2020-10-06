@@ -39,7 +39,6 @@
 1. Singhanat Kirinin (สิงหนาท คีรีนิล)
 1. Sirawit Khunket (สิรวิชญ์ ขุนเกตุ)
 1. Sirilak Thanuthong (ศิริลักษณ์ ธนูทอง)
-1. Sirilak Thanuthong (ศิริลักษณ์ ธนูทอง)
 1. Sonsawan Suntawa (ศรสวรรค์ สันตะวา)
 1. Supanida Singtong (ศุภนิดา สิงห์ทอง)
 1. Surasak sodsee (สุรศักดิ์ สดสี)
