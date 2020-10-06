@@ -26,7 +26,7 @@
 1. Kanlaya inphrom (กัลยา อินทร์พรม)
 1. Keadsaraporn Theansap (เกษราภรณ์ เธียรทรัพย์)
 1. Khomsan Yungnoo (คมสันต์ ยุงหนู)
-1. Kitiya Thongrung (กิติยา ทองรุ่ง)
+1. Kitiya Thongrung (กิติยา ทองรุ่ง)
 1. Kodchakon Malikhoa (กชกร มะลิขาว)
 1. Natnicha Wanthongsuk (ณัฐณิชา วันทองสุข)
 1. Netchanok Ooad (เนตรชนก โอ้อวด)
