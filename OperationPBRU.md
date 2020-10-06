@@ -4,7 +4,6 @@
 + Venue : [Faculty of Science and Technology, PBRU](https://sci.pbru.ac.th/)
 
 ## Contributor[s]
-+ Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
 + Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
 + Somyote Utayapanalee (สมยศ อุทยาพนาลี) [[➳](https://www.facebook.com/yote.utaya)]
 
