@@ -33,7 +33,7 @@
 1. Nonthanat Chinthon (นนทนัตถ์ จีนทอน)
 1. Paphawadi Ratchasi (ปภาวดี ราชสีห์)
 1. Pavichaya Homklin (ปวิชญา หอมกลิ่น)
-1. Ratthatammanoon Buachueam (รัฐธรรมนูญ บัวเชื่อม) [//]: # (  [[Cert](OperationPBRU/attendance/VXOpICTSU-20200924-Ratthatammanoon-Buachueam.pdf)] )
+1. Ratthatammanoon Buachueam (รัฐธรรมนูญ บัวเชื่อม) <!--- [[Cert](OperationPBRU/attendance/VXOpICTSU-20200924-Ratthatammanoon-Buachueam.pdf)] -->
 1. Sarocha Sookmark (สโรชา สุขมาก)
 1. Singhanat Kirinin (สิงหนาท คีรีนิล)
 1. Sirawit Khunket (สิรวิชญ์ ขุนเกตุ)
