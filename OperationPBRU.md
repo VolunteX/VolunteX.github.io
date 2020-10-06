@@ -19,7 +19,7 @@
 
 ## Attendees
 1. Amornrat Puangprom (อมรรัตน์ พ่วงพรม)
-1. Chirayut chunlasaksophon (จิรายุส จุลศักดิ์โสภณ)
+1. Chirayut Chunlasaksophon (จิรายุส จุลศักดิ์โสภณ)
 1. Chonthicha Saengthap (ชลธิชา แสงทับ)
 1. Chonthipa Pongphueng (ชลธิพา พงษ์ผึ้ง)
 1. Julaluk Sukprasroeth (จุฬาลักษณ์ สุขประเสริฐ)
@@ -41,7 +41,7 @@
 1. Sirilak Thanuthong (ศิริลักษณ์ ธนูทอง)
 1. Sonsawan Suntawa (ศรสวรรค์ สันตะวา)
 1. Supanida Singtong (ศุภนิดา สิงห์ทอง)
-1. Surasak sodsee (สุรศักดิ์ สดสี)
+1. Surasak Sodsee (สุรศักดิ์ สดสี)
 1. Surasit Haung-keawphrai (สุรสิทธิ์ ห่วงแก้วพราย)
 1. Tantikorn Suwannapop (ตันติกร สุวรรณภพ)
 1. Thansuda Sangsawang (ธัญสุดา แสงสว่าง)
