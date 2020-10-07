@@ -19,7 +19,7 @@
 1. John Doe <!--- [[Cert](OperationBSRU/attendance/VXOpBSRU-20201107-John-Doe.pdf)] -->
 
 ## Official Sponsor
-[![](OperationBSRU/pic/senses_logo.png "Industrial Internet of Things platform (IIoT) Customization dashboard and Data logger for Industrial Internet of Things device.")](https://www.sensesiot.com/)
+[![](OperationBSRU/pic/senses-logo.png "Industrial Internet of Things platform (IIoT) Customization dashboard and Data logger for Industrial Internet of Things device.")](https://www.sensesiot.com/)
 
 ```markdown
 Let's volunteer to make an impact together!
