@@ -1,6 +1,7 @@
 ## Voluntary eXchange of Thailand #VolunteXTH
 
 + IWD2021 : (Monday) March 8, 2021
++ [#OperationBSRU](OperationBSRU) : Say Hello to IoT-based #SmartFarming on Nov 7, 2020
 + [#OperationPBRU](OperationPBRU) : Let’s #Git Started & Say Hello to #GitHubPages on Oct 9, 2020
 + [#OperationICTSU](OperationICTSU) : Let’s #Git Started & Say Hello to #GitHubPages on Sep 24, 2020
 + [#OperationRMUTT10](OperationRMUTT10) : #NewGradChallenge (AI+Security) on September 19, 2020
