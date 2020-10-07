@@ -1,4 +1,4 @@
-## (#OperationBSRU) Say Hello to IoT-based #SmartFarming
+## Say Hello to IoT-based #SmartFarming (#OperationBSRU)
 
 + Date : (Sat) November 7, 2020
 + Venue : [Faculty of Science and Technology, BSRU](http://sci.bsru.ac.th/)
