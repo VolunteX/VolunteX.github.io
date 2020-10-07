@@ -16,7 +16,7 @@
 + TBA
 
 ## Operation Facilitator
-+ Asst.Prof.Dussadee Terdbaramee (ผศ.ดุษฎี เทิดบารมี) [[➳](https://www.facebook.com/dussadee.tredbaramee)]
++ Asst.Prof.Dussadee Terdbaramee, Ph.D. (ผศ.ดร.ดุษฎี เทิดบารมี) [[➳](https://www.facebook.com/dussadee.tredbaramee)]
 
 ## Attendees
 1. John Doe <!--- [[Cert](OperationBSRU/attendance/VXOpBSRU-20201107-John-Doe.pdf)] -->
