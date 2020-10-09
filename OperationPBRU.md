@@ -36,7 +36,7 @@
 1. Paphawadi Ratchasi (ปภาวดี ราชสีห์) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Paphawadi-Ratchasi.pdf)] -->
 1. Pavichaya Homklin (ปวิชญา หอมกลิ่น) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Pavichaya-Homklin.pdf)] -->
 1. Ratthatammanoon Buachueam (รัฐธรรมนูญ บัวเชื่อม) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Ratthatammanoon-Buachueam.pdf)] -->
-1. Sarocha Sookmark (สโรชา สุขมาก) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sarocha-Sookmark.pdf)] -->
+1. Sarocha Sookmark (สโรชา สุขมาก) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sarocha-Sookmark.pdf)]
 1. Singhanat Kirinin (สิงหนาท คีรีนิล) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Singhanat-Kirinin.pdf)] -->
 1. Sirawit Khunket (สิรวิชญ์ ขุนเกตุ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sirawit-Khunket.pdf)] -->
 1. Sirilak Thanuthong (ศิริลักษณ์ ธนูทอง) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sirilak-Thanuthong.pdf)]
