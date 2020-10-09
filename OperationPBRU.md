@@ -3,7 +3,7 @@
 + Date : (Fri) October 9, 2020
 + Venue : [Faculty of Science and Technology, PBRU](https://sci.pbru.ac.th/)
 
-[![](/pic/AfterTheMatch.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/AfterTheMatch.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 
 ## Contributor[s]
 + Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
