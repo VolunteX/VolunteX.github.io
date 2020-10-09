@@ -28,7 +28,7 @@
 1. Keadsaraporn Theansap (เกษราภรณ์ เธียรทรัพย์) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Keadsaraporn-Theansap.pdf)] -->
 1. Khomsan Yungnoo (คมสันต์ ยุงหนู) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Khomsan-Yungnoo.pdf)] -->
 1. Kitiya Thongrung (กิติยา ทองรุ่ง) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Kitiya-Thongrung.pdf)] -->
-1. Kodchakon Malikhoa (กชกร มะลิขาว) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Kodchakon-Malikhoa.pdf)] -->
+1. Kodchakon Malikhoa (กชกร มะลิขาว) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Kodchakon-Malikhoa.pdf)]
 1. Natnicha Wanthongsuk (ณัฐณิชา วันทองสุข) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Natnicha-Wanthongsuk.pdf)] -->
 1. Netchanok Ooad (เนตรชนก โอ้อวด) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Netchanok-Ooad.pdf)] -->
 1. Nisarat Aeamsaard (นิศารัตน์ เอี่ยมสะอาด) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Nisarat-Aeamsaard.pdf)] -->
