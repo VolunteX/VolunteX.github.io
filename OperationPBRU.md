@@ -47,7 +47,7 @@
 1. Tantikorn Suwannapop (ตันติกร สุวรรณภพ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Tantikorn-Suwannapop.pdf)] -->
 1. Thansuda Sangsawang (ธัญสุดา แสงสว่าง) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Thansuda-Sangsawang.pdf)] -->
 1. Wilaiwan Phumphuang (วิไลวรรณ พุ่มพวง) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Wilaiwan-Phumphuang.pdf)] -->
-1. Wimonrat Plangdee (วิมลรัตน์ ปลั่งดี) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Wimonrat-Plangdee.pdf)] -->
+1. Wimonrat Plangdee (วิมลรัตน์ ปลั่งดี) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Wimonrat-Plangdee.pdf)]
 
 ## Official Sponsor
 [![](OperationPBRU/pic/NewGenMVP-BWB.png "#NewGenMVP")](https://www.facebook.com/hashtag/NewGenMVP)
