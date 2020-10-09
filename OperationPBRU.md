@@ -33,7 +33,7 @@
 1. Netchanok Ooad (เนตรชนก โอ้อวด) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Netchanok-Ooad.pdf)] -->
 1. Nisarat Aeamsaard (นิศารัตน์ เอี่ยมสะอาด) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Nisarat-Aeamsaard.pdf)]
 1. Nonthanat Chinthon (นนทนัตถ์ จีนทอน) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Nonthanat-Chinthon.pdf)]
-1. Paphawadi Ratchasi (ปภาวดี ราชสีห์) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Paphawadi-Ratchasi.pdf)] -->
+1. Paphawadi Ratchasi (ปภาวดี ราชสีห์) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Paphawadi-Ratchasi.pdf)]
 1. Pavichaya Homklin (ปวิชญา หอมกลิ่น) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Pavichaya-Homklin.pdf)] -->
 1. Ratthatammanoon Buachueam (รัฐธรรมนูญ บัวเชื่อม) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Ratthatammanoon-Buachueam.pdf)] -->
 1. Sarocha Sookmark (สโรชา สุขมาก) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sarocha-Sookmark.pdf)]
