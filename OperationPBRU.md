@@ -21,7 +21,7 @@
 ## Attendees
 1. Amornrat Puangprom (อมรรัตน์ พ่วงพรม) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Amornrat-Puangprom.pdf)]
 1. Chirayut Chunlasaksophon (จิรายุส จุลศักดิ์โสภณ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chirayut-Chunlasaksophon.pdf)] -->
-1. Chonthicha Saengthap (ชลธิชา แสงทับ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chonthicha-Saengthap.pdf)] -->
+1. Chonthicha Saengthap (ชลธิชา แสงทับ) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chonthicha-Saengthap.pdf)]
 1. Chonthipa Pongphueng (ชลธิพา พงษ์ผึ้ง) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chonthipa-Pongphueng.pdf)] -->
 1. Julaluk Sukprasroeth (จุฬาลักษณ์ สุขประเสริฐ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Julaluk-Sukprasroeth.pdf)] -->
 1. Kanlaya Inphrom (กัลยา อินทร์พรม) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Kanlaya-Inphrom.pdf)]
