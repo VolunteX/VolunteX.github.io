@@ -39,7 +39,7 @@
 1. Sarocha Sookmark (สโรชา สุขมาก) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sarocha-Sookmark.pdf)] -->
 1. Singhanat Kirinin (สิงหนาท คีรีนิล) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Singhanat-Kirinin.pdf)] -->
 1. Sirawit Khunket (สิรวิชญ์ ขุนเกตุ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sirawit-Khunket.pdf)] -->
-1. Sirilak Thanuthong (ศิริลักษณ์ ธนูทอง) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sirilak-Thanuthong.pdf)] -->
+1. Sirilak Thanuthong (ศิริลักษณ์ ธนูทอง) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sirilak-Thanuthong.pdf)]
 1. Sonsawan Suntawa (ศรสวรรค์ สันตะวา) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Sonsawan-Suntawa.pdf)] -->
 1. Supanida Singtong (ศุภนิดา สิงห์ทอง) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Supanida-Singtong.pdf)] -->
 1. Surasak Sodsee (สุรศักดิ์ สดสี) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Surasak-Sodsee.pdf)] -->
