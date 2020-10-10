@@ -65,6 +65,8 @@ Let's volunteer to make an impact together!
 
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
 
+[![](OperationPBRU/pic/During3.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+
 ```markdown
 Pre-requisite
 ```
