@@ -23,6 +23,7 @@
 1. Chirayut Chunlasaksophon (จิรายุส จุลศักดิ์โสภณ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chirayut-Chunlasaksophon.pdf)] -->
 1. Chonthicha Saengthap (ชลธิชา แสงทับ) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chonthicha-Saengthap.pdf)]
 1. Chonthipa Pongphueng (ชลธิพา พงษ์ผึ้ง) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Chonthipa-Pongphueng.pdf)]
+1. (เดชนรินทร์ นิลนวล)
 1. Julaluk Sukprasroeth (จุฬาลักษณ์ สุขประเสริฐ) <!--- [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Julaluk-Sukprasroeth.pdf)] -->
 1. Kanlaya Inphrom (กัลยา อินทร์พรม) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Kanlaya-Inphrom.pdf)]
 1. Keadsaraporn Theansap (เกษราภรณ์ เธียรทรัพย์) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Keadsaraporn-Theansap.pdf)]
@@ -48,7 +49,6 @@
 1. Thansuda Sangsawang (ธัญสุดา แสงสว่าง) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Thansuda-Sangsawang.pdf)]
 1. Wilaiwan Phumphuang (วิไลวรรณ พุ่มพวง) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Wilaiwan-Phumphuang.pdf)]
 1. Wimonrat Plangdee (วิมลรัตน์ ปลั่งดี) [[Cert](OperationPBRU/attendance/VXOpPBRU-20201009-Wimonrat-Plangdee.pdf)]
-1. (เดชนรินทร์ นิลนวล)
 
 ## Official Sponsor
 [![](OperationPBRU/pic/NewGenMVP-BWB.png "#NewGenMVP")](https://www.facebook.com/hashtag/NewGenMVP)
