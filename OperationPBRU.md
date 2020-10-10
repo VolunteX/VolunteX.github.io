@@ -53,18 +53,6 @@
 ## Official Sponsor
 [![](OperationPBRU/pic/NewGenMVP-BWB.png "#NewGenMVP")](https://www.facebook.com/hashtag/NewGenMVP)
 
-```markdown
-Let's volunteer to make an impact together!
-```
-
-## Become a Supporter
-
-[![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
-
-[![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
-
-[![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
-
 [![](OperationPBRU/pic/During0.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/During1.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/During2-1.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
@@ -81,6 +69,18 @@ Let's volunteer to make an impact together!
 [![](OperationPBRU/pic/DuringA.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/DuringB.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/DuringC.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+
+```markdown
+Let's volunteer to make an impact together!
+```
+
+## Become a Supporter
+
+[![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
+
+[![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
+
+[![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
 
 ```markdown
 Pre-requisite
