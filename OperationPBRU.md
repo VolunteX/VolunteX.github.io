@@ -77,6 +77,7 @@ Let's volunteer to make an impact together!
 [![](OperationPBRU/pic/During9.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/DuringA.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/DuringB.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/DuringC.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 
 ```markdown
 Pre-requisite
