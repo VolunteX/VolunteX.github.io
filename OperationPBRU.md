@@ -70,6 +70,13 @@ Let's volunteer to make an impact together!
 [![](OperationPBRU/pic/During2.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/During3.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/During4.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/During5.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/During6.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/During7.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/During8.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/During9.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/DuringA.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/DuringB.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 
 ```markdown
 Pre-requisite
