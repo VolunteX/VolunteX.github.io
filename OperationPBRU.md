@@ -67,7 +67,8 @@ Let's volunteer to make an impact together!
 
 [![](OperationPBRU/pic/During0.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/During1.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
-[![](OperationPBRU/pic/During2.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/During2-1.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
+[![](OperationPBRU/pic/During2-2.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/During3.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/During4.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
 [![](OperationPBRU/pic/During5-1.jpg "#OperationPBRU")](https://www.facebook.com/hashtag/OperationPBRU)
