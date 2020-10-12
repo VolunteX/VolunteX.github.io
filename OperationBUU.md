@@ -1,4 +1,4 @@
-## Say Hello to IoT-based #SmartFarming (#OperationBSRU)
+## Blockchain Technology in Logistics and Supply Chain Industry. (#OperationBUU)
 
 + Date : (Thu) November 15, 2020
 + Venue : [Faculty of Science and Arts, BUU (Chanthaburi)](http://scia.chanthaburi.buu.ac.th/)
