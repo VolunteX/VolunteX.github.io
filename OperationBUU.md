@@ -1,4 +1,4 @@
-## Blockchain Technology in Logistics and Supply Chain Industry. (#OperationBUU)
+## #OperationBUU, Blockchain Technology in Logistics and Supply Chain Industry. 
 
 + Date : (Thu) November 15, 2020
 + Venue : [Faculty of Science and Arts, BUU (Chanthaburi)](http://scia.chanthaburi.buu.ac.th/)
