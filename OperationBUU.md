@@ -3,9 +3,6 @@
 + Date : (Thu) November 15, 2020
 + Venue : [Faculty of Science and Arts, BUU (Chanthaburi)](http://scia.chanthaburi.buu.ac.th/)
 
-## Official Sponsor
-[![](OperationBUU/pic/SmartContractThailand.png "SmartContract Thailand :: The Blockchai Smart Contract Solution")](https://www.smartcontractthailand.com/)
-
 ## Contributor[s]
 + Sathapon Patanakuha (สถาพน พัฒนะคูหา) [[➳](https://web.facebook.com/banksathapon)]
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
@@ -15,6 +12,9 @@
 
 ## Operation Facilitator
 + Thutchanan Sangwan (อ.ธัชนันท์ สังวาลย์) [[➳](https://www.facebook.com/thutchanan.sangwan)]
+
+## Official Sponsor
+[![](OperationBUU/pic/SmartContractThailand.png "SmartContract Thailand :: The Blockchai Smart Contract Solution")](https://www.smartcontractthailand.com/)
 
 ## Attendees
 1. John Doe <!--- [[Cert](OperationBSRU/attendance/VXOpBSRU-20201107-John-Doe.pdf)] -->
