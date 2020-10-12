@@ -1,15 +1,15 @@
 ## Voluntary eXchange of Thailand #VolunteXTH
 
 + IWD2021 : (Monday) March 8, 2021
-+ [#OperationRMUTTO](OperationRMUTTO) : Fun with Git on Nov 27, 2020
-+ [#OperationBSRU](OperationBSRU) : Say Hello to IoT-based #SmartFarming on Nov 7, 2020
-+ [#OperationBUU](OperationBUU) : #Blockchain for Logistics and Supply Chain on Oct 15, 2020
-+ [#OperationPBRU](OperationPBRU) : Let’s #Git Started & Say Hello to #GitHubPages on Oct 9, 2020
-+ [#OperationICTSU](OperationICTSU) : Let’s #Git Started & Say Hello to #GitHubPages on Sep 24, 2020
-+ [#OperationRMUTT10](OperationRMUTT10) : #NewGradChallenge (AI+Security) on September 19, 2020
-+ [#OperationBSU10](OperationBSU10) : #HourOfCode on September 5, 2020
-+ [#OperationNSTDA](OperationNSTDA) : #LearnToCode Online : Virtual Event on June 12, 2020
-+ [#OperationBSU](OperationBSU) : #NewGradChallenge Workshop on January 26, 2020
++ [#OperationRMUTTO](OperationRMUTTO) : "Fun with Git" on Nov 27, 2020
++ [#OperationBSRU](OperationBSRU) : "Say Hello to IoT-based #SmartFarming" on Nov 7, 2020
++ [#OperationBUU](OperationBUU) : "#Blockchain for Logistics and Supply Chain" on Oct 15, 2020
++ [#OperationPBRU](OperationPBRU) : "Let’s #Git Started & Say Hello to #GitHubPages" on Oct 9, 2020
++ [#OperationICTSU](OperationICTSU) : "Let’s #Git Started & Say Hello to #GitHubPages" on Sep 24, 2020
++ [#OperationRMUTT10](OperationRMUTT10) : "#NewGradChallenge (AI+Security)" on September 19, 2020
++ [#OperationBSU10](OperationBSU10) : "#HourOfCode" on September 5, 2020
++ [#OperationNSTDA](OperationNSTDA) : "#LearnToCode Online : Virtual Event" on June 12, 2020
++ [#OperationBSU](OperationBSU) : "#NewGradChallenge Workshop" on January 26, 2020
 + [#OperationCPU](OperationCPU) : "Digital Innovation Workshop" on April 28, 2019
 + [#OperationKMUTNB](OperationKMUTNB) : "Secure Software Development Workshop" on January 27, 2019
 + [#OperationNorthBkk](OperationNorthBKK) : "Digital Innovation Workshop" on December 09, 2018 
