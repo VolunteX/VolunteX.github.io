@@ -4,7 +4,7 @@
 + Venue : [Faculty of Science and Arts, BUU (Chanthaburi)](http://scia.chanthaburi.buu.ac.th/)
 
 ## Official Sponsor
-[![](OperationBUU/pic/SmartContractThailand.png "SmartContract Thailand :: The Blockchai Smart Contract Solution")](https://www.smartcontractthailand.com/)
+[![](OperationBUU/pic/SmartContractThailand.png "SmartContract Thailand :: The Blockchain Smart Contract Solution")](https://www.smartcontractthailand.com/)
 
 ## Contributor[s]
 + Sathapon Patanakuha (สถาพน พัฒนะคูหา) [[➳](https://web.facebook.com/banksathapon)]
