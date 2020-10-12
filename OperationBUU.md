@@ -11,7 +11,7 @@
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 
 ## Operation Co-ordinator
-+. Pattira Namkate (ภัททิรา นามเกตุ) [[➳](https://www.facebook.com/baitoeyJa)]
++ Pattira Namkate (ภัททิรา นามเกตุ) [[➳](https://www.facebook.com/baitoeyJa)]
 
 ## Operation Facilitator
 + Thutchanan Sangwan (อ.ธัชนันท์ สังวาลย์) [[➳](https://www.facebook.com/thutchanan.sangwan)]
