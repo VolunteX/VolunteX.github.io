@@ -20,7 +20,7 @@
 
 ## Attendees
 1. Phattharasuda Boonnalai (ภัทรสุดา บุญณลัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharasuda-Boonnalai.pdf)]
-2. Wattanan Udomjareansinchai (วรรธนันท์ อุดมเจริญสินชัย)
+2. Wattanan Udomjareansinchai (วรรธนันท์ อุดมเจริญสินชัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Wattanan-Udomjareansinchai.pdf)]
 
 
 [![](OperationBUU/pic/AfterTheMatch2.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
