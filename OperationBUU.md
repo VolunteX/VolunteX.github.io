@@ -22,7 +22,7 @@
 1. Phattharasuda Boonnalai (ภัทรสุดา บุญณลัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharasuda-Boonnalai.pdf)]
 
 
-[![](OperationBUU/pic/AfterTheMatch2.JPG "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
+[![](OperationBUU/pic/AfterTheMatch2.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
 
 ```markdown
 Let's volunteer to make an impact together!
