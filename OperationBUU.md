@@ -3,7 +3,7 @@
 + Date : (Thu) November 15, 2020
 + Venue : [Faculty of Science and Arts, BUU (Chanthaburi)](http://scia.chanthaburi.buu.ac.th/)
 
-[![](OperationBUU/pic/AfterTheMatch1.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
+[![](OperationBUU/pic/AfterTheMatch1.JPG "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
 
 ## Contributor[s]
 + Sathapon Patanakuha (สถาพน พัฒนะคูหา) [[➳](https://web.facebook.com/banksathapon)]
