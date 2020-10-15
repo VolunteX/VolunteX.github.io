@@ -17,7 +17,7 @@
 + Thutchanan Sangwan (อ.ธัชนันท์ สังวาลย์) [[➳](https://www.facebook.com/thutchanan.sangwan)]
 
 ## Attendees
-1. John Doe <!--- [[Cert](OperationBSRU/attendance/VXOpBSRU-20201107-John-Doe.pdf)] -->
+1. Phattharasuda Boonnalai (ภัทรสุดา บุญณลัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharasuda-Boonnalai.pdf)]
 
 ```markdown
 Let's volunteer to make an impact together!
