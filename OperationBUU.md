@@ -3,8 +3,7 @@
 + Date : (Thu) November 15, 2020
 + Venue : [Faculty of Science and Arts, BUU (Chanthaburi)](http://scia.chanthaburi.buu.ac.th/)
 
-## Official Sponsor
-[![](OperationBUU/pic/SmartContractThailand.png "SmartContract Thailand :: The Blockchain Smart Contract Solution")](https://www.smartcontractthailand.com/)
+[![](OperationBUU/pic/AfterTheMatch1.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
 
 ## Contributor[s]
 + Sathapon Patanakuha (สถาพน พัฒนะคูหา) [[➳](https://web.facebook.com/banksathapon)]
@@ -15,6 +14,9 @@
 
 ## Operation Facilitator
 + Thutchanan Sangwan (อ.ธัชนันท์ สังวาลย์) [[➳](https://www.facebook.com/thutchanan.sangwan)]
+
+## Official Sponsor
+[![](OperationBUU/pic/SmartContractThailand.png "SmartContract Thailand :: The Blockchain Smart Contract Solution")](https://www.smartcontractthailand.com/)
 
 ## Attendees
 1. Phattharasuda Boonnalai (ภัทรสุดา บุญณลัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharasuda-Boonnalai.pdf)]
