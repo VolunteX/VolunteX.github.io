@@ -19,8 +19,9 @@
 [![](OperationBUU/pic/SmartContractThailand.png "SmartContract Thailand :: The Blockchain Smart Contract Solution")](https://www.smartcontractthailand.com/)
 
 ## Attendees
+1. Penpisut Moolsarn (เพ็ญพิสุทธิ์ มูลสาร) 
 1. Phattharasuda Boonnalai (ภัทรสุดา บุญณลัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharasuda-Boonnalai.pdf)]
-2. Wattanan Udomjareansinchai (วรรธนันท์ อุดมเจริญสินชัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Wattanan-Udomjareansinchai.pdf)]
+1. Wattanan Udomjareansinchai (วรรธนันท์ อุดมเจริญสินชัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Wattanan-Udomjareansinchai.pdf)]
 
 
 [![](OperationBUU/pic/AfterTheMatch2.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
