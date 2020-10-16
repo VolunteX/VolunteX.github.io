@@ -53,6 +53,7 @@
 1. Sanya Wariwan (สัญญา วาริวรรณ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sanya-Wariwan.pdf)]
 1. Sarawut Yimdee (สราวุฒิ ยิ้มดี) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sarawut-Yimdee.pdf)]
 1. Sirinya Hirunto (สิริญญา หิรัญโท) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sirinya-Hirunto.pdf)]
+1. Suparat Nipaporn (ศุภรัตน์ นิพาพอน)
 1. Supattra Pinyoratanachote (สุภัทรา ภิญโญรัตนโชติ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Supattra-Pinyoratanachote.pdf)]
 1. Supattra Pirompo (สุพัตรา ภิรมย์โพธ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Supattra-Pirompo.pdf)]
 1. Tassanun Kanklang (ทัศนันท์ คานกลาง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Tassanun-Kanklang.pdf)]
