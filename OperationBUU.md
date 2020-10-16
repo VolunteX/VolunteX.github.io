@@ -67,6 +67,7 @@
 1. Thanarat Wanitchanon (ธนรัตน์ วณิชชานนท์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Thanarat-Wanitchanon.pdf)]
 1. Thiphaporn Phanitattra (ทิพาพร พานิชอัตรา) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Thiphaporn-Phanitattra.pdf)]
 1. Thitikan Saenubon (ฐิติกานต์ แสนอุบล) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Thitikan-Saenubon.pdf)]
+1. Treerapat Sirichan (ธีรภัทร ศิริจันทร์)
 1. Tripop Phiananek (ไตรภพ เพียรเอนก) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Tripop-Phiananek.pdf)]
 1. Vilasinee Phanthasen (วิลาสินี พันธเสน) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Vilasinee-Phanthasen.pdf)]
 1. Watcharapon Sanguangpong (วัชรพล สงวนพงษ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Watcharapon-Sanguangpong.pdf)]
