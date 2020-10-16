@@ -30,8 +30,9 @@
 1. Penpisut Moolsarn (เพ็ญพิสุทธิ์ มูลสาร) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Penpisut-Moolsarn.pdf)]
 1. Phattarawadee Aunghuab (ภัทรวดี อึ่งฮวบ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattarawadee-Aunghuab.pdf)]
 1. Phattharasuda Boonnalai (ภัทรสุดา บุญณลัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharasuda-Boonnalai.pdf)]
+1. Sanya Wariwan (สัญญา  วาริวรรณ์)
 1. Sarawut Yimdee (สราวุฒิ ยิ้มดี) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sarawut-Yimdee.pdf)]
-1. Sirinya Hirunto (สิริญญา หิรัญโท)
+1. Sirinya Hirunto (สิริญญา หิรัญโท) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sirinya-Hirunto.pdf)]
 1. Supattra Pinyoratanachote (สุภัทรา ภิญโญรัตนโชติ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Supattra-Pinyoratanachote.pdf)]
 1. Supattra Pirompo (สุพัตรา ภิรมย์โพธ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Supattra-Pirompo.pdf)]
 1. Tripop Phiananek (ไตรภพ เพียรเอนก) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Tripop-Phiananek.pdf)]
