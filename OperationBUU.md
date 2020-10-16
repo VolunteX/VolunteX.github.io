@@ -45,7 +45,7 @@
 1. Nitit Mamen (นิธิศ มาเม่น) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Nitit-Mamen.pdf)]
 1. Nopparut Thikhampornsan (นพรุจ ทิฆัมพรศานต์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Nopparut-Thikhampornsan.pdf)]
 1. Noppong Faekhom (ณพพงศ์ แฝกหอม) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Noppong-Faekhom.pdf)]
-1. Nutchaphon Pungamaharporn (ณัชพล ปัญจมหาพร)
+1. Nutchaphon Pungamaharporn (ณัชพล ปัญจมหาพร) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Nutchaphon-Pungamaharporn.pdf)]
 1. Panadda Choowet (ปนัดดา ชูเวชย์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Panadda-Choowet.pdf)]
 1. Panutchadaporn Karakes (ปนัฐชฎาภร การะเกษ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Panutchadaporn-Karakes.pdf)]
 1. Penpichcha Ramsoongnoen (เพ็ญพิชชา รำสูงเนิน) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Penpichcha-Ramsoongnoen.pdf)]
