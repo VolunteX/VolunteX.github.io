@@ -20,6 +20,7 @@
 
 ## Attendees
 <!--  [[Cert](OperationBUU/attendance/xxx.pdf)] -->
+1. Ananya Bunchaiyo (อนัญญา บุญไชโย)
 1. Anujitra Trajit (อนุจิตรา ไตรจิตร์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Anujitra-Trajit.pdf)]
 1. Apichada Seangjan (อภิชาดา แสงจันทร์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apichada-Seangjan.pdf)]
 1. Montira Wongmuang (มณธิรา วงศ์เมือง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Montira-Wongmuang.pdf)]
