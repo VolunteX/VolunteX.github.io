@@ -52,6 +52,7 @@
 1. Sirinya Hirunto (สิริญญา หิรัญโท) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sirinya-Hirunto.pdf)]
 1. Supattra Pinyoratanachote (สุภัทรา ภิญโญรัตนโชติ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Supattra-Pinyoratanachote.pdf)]
 1. Supattra Pirompo (สุพัตรา ภิรมย์โพธ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Supattra-Pirompo.pdf)]
+1. Tassanun Kanklang (ทัศนันท์ คานกลาง) 
 1. Tawan Laipradit (ตะวัน หลายประดิษฐ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Tawan-Laipradit.pdf)]
 1. Thammarart Pongsotorn (ธรรมรัฐ พงโศธร) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Thammarart-Pongsotorn.pdf)]
 1. Thitikan Saenubon (ฐิติกานต์ แสนอุบล) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Thitikan-Saenubon.pdf)]
