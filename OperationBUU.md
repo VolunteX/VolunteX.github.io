@@ -48,7 +48,7 @@
 1. Phattharanan Arunchot (ภัทรนันท์ อรัญโชติ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharanan-Arunchot.pdf)]
 1. Phattharasuda Boonnalai (ภัทรสุดา บุญณลัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharasuda-Boonnalai.pdf)]
 1. Plaifah Horklong (ปรายฟ้า หอกลอง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Plaifah-Horklong.pdf)]
-1. Possachon Boocha (พสชนน์ บูชา)
+1. Possachon Boocha (พสชนน์ บูชา) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Possachon-Boocha.pdf)]
 1. Sanya Wariwan (สัญญา วาริวรรณ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sanya-Wariwan.pdf)]
 1. Sarawut Yimdee (สราวุฒิ ยิ้มดี) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sarawut-Yimdee.pdf)]
 1. Sirinya Hirunto (สิริญญา หิรัญโท) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sirinya-Hirunto.pdf)]
