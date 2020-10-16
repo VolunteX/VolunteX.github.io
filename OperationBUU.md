@@ -44,6 +44,7 @@
 1. Penpichcha Ramsoongnoen (เพ็ญพิชชา รำสูงเนิน) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Penpichcha-Ramsoongnoen.pdf)]
 1. Penpisut Moolsarn (เพ็ญพิสุทธิ์ มูลสาร) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Penpisut-Moolsarn.pdf)]
 1. Phattarawadee Aunghuab (ภัทรวดี อึ่งฮวบ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattarawadee-Aunghuab.pdf)]
+1. Phattharanan Arunchot (ภัทรนันท์ อรัญโชติ)
 1. Phattharasuda Boonnalai (ภัทรสุดา บุญณลัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattharasuda-Boonnalai.pdf)]
 1. Sanya Wariwan (สัญญา วาริวรรณ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sanya-Wariwan.pdf)]
 1. Sarawut Yimdee (สราวุฒิ ยิ้มดี) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Sarawut-Yimdee.pdf)]
