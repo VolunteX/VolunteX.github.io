@@ -46,6 +46,7 @@
 1. Vilasinee Phanthasen (วิลาสินี พันธเสน) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Vilasinee-Phanthasen.pdf)]
 1. Watcharapon Sanguangpong (วัชรพล สงวนพงษ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Watcharapon-Sanguangpong.pdf)]
 1. Wattanan Udomjareansinchai (วรรธนันท์ อุดมเจริญสินชัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Wattanan-Udomjareansinchai.pdf)]
+1. Worawan Yeemarfuang ()
 <!--  [[Cert](OperationBUU/attendance/xxx.pdf)] -->
 
 [![](OperationBUU/pic/AfterTheMatch2.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
