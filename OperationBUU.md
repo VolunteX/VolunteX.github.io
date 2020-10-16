@@ -52,7 +52,7 @@
 1. Tripop Phiananek (ไตรภพ เพียรเอนก) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Tripop-Phiananek.pdf)]
 1. Vilasinee Phanthasen (วิลาสินี พันธเสน) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Vilasinee-Phanthasen.pdf)]
 1. Watcharapon Sanguangpong (วัชรพล สงวนพงษ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Watcharapon-Sanguangpong.pdf)]
-1. Watsana Thuram (วาสนา ทุรัมย์)
+1. Watsana Thuram (วาสนา ทุรัมย์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Watsana-Thuram.pdf)]
 1. Wattanan Udomjareansinchai (วรรธนันท์ อุดมเจริญสินชัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Wattanan-Udomjareansinchai.pdf)]
 1. Worawan Yeemarfuang (วรวรรณ ยีแมเฟือง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Worawan-Yeemarfuang.pdf)]
 1. Yuwadee Pewsamrong (ยุวดี ผิวสำโรง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Yuwadee-Pewsamrong.pdf)]
