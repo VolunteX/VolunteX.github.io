@@ -20,6 +20,7 @@
 
 ## Attendees
 1. Anujitra Trajit (อนุจิตรา ไตรจิตร์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Anujitra-Trajit.pdf)]
+1. Nichapat Sawhangrojn (ณิชาภัชร สว่างโรจน์)
 1. Panadda Choowet (ปนัดดา ชูเวชย์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Panadda-Choowet.pdf)]
 1. Panutchadaporn Karakes (ปนัฐชฎาภร การะเกษ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Panutchadaporn-Karakes.pdf)]
 1. Penpisut Moolsarn (เพ็ญพิสุทธิ์ มูลสาร) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Penpisut-Moolsarn.pdf)]
