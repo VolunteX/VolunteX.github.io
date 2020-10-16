@@ -36,6 +36,7 @@
 1. Natikorn Keawkliang (เนติกร แก้วเกลี้ยง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Natikorn-Keawkliang.pdf)]
 1. Nichapat Sawhangrojn (ณิชาภัชร สว่างโรจน์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Nichapat-Sawhangrojn.pdf)]
 1. Nopparut Thikhampornsan (นพรุจ ทิฆัมพรศานต์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Nopparut-Thikhampornsan.pdf)]
+1. Noppong Faekhom (ณพพงศ์ แฝกหอม)
 1. Panadda Choowet (ปนัดดา ชูเวชย์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Panadda-Choowet.pdf)]
 1. Panutchadaporn Karakes (ปนัฐชฎาภร การะเกษ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Panutchadaporn-Karakes.pdf)]
 1. Penpichcha Ramsoongnoen (เพ็ญพิชชา รำสูงเนิน) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Penpichcha-Ramsoongnoen.pdf)]
