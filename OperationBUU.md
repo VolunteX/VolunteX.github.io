@@ -60,6 +60,7 @@
 1. Tassanun Kanklang (ทัศนันท์ คานกลาง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Tassanun-Kanklang.pdf)]
 1. Tawan Laipradit (ตะวัน หลายประดิษฐ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Tawan-Laipradit.pdf)]
 1. Thammarart Pongsotorn (ธรรมรัฐ พงโศธร) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Thammarart-Pongsotorn.pdf)]
+1. Thiphaporn Phanitattra (ทิพาพร พานิชอัตรา)
 1. Thitikan Saenubon (ฐิติกานต์ แสนอุบล) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Thitikan-Saenubon.pdf)]
 1. Tripop Phiananek (ไตรภพ เพียรเอนก) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Tripop-Phiananek.pdf)]
 1. Vilasinee Phanthasen (วิลาสินี พันธเสน) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Vilasinee-Phanthasen.pdf)]
