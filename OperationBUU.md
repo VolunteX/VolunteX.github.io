@@ -31,6 +31,7 @@
 1. Chanayut Pimkot (ชนายุทธ พิมพ์คต) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Chanayut-Pimkot.pdf)]
 1. Chirawan Poldechdecha (จิราวรรณ พลเดชเดชา) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Chirawan-Poldechdecha.pdf)]
 1. Chutimon Wattanachaiworkun (ชุติมณฑน์ วัฒนาชัยวรกุล) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Chutimon-Wattanachaiworkun.pdf)]
+1. Duanghathai Khamphuet (ดวงหทัย คำพืช)
 1. Jarupicha Apichart (จารุพิชา อภิชาติ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Jarupicha-Apichart.pdf)]
 1. Jiraphat Malanit (จิรภัทร์ มาลานิตย์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Jiraphat-Malanit.pdf)]
 1. Jiraphon Praparn (จิราภรณ์ ประพาฬ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Jiraphon-Praparn.pdf)]
