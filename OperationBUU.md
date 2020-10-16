@@ -23,6 +23,7 @@
 1. Ananya Bunchaiyo (อนัญญา บุญไชโย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Ananya-Bunchaiyo.pdf)]
 1. Anujitra Trajit (อนุจิตรา ไตรจิตร์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Anujitra-Trajit.pdf)]
 1. Apichada Seangjan (อภิชาดา แสงจันทร์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apichada-Seangjan.pdf)]
+1. Apisit Chamnan (อภิสิทธิ์ ชำนาญ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apisit-Chamnan.pdf)]
 1. Apiwat Sarajittapap (อภิวัฒน์ สารจิตตาภาพ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apiwat-Sarajittapap.pdf)]
 1. Areeya Mayeng (อารีญา มะเย็ง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Areeya-Mayeng.pdf)]
 1. Jarupicha Apichart (จารุพิชา อภิชาติ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Jarupicha-Apichart.pdf)]
