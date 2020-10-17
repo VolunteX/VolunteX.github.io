@@ -9,6 +9,7 @@
 + Sathapon Patanakuha (สถาพน พัฒนะคูหา) [Operation Enabler] [[➳](https://web.facebook.com/banksathapon)]
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [Operation Leader] [[➳](http://mk.in.th)]
 + Piyaporn Rattanopat (ปิยาภรณ์ รัตโนภาส) [[Cert](OperationBUU/contributor/VXOpBUU-20201015-Piyaporn-Rattanopat.pdf)]
++ Luksamon Boonma (ลักษมณ บุญมา) [[Cert](OperationBUU/contributor/VXOpBUU-20201015-Luksamon-Boonma.pdf)]
 
 ## Operation Co-ordinator
 + Pattira Namkate (ภัททิรา นามเกตุ) [[➳](https://www.facebook.com/baitoeyJa)]
