@@ -20,7 +20,6 @@
 
 ## Official Sponsor
 [![](OperationRMUTTO/pic/NewGenMVP-BWB.png "#NewGenMVP")](https://www.facebook.com/hashtag/NewGenMVP)
-
 [![](OperationRMUTTO/pic/TTT2bMCT-BlackFrame.png "#TTT2bMCT")](https://www.facebook.com/hashtag/TTT2bMCT)
 
 ```markdown
