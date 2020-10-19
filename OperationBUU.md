@@ -40,7 +40,7 @@
 1. Jittarin Tupanna (จิตตริน ตุปันนา) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Jittarin-Tupanna.pdf)]
 1. Kamonsri Narapong (กมลศรี นราพงค์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Kamonsri-Narapong.pdf)]
 1. Kanokporn Magthapwong (กนกพร มากเทพวงษ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Kanokporn-Magthapwong.pdf)]
-1. Kotchakorn Bumrung (กชกร บำรุง)
+1. Kotchakorn Bumrung (กชกร บำรุง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Kotchakorn-Bumrung.pdf)]
 1. Kittiwadee Prempree (กิตติวดี เปรมปรีดิ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Kittiwadee-Prempree.pdf)]
 1. Klinchai Siritrai (คลินชัย ศิริตรัย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Klinchai-Siritrai.pdf)]
 1. Montira Wongmuang (มณธิรา วงศ์เมือง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Montira-Wongmuang.pdf)]
