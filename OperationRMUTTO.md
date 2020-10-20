@@ -37,9 +37,7 @@ Let's volunteer to make an impact together!
 [![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
 
-```markdown
-Pre-requisite
-```
+## Pre-requisite
 + [https://git-scm.com/download/](https://git-scm.com/download/)
 + [https://desktop.github.com/](https://desktop.github.com/)
 + [https://www.python.org/downloads/](https://www.python.org/downloads/)
