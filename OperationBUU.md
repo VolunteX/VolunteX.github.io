@@ -56,7 +56,7 @@
 1. Panadda Choowet (ปนัดดา ชูเวชย์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Panadda-Choowet.pdf)]
 1. Panutchadaporn Karakes (ปนัฐชฎาภร การะเกษ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Panutchadaporn-Karakes.pdf)]
 1. Pattraporn Naksakul (ภัทราภรณ์ นาคสกุล) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Pattraporn-Naksakul.pdf)]
-1. Pawita Rachpitak (ภาวิตา ราชพิทักษ์) 
+1. Pawita Rachpitak (ภาวิตา ราชพิทักษ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Pawita-Rachpitak.pdf)]
 1. Penpichcha Ramsoongnoen (เพ็ญพิชชา รำสูงเนิน) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Penpichcha-Ramsoongnoen.pdf)]
 1. Penpisut Moolsarn (เพ็ญพิสุทธิ์ มูลสาร) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Penpisut-Moolsarn.pdf)]
 1. Phattarawadee Aunghuab (ภัทรวดี อึ่งฮวบ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Phattarawadee-Aunghuab.pdf)]
