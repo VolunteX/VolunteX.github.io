@@ -25,6 +25,7 @@
 1. Amonrat Satkuson (อมรรัตน์ สัตย์กุศล) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Amonrat-Satkuson.pdf)]
 1. Ananya Bunchaiyo (อนัญญา บุญไชโย) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Ananya-Bunchaiyo.pdf)]
 1. Anujitra Trajit (อนุจิตรา ไตรจิตร์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Anujitra-Trajit.pdf)]
+1. Apatsara Pakkatae (อภัสรา ปักกะเต)
 1. Apichada Seangjan (อภิชาดา แสงจันทร์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apichada-Seangjan.pdf)]
 1. Apisit Chamnan (อภิสิทธิ์ ชำนาญ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apisit-Chamnan.pdf)]
 1. Apiwat Sarajittapap (อภิวัฒน์ สารจิตตาภาพ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apiwat-Sarajittapap.pdf)]
