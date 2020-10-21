@@ -30,6 +30,7 @@
 1. Apisit Chamnan (อภิสิทธิ์ ชำนาญ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apisit-Chamnan.pdf)]
 1. Apiwat Sarajittapap (อภิวัฒน์ สารจิตตาภาพ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Apiwat-Sarajittapap.pdf)]
 1. Areeya Mayeng (อารีญา มะเย็ง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Areeya-Mayeng.pdf)]
+1. Athitaya Sinpasit (อฐิตญา ศิลปสิทธิ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Athitaya-Sinpasit.pdf)]
 1. Chalinee Funglo (ชาลิณี ฟุ้งโล้) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Chalinee-Funglo.pdf)]
 1. Chalita Pimthong (ชลิตา พิมทอง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Chalita-Pimthong.pdf)]
 1. Chanayut Pimkot (ชนายุทธ พิมพ์คต) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Chanayut-Pimkot.pdf)]
