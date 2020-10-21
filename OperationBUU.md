@@ -100,6 +100,7 @@
 [![](OperationBUU/pic/During2.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
 [![](OperationBUU/pic/During3.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
 [![](OperationBUU/pic/During4.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
+[![](OperationBUU/pic/During6.jpg "#OperationBUU")](https://www.facebook.com/hashtag/OperationBUU)
 
 ```markdown
 Let's volunteer to make an impact together!
