@@ -41,6 +41,7 @@
 1. Jiraphat Malanit (จิรภัทร์ มาลานิตย์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Jiraphat-Malanit.pdf)]
 1. Jiraphon Praparn (จิราภรณ์ ประพาฬ) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Jiraphon-Praparn.pdf)]
 1. Jittarin Tupanna (จิตตริน ตุปันนา) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Jittarin-Tupanna.pdf)]
+1. Juthamas Phatanasin (จุฑามาศ พัฒนศิลป์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Juthamas-Phatanasin.pdf)]
 1. Kamonsri Narapong (กมลศรี นราพงค์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Kamonsri-Narapong.pdf)]
 1. Kanokporn Magthapwong (กนกพร มากเทพวงษ์) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Kanokporn-Magthapwong.pdf)]
 1. Kotchakorn Bumrung (กชกร บำรุง) [[Cert](OperationBUU/attendance/VXOpBUU-20201015-Kotchakorn-Bumrung.pdf)]
