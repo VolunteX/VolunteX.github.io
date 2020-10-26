@@ -25,7 +25,29 @@
 + Asst.Prof.Dussadee Terdbaramee, Ph.D. (ผศ.ดร.ดุษฎี เทิดบารมี) [[➳](https://www.facebook.com/dussadee.tredbaramee)]
 
 ## Attendees
-1. John Doe <!--- [[Cert](OperationBSRU/attendance/VXOpBSRU-20201107-John-Doe.pdf)] -->
+1. ARTHITAYA KHAMSANGWAN (อาทิตยา คำสังวาล) <!--- [[Cert](OperationBSRU/attendance/VXOpBSRU-20201107-ARTHITAYA-KHAMSANGWAN.pdf)] -->
+1. ATCHA LANGKULKASATTRIN (อัชฌา ลางคุลเกษตริน)
+1. ATTAKOVIT MANGADE (อรรถโกวิท มั่นเกตุ)
+1. CHALOEMKIAT SATHAPANA (เฉลิมเกียรติ สถาปนะ)
+1. DAMISA POBKHUNTHOD (ดมิสา โพบขุนทด)
+1. JIRAKORN TIRATHADA (จิรกร ถิรธาดา)
+1. KANOKWAN KHAMMA (กนกวรรณ เข็มมา)
+1. KRAIWICH JOMTHONG (ไกรวิชญ์ จอมทอง)
+1. NANTACHAI JAISOMKOM (นันทชัย ใจสมคม)
+1. NATCHAPOL CHITPINITCHOB (ณัชพล จิตรพินิจชอบ)
+1. NIRACHA HOSI (นิรชา โหสิ)
+1. OAMMARIN LAKNONGBUA (อัมรินทร์ หลักหนองบัว)
+1. PATTARAWADEE TRACHOO (ภัทราวดี ตราชู)
+1. PIMCHANOK PROMHOO (พิมพ์ชนก พรมหู)
+1. PIMPRAPA YOTPHAIAIN (พิมประภา ยอดไพอินทร์)
+1. RATTANAWADEE KHUMWONGDEE (รัตนวดี คุ้มวงษ์ดี)
+1. RONNAKRIT WICHAIDIT (รณกฤต วิชัยดิษฐ์)
+1. SASIWIMON RUKCHAT (ศศิวิมล รักชาติ)
+1. SUCHADA CHAROENYING (สุชฎา เจริญยิ่ง)
+1. SUWAT BUTPHET (สุวัฒน์ บุตรเพ็ชร์)
+1. TANAPOND NGAMJARERN (ธนพร งามเจริญ)
+1. TANONGSAK CHIMAOY (ทนงศักดิ์ ฉิมอ้อย)
+1. THEWANAT SRIMONGKHON (เทวนาถ ศรีมงคล)
 
 ```markdown
 Let's volunteer to make an impact together!
