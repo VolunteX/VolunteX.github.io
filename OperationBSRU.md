@@ -31,7 +31,7 @@
 1. CHALOEMKIAT SATHAPANA (เฉลิมเกียรติ สถาปนะ)
 1. DAMISA POBKHUNTHOD (ดมิสา โพบขุนทด)
 1. JIRAKORN TIRATHADA (จิรกร ถิรธาดา)
-1. KANOKWAN KHAMMA (กนกวรรณ เข็มมา)
+1. KANOKWAN KHEMMA (กนกวรรณ เข็มมา)
 1. KRAIWICH JOMTHONG (ไกรวิชญ์ จอมทอง)
 1. NANTACHAI JAISOMKOM (นันทชัย ใจสมคม)
 1. NATCHAPOL CHITPINITCHOB (ณัชพล จิตรพินิจชอบ)
