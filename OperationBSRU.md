@@ -3,6 +3,8 @@
 + Date : (Sat) November 7, 2020
 + Venue : [Faculty of Science and Technology, BSRU](http://sci.bsru.ac.th/)
 
+[![](/OperationBSRU/pic/AfterTheMatch1.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+
 ## Official Sponsor
 [![](OperationBSRU/pic/senses-logo.png "Industrial Internet of Things platform (IIoT) Customization dashboard and Data logger for Industrial Internet of Things device.")](https://www.sensesiot.com/)
 
