@@ -84,6 +84,14 @@ Let's volunteer to make an impact together!
 
 [![](/OperationBSRU/pic/50.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
+[![](/OperationBSRU/pic/58.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+
+[![](/OperationBSRU/pic/60.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+
+[![](/OperationBSRU/pic/70.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+
+[![](/OperationBSRU/pic/82.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+
 ## Become a Supporter
 
 [![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
