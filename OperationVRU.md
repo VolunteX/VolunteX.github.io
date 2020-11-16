@@ -3,9 +3,6 @@
 + Date : (Sat) December 19, 2020
 + Venue : [Faculty of Science and Technology, VRU](http://sci.vru.ac.th/)
 
-
-[![](/OperationVRU/pic/Group.jpg "#OperationVRU")](https://www.facebook.com/hashtag/OperationVRU)
-
 ## Contributor[s]
 1. ???
 
@@ -23,8 +20,8 @@
 + Call for Sponsors
 
 ## Attendees
-
 + ????
+
 ```markdown
 Let's volunteer to make an impact together!
 ```
@@ -34,5 +31,4 @@ Let's volunteer to make an impact together!
 [![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
 
 [![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
-
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
