@@ -4,7 +4,8 @@
 + Venue : [Faculty of Science and Technology, VRU](http://sci.vru.ac.th/)
 
 ## Contributor[s]
-1. ???
+1. Tossaporn Wetsiri (ทศพร เวชศิริ) [[➳](https://www.facebook.com/wetsiri)]
+1. Sommanut Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 
 ## Operation Facilitator
 + Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
@@ -14,7 +15,6 @@
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
-+ ???
 
 ## Official Sponsor
 + Call for Sponsors
