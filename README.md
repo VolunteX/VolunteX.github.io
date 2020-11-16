@@ -1,6 +1,7 @@
 ## Voluntary eXchange of Thailand #VolunteXTH
 
 + IWD2021 : (Monday) March 8, 2021
++ [#OperationVRU](OperationVRU) : "#NewGradChallenge (AI+Security)" on December 19, 2020
 + [#OperationRMUTTO](OperationRMUTTO) : "Fun with Git" on Nov 27, 2020
 + [#OperationBSRU](OperationBSRU) : "Say Hello to IoT-based #SmartFarming" on Nov 7, 2020
 + [#OperationBUU](OperationBUU) : "#Blockchain for Logistics and Supply Chain" on Oct 15, 2020
