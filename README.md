@@ -3,7 +3,7 @@
 + IWD2021 : (Monday) March 8, 2021
 + [#OperationVRU](OperationVRU) : "#NewGradChallenge (AI+Security)" on December 19, 2020
 + [#OperationRMUTTO](OperationRMUTTO) : "Fun with Git" on Nov 27, 2020
-+ [#OperationICTSU10](OperationICTSU10) : "Advanced Database Systems" on Nov 17, 2020
++ [#OperationICTSU10](OperationICTSU10) : "Security Mechanisms in DBMS" on Nov 17, 2020
 + [#OperationBSRU](OperationBSRU) : "Say Hello to IoT-based #SmartFarming" on Nov 7, 2020
 + [#OperationBUU](OperationBUU) : "#Blockchain for Logistics and Supply Chain" on Oct 15, 2020
 + [#OperationPBRU](OperationPBRU) : "Let’s #Git Started & Say Hello to #GitHubPages" on Oct 9, 2020
