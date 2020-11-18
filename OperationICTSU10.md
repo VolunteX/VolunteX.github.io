@@ -22,7 +22,7 @@
 + Piyathida Kirdprom (ปิยธิดา เกิดพร้อม) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Piyathida-Kirdprom.pdf)]
 + Sakpiphat Kedkaew (ศักดิ์พิภัช เกตุแก้ว) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Sakpiphat-Kedkaew.pdf)]
 + Surachet Seehaboot (สุรเชษฐ์ สีหะบุตร) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Surachet-Seehaboot.pdf)]
-+ Tanakorn Silaparat (ธนากร ศิลปรัตน์)
++ Tanakorn Silaparat (ธนากร ศิลปรัตน์) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Tanakorn-Silaparat.pdf)]
 + Thananchai Charoenapisak (ธนัญชัย เจริญอภิศักดิ์) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Thananchai-Charoenapisak.pdf)]
 + Tida Yuenyong (ธิดา ยืนยง) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Tida-Yuenyong.pdf)]
 
