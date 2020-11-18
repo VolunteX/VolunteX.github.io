@@ -11,6 +11,7 @@
 
 ## Attendees
 <!--  [[Cert](OperationICTSU10/Attendance/xxx.pdf)] -->
++ Surachet Seehaboot (สุรเชษฐ์ สีหะบุตร) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Surachet-Seehaboot.pdf)]
 + Thananchai Charoenapisak (ธนัญชัย เจริญอภิศักดิ์) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Thananchai-Charoenapisak.pdf)]
 
 ```markdown
