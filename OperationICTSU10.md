@@ -10,7 +10,8 @@
 + Sirisak Ketkaew (ศิริศักดิ์ เกตุแก้ว) [[➳](https://www.facebook.com/sirisak.k94)]
 
 ## Attendees
-1. TBA
+<!--  [[Cert](OperationICTSU10/attendance/xxx.pdf)] -->
++ Thananchai Charoenapisak (ธนัญชัย เจริญอภิศักดิ์) [[Cert](OperationICTSU10/attendance/xxx.pdf)]
 
 ```markdown
 Let's volunteer to make an impact together!
