@@ -11,7 +11,7 @@
 
 ## Attendees
 <!--  [[Cert](OperationICTSU10/Attendance/xxx.pdf)] -->
-+ Chayisara Khantha (ชยิสรา คันธะ)
++ Chayisara Khantha (ชยิสรา คันธะ) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Chayisara-Khantha.pdf)]
 + Nattawut Khonthon (ณัฐวุฒิ คนทน) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Nattawut-Khonthon.pdf)]
 + Nitchakamon Sajan (ณิชกมล แซ่จัน) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Nitchakamon-Sajan.pdf)]
 + Sakpiphat Kedkaew (ศักดิ์พิภัช เกตุแก้ว) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Sakpiphat-Kedkaew.pdf)]
