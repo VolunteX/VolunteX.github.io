@@ -3,7 +3,7 @@
 + Date : (Tue) November 17, 2020
 + Venue : [Faculty of Information and Communication Technology, Silpakorn University](https://www.ict.su.ac.th/)
 
-[![](OperationICTSU10/pic/AfterTheMatch.JPG "#OperationICTSU10")](https://www.facebook.com/hashtag/OperationICTSU10)
+[![](OperationICTSU10/pic/AfterTheMatch.jpg "#OperationICTSU10")](https://www.facebook.com/hashtag/OperationICTSU10)
 
 ## Contributor[s]
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
