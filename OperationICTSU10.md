@@ -11,7 +11,7 @@
 
 ## Attendees
 <!--  [[Cert](OperationICTSU10/attendance/xxx.pdf)] -->
-+ Thananchai Charoenapisak (ธนัญชัย เจริญอภิศักดิ์) [[Cert](OperationICTSU10/attendance/xxx.pdf)]
++ Thananchai Charoenapisak (ธนัญชัย เจริญอภิศักดิ์) [[Cert](OperationICTSU10/attendance/VXOpICTSU10-20201117-Thananchai-Charoenapisak.pdf)]
 
 ```markdown
 Let's volunteer to make an impact together!
