@@ -17,7 +17,7 @@
 + Nattawut Khonthon (ณัฐวุฒิ คนทน) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Nattawut-Khonthon.pdf)]
 + Navaris Numthongkam (นวฤทธิ์ นุ่มทองคำ) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Navaris-Numthongkam.pdf)]
 + Nitchakamon Sajan (ณิชกมล แซ่จัน) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Nitchakamon-Sajan.pdf)]
-+ Nuttarika Koedruen (ณัฐริกาเกิดรื่น) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Nuttarika-Koedruen.pdf)]
++ Nuttarika Koedruen (ณัฐริกา เกิดรื่น) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Nuttarika-Koedruen.pdf)]
 + Piyathida Kirdprom (ปิยธิดา เกิดพร้อม) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Piyathida-Kirdprom.pdf)]
 + Sakpiphat Kedkaew (ศักดิ์พิภัช เกตุแก้ว) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Sakpiphat-Kedkaew.pdf)]
 + Surachet Seehaboot (สุรเชษฐ์ สีหะบุตร) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Surachet-Seehaboot.pdf)]
