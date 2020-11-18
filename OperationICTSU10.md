@@ -16,6 +16,7 @@
 + Sakpiphat Kedkaew (ศักดิ์พิภัช เกตุแก้ว) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Sakpiphat-Kedkaew.pdf)]
 + Surachet Seehaboot (สุรเชษฐ์ สีหะบุตร) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Surachet-Seehaboot.pdf)]
 + Thananchai Charoenapisak (ธนัญชัย เจริญอภิศักดิ์) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Thananchai-Charoenapisak.pdf)]
++ Tida Yuenyong (ธิดา ยืนยง) [[Cert](OperationICTSU10/Attendance/VXOpICTSU10-20201117-Tida-Yuenyong.pdf)]
 
 ```markdown
 Let's volunteer to make an impact together!
