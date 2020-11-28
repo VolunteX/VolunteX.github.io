@@ -4,23 +4,63 @@
 + Venue : [Faculty of Business Administration and Information Technology, RMUTTO](https://busit.rmutto.ac.th/)
 
 ## Contributor[s]
-+ Sakchai Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
-+ Siwaporn Linthaluek (ศิวพร ลินทะลึก) [[➳](https://www.facebook.com/LoVeNoMoErTeAr)]
-+ Naphatsanan Suwannawong (นภัสนันท์ สุวรรณวงศ์) [[➳](https://www.facebook.com/benzii.mda)]
-+ Paparat Sillapasuwan (ปภารัตน์ ศิลปสุวรรณ) [[➳](https://www.facebook.com/Parn.scoopydoo)]
-+ Jidapha Yoorubsuk (จิดาภา อยู่รับสุข) [[➳](https://www.facebook.com/Aomylette)]
+1. Sakchai Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
+1. Siwaporn Linthaluek (ศิวพร ลินทะลึก) [[➳](https://www.facebook.com/LoVeNoMoErTeAr)]
+1. Naphatsanan Suwannawong (นภัสนันท์ สุวรรณวงศ์) [[➳](https://www.facebook.com/benzii.mda)]
+1. Paparat Sillapasuwan (ปภารัตน์ ศิลปสุวรรณ) [[➳](https://www.facebook.com/Parn.scoopydoo)]
+1. Jidapha Yoorubsuk (จิดาภา อยู่รับสุข) [[➳](https://www.facebook.com/Aomylette)]
 
-## Operation Facilitator
+## Operation Enabler & Facilitator
 + Tippawan Meepung (อ.ทิพวรรณ มีพึ่ง) [[➳](https://www.facebook.com/mfktsoft)]
-
-## Operation Enabler
-+ TBA
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
 
 ## Attendees
-1. John Doe
+1. Chaetsada Saenking (เจษฎา แสนกิ่ง)
+1. Chanatip Suravuttivichai (ชนาธิป สุรวุฒิวิชัย)
+1. Charhutpat Sillapasombat (จรัสพัฒน์ ศิลปสมบัติ)
+1. Chayanin Chombunchawy (ชญานิน ชมบุญช่วย)
+1. Jinnawat Kitteng (จิณณวัตร กิจเต็ง)
+1. Jiraphat Tesphan (จิรภัทร เทศพันธ์)
+1. Jirayut Supon (จิรายุทธ สุพล)
+1. Kamet Buathip (คเณศ บัวทิพย์)
+1. Kittituch Parjanban (กิตติธัช ประจันบาล)
+1. Manthana Thabfaeng (มัณฑนา ทับแฟง)
+1. Methee Thongniam (เมธี ทองเนียม)
+1. Nathamon Viroj (นางสาวณฐมน วิโรจน์)
+1. Nattakit Ratngampradit (ณัฐกิตต์ รัตน์งามประดิษฐ์)
+1. Nattaphon Premkit (นัฐพล เปรมกิจ)
+1. Nattaphum Puangpom (ณัฏฐภูมิ พ่วงป้อม)
+1. Nuttawat Chatphuak (ณัฐวัฒน์ ชาติเผือก)
+1. Panumas Khantiwong (ภาณุมาศ ขันติวงศ์)
+1. Panuvit Sangsri (ภาณุวิชญ์ แสงศรี)
+1. Panuwat Ketsuwan (ภานุวัฒน์ เกตุสุวรรณ์)
+1. Passakon Promma (ภาสกร พรมมา)
+1. Patipan Chotbowornsit (ปฏิภาณ โชติบวรสิทธิ์)
+1. Pattadon Leekmake (พัทธดนธ์ หลีกเมฆ)
+1. Pattharaporn Matimang (ภัทราภรณ์ มาธิมัง)
+1. Phatthanaphon Chuysurichay (พัฒนพล ฉุยสุริฉาย)
+1. Pichayudtm Sukhanon (พิชญุตม์ สุขานนท์)
+1. Pitchanon Kamrai (พิชชานนท์ กำไร)
+1. pongsakorn khumphis (พงศกร ขำพิศ)
+1. Poomin Warakanjanapong (ภูมินทร์ วีระกาญจนพงษ์)
+1. Ratchadaphorn Khumsri (รัชฎาพร คำศรี)
+1. Ratchakit Woraphinyophat (รัชกฤช วรภิญโญภาส)
+1. Rujirut Poonsawas (รุจิรัตน์ พูลสวัสดิ์)
+1. Saharat Sangdara (นาย สหรัฐ แสงดารา)
+1. Sarocha Dounglomchan (สโรชา ดวงล้อมจันทร์)
+1. Sipakorn Sakonsukon (สิปกร สาครสุคนธ์)
+1. Siranee Bunloet (ศิราณี บุญเลิศ)
+1. Sitichok Hompungpoo (สิทธิโชค หอมพวงภู่)
+1. Sitthisak​ Budsarakhamkul (สิทธิศักดิ์​ บุษราคัมกุล)
+1. Siwamok Magkhamarn (ศิวโมกข์ มัฆมาน)
+1. Supanida Boonphong (สุภนิดา บุญผ่อง)
+1. Thadapong Nakdirok (ธาดาพงศ์ นาคดิลก)
+1. Thanapat Pewdamkam (ธนภัทร ผิวดำขำ)
+1. Theerapon Sanmai (ธีรพล แสนใหม่)
+1. Thipbode Sukyag (ธิบดี สุขญาติ)
+1. Thitima Chuenjinda (ฐิติมา ชื่นจินดา)
 
 ## Official Sponsor
 [![](OperationRMUTTO/pic/NewGenMVP-BWB.png "#NewGenMVP")](https://www.facebook.com/hashtag/NewGenMVP)
