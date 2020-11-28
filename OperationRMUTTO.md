@@ -3,6 +3,9 @@
 + Date : (Fri) November 27, 2020
 + Venue : [Faculty of Business Administration and Information Technology, RMUTTO](https://busit.rmutto.ac.th/)
 
+[![](OperationRMUTTO/pic/Group.jpg "#OperationRMUTTO")](https://www.facebook.com/hashtag/OperationRMUTTO)
+[![](OperationRMUTTO/pic/AfterTheMatch.jpg "#OperationRMUTTO")](https://www.facebook.com/hashtag/OperationRMUTTO)
+
 ## Contributor[s]
 1. Sakchai Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
 1. Siwaporn Linthaluek (ศิวพร ลินทะลึก) [[➳](https://www.facebook.com/LoVeNoMoErTeAr)]
