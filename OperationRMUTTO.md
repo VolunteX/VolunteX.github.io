@@ -39,7 +39,7 @@
 1. Panumas Khantiwong (ภาณุมาศ ขันติวงศ์)
 1. Panuvit Sangsri (ภาณุวิชญ์ แสงศรี)
 1. Panuwat Ketsuwan (ภานุวัฒน์ เกตุสุวรรณ์)
-1. Passakon Promma (ภาสกร พรมมา)
+1. Passakon Promma (ภาสกร พรมมา) [[Cert](OperationRMUTTO/attendance/VXOpRMUTTO-20201127-Passakon-Promma.pdf)]
 1. Patipan Chotbowornsit (ปฏิภาณ โชติบวรสิทธิ์)
 1. Pattadon Leekmake (พัทธดนธ์ หลีกเมฆ)
 1. Pattharaporn Matimang (ภัทราภรณ์ มาธิมัง)
