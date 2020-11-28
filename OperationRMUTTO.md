@@ -43,7 +43,7 @@
 1. Phatthanaphon Chuysurichay (พัฒนพล ฉุยสุริฉาย)
 1. Pichayudtm Sukhanon (พิชญุตม์ สุขานนท์)
 1. Pitchanon Kamrai (พิชชานนท์ กำไร)
-1. pongsakorn khumphis (พงศกร ขำพิศ)
+1. Pongsakorn khumphis (พงศกร ขำพิศ)
 1. Poomin Warakanjanapong (ภูมินทร์ วีระกาญจนพงษ์)
 1. Ratchadaphorn Khumsri (รัชฎาพร คำศรี)
 1. Ratchakit Woraphinyophat (รัชกฤช วรภิญโญภาส)
