@@ -26,7 +26,7 @@
 1. Chayanin Chombunchawy (ชญานิน ชมบุญช่วย)
 1. Jinnawat Kitteng (จิณณวัตร กิจเต็ง)
 1. Jiraphat Tesphan (จิรภัทร เทศพันธ์)
-1. Jirayut Supon (จิรายุทธ สุพล)
+1. Jirayut Supon (จิรายุทธ สุพล) [[Cert](OperationRMUTTO/attendance/VXOpRMUTTO-20201127-Jirayut-Supon.pdf)]
 1. Kamet Buathip (คเณศ บัวทิพย์)
 1. Kittituch Parjanban (กิตติธัช ประจันบาล)
 1. Manthana Thabfaeng (มัณฑนา ทับแฟง)
