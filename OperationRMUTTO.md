@@ -44,7 +44,7 @@
 1. Pattadon Leekmake (พัทธดนธ์ หลีกเมฆ)
 1. Pattharaporn Matimang (ภัทราภรณ์ มาธิมัง)
 1. Phatthanaphon Chuysurichay (พัฒนพล ฉุยสุริฉาย)
-1. Pichayudtm Sukhanon (พิชญุตม์ สุขานนท์)
+1. Pichayudtm Sukhanon (พิชญุตม์ สุขานนท์) [[Cert](OperationRMUTTO/attendance/VXOpRMUTTO-20201127-Pichayudtm-Sukhanon.pdf)]
 1. Pitchanon Kamrai (พิชชานนท์ กำไร)
 1. Pongsakorn Khumphis (พงศกร ขำพิศ) [[Cert](OperationRMUTTO/attendance/VXOpRMUTTO-20201127-Pongsakorn-Khumphis.pdf)]
 1. Poomin Warakanjanapong (ภูมินทร์ วีระกาญจนพงษ์)
