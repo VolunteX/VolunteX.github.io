@@ -5,7 +5,6 @@
 
 ## Contributor[s]
 1. Tossaporn Wetsiri (ทศพร เวชศิริ) [[➳](https://www.facebook.com/wetsiri)]
-1. Sommanut Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 1. Sakchai Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
 1. Kijnathee Thaweethanakosol (กิจนที ทวีธนโกศล) [[➳](https://www.facebook.com/xsever)]
 1. Phongsaphat Duma (พงศพัศ ดุมา) [[➳](https://www.facebook.com/phospt)]
@@ -16,9 +15,7 @@
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
-
-## Official Sponsor
-+ Call for Sponsors
++ Sommanut Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
 
 ## Attendees
 + ????
