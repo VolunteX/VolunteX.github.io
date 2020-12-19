@@ -12,7 +12,6 @@
 
 ## Operation Facilitator
 + Natthavee Phetbunphen (ณัฐฐวี เพชรบุญเพ็ญ) [[➳](https://www.facebook.com/P.Phetbunphen)]
-+ Prapakorn Munkong (ประภากร มั่นคง)
 
 ## Operation Leader
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
@@ -21,6 +20,7 @@
 
 ## Attendees
 + Laongdaw Insanong (ละอองดาว อินสนอง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Laongdaw-Insanong.pdf)]
++ Prapakorn Munkong (ประภากร มั่นคง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prapakorn-Munkong.pdf)]
 
 ## Related Links
 + [Arduino IDE](https://www.arduino.cc/en/software/)
