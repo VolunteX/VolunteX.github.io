@@ -19,7 +19,7 @@
 + Tossaporn Wetsiri (ทศพร เวชศิริ) [[➳](https://www.facebook.com/wetsiri)]
 
 ## Attendees
-+ ????
++ Laongdaw Insanong (ละอองดาว อินสนอง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Laongdaw-Insanong.pdf)]
 
 ## Related Links
 + [Arduino IDE](https://www.arduino.cc/en/software/)
