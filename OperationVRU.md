@@ -21,7 +21,7 @@
 + ????
 
 ## Related Links
-+ [https://dl.espressif.com/dl/package_esp32_index.json](https://dl.espressif.com/dl/package_esp32_index.json)
++ [ESP32](https://dl.espressif.com/dl/package_esp32_index.json)
 + [Senses Weizen Book](https://drive.google.com/file/d/1sZKplsUUTbqbmQjfTe1d4MvkMwllXQ14)
 + [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
