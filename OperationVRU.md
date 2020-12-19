@@ -22,6 +22,7 @@
 + ????
 
 ## Related Links
++ [Arduino IDE](https://www.arduino.cc/en/software/)
 + [ESP32](https://dl.espressif.com/dl/package_esp32_index.json)
 + [Senses Weizen Book](https://drive.google.com/file/d/1sZKplsUUTbqbmQjfTe1d4MvkMwllXQ14)
 + [Introducing Amazon Go and the world’s most advanced shopping technology](https://www.youtube.com/watch?v=NrmMk1Myrxc)
