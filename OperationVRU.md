@@ -30,7 +30,7 @@
 + Prachaya Chinnawon (ปรัชญา ชิณวร) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prachaya-Chinnawon.pdf)]
 + Prapakorn Munkong (ประภากร มั่นคง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prapakorn-Munkong.pdf)]
 + (สิริกร พุ่มพนม)
-+ Sirin Suwannawut (สิรินทร์ สุวรรนาวุธ)
++ Sirin Suwannawut (สิรินทร์ สุวรรนาวุธ) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Sirin-Suwannawut.pdf)]
 
 ## Related Links
 + [Arduino IDE](https://www.arduino.cc/en/software/)
