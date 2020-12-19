@@ -26,6 +26,7 @@
 + [Senses Weizen Book](https://drive.google.com/file/d/1sZKplsUUTbqbmQjfTe1d4MvkMwllXQ14)
 + [Introducing Amazon Go and the world’s most advanced shopping technology](https://www.youtube.com/watch?v=NrmMk1Myrxc)
 + [Teachable Machine](https://teachablemachine.withgoogle.com/)
++ [Gym](https://gym.openai.com/)
 
 ```markdown
 Let's volunteer to make an impact together!
