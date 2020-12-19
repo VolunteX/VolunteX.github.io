@@ -22,6 +22,10 @@
 ## Attendees
 + ????
 
+## Related Links
++ https://dl.espressif.com/dl/package_esp32_index.json
++ https://teachablemachine.withgoogle.com/
+
 ```markdown
 Let's volunteer to make an impact together!
 ```
