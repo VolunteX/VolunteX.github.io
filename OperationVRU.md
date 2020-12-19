@@ -3,6 +3,8 @@
 + Date : (Sat) December 19, 2020
 + Venue : [Faculty of Science and Technology, VRU](http://sci.vru.ac.th/)
 
+[![](OperationVRU/pic/AfterTheMatch.jpg "#OperationVRU")](https://www.facebook.com/hashtag/OperationVRU)
+
 ## Contributor[s]
 1. Sakchai Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
 1. Kijnathee Thaweethanakosol (กิจนที ทวีธนโกศล) [[➳](https://www.facebook.com/xsever)]
