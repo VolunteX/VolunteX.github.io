@@ -1,4 +1,4 @@
-## #OperationVRU : #NewGradChallenge (AI+Security)
+## #OperationVRU : #NewGradChallenge (AI & IoT)
 
 + Date : (Sat) December 19, 2020
 + Venue : [Faculty of Science and Technology, VRU](http://sci.vru.ac.th/)
