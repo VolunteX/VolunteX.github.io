@@ -25,6 +25,7 @@
 + Jetsada Detwangklang (เจษฎา เดชหวังกลาง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Jetsada-Detwangklang.pdf)]
 + Khemmasak Phetdeekhai (เขมศักดิ์ เพ็ชรดีคาย) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Khemmasak-Phetdeekhai.pdf)]
 + Laongdaw Insanong (ละอองดาว อินสนอง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Laongdaw-Insanong.pdf)]
++ Narit Sangkrajay (นฤทธิ์ แสงกระจาย)
 + Nutchanon Suktalotkan (ณัฐชนน สุขตลอดกาล) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Nutchanon-Suktalotkan.pdf)]
 + Prachaya Chinnawon (ปรัชญา ชิณวร) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prachaya-Chinnawon.pdf)]
 + Prapakorn Munkong (ประภากร มั่นคง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prapakorn-Munkong.pdf)]
