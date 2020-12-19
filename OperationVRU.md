@@ -32,6 +32,7 @@
 + Prapakorn Munkong (ประภากร มั่นคง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prapakorn-Munkong.pdf)]
 + (สิริกร พุ่มพนม)
 + Sirin Suwannawut (สิรินทร์ สุวรรนาวุธ) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Sirin-Suwannawut.pdf)]
++ Watcharapong Homtong (วัชรพงศ์ หอมทอง)
 
 ## Related Links
 + [Arduino IDE](https://www.arduino.cc/en/software/)
