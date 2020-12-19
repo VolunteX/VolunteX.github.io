@@ -30,7 +30,7 @@
 + Nutchanon Suktalotkan (ณัฐชนน สุขตลอดกาล) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Nutchanon-Suktalotkan.pdf)]
 + Prachaya Chinnawon (ปรัชญา ชิณวร) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prachaya-Chinnawon.pdf)]
 + Prapakorn Munkong (ประภากร มั่นคง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prapakorn-Munkong.pdf)]
-+ Sanchai Khansanthia (สันต์ชัย ขานสันเทียะ)
++ Sanchai Khansanthia (สันต์ชัย ขานสันเทียะ) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Sanchai-Khansanthia.pdf)]
 + (สิริกร พุ่มพนม)
 + Sirin Suwannawut (สิรินทร์ สุวรรนาวุธ) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Sirin-Suwannawut.pdf)]
 + Watcharapong Homtong (วัชรพงศ์ หอมทอง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Watcharapong-Homtong.pdf)]
