@@ -25,6 +25,7 @@
 + [Arduino IDE](https://www.arduino.cc/en/software/)
 + [ESP32](https://dl.espressif.com/dl/package_esp32_index.json)
 + [Senses Weizen Book](https://drive.google.com/file/d/1sZKplsUUTbqbmQjfTe1d4MvkMwllXQ14)
++ [Senses IOT](https://www.sensesiot.com/)
 + [Introducing Amazon Go and the world’s most advanced shopping technology](https://www.youtube.com/watch?v=NrmMk1Myrxc)
 + [Teachable Machine](https://teachablemachine.withgoogle.com/)
 + [Gym](https://gym.openai.com/)
