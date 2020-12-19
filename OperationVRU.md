@@ -21,7 +21,7 @@
 + Tossaporn Wetsiri (ทศพร เวชศิริ) [[➳](https://www.facebook.com/wetsiri)]
 
 ## Attendees
-+ Aniruth Wangwaree (อนิรุทธิ์ วังวารี)
++ Aniruth Wangwaree (อนิรุทธิ์ วังวารี) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Aniruth-Wangwaree.pdf)]
 + Buntawee Jantra (บุญทวี จันทรา) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Buntawee-Jantra.pdf)]
 + Jetsada Detwangklang (เจษฎา เดชหวังกลาง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Jetsada-Detwangklang.pdf)]
 + Khemmasak Phetdeekhai (เขมศักดิ์ เพ็ชรดีคาย) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Khemmasak-Phetdeekhai.pdf)]
