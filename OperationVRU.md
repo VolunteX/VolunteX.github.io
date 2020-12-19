@@ -20,7 +20,7 @@
 
 ## Attendees
 + Laongdaw Insanong (ละอองดาว อินสนอง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Laongdaw-Insanong.pdf)]
-+ Prachaya Chinnawon (ปรัชญา ชิณวร)
++ Prachaya Chinnawon (ปรัชญา ชิณวร) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prachaya-Chinnawon.pdf)]
 + Prapakorn Munkong (ประภากร มั่นคง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Prapakorn-Munkong.pdf)]
 + (สิริกร พุ่มพนม)
 
