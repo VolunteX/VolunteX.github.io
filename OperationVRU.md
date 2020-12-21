@@ -25,6 +25,7 @@
 + Buntawee Jantra (บุญทวี จันทรา) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Buntawee-Jantra.pdf)]
 + Jetsada Detwangklang (เจษฎา เดชหวังกลาง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Jetsada-Detwangklang.pdf)]
 + Khemmasak Phetdeekhai (เขมศักดิ์ เพ็ชรดีคาย) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Khemmasak-Phetdeekhai.pdf)]
++ Kittisak Singsungnoen (กิตติศักดิ์ สิงห์สูงเนิน)
 + Kornkamon Khothrakoun (กรกมล ก่อตระกูล) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Kornkamon-Khothrakoun.pdf)]
 + Laongdaw Insanong (ละอองดาว อินสนอง) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Laongdaw-Insanong.pdf)]
 + Narit Sangkrajay (นฤทธิ์ แสงกระจาย) [[Cert](OperationVRU/attendance/VXOpVRU-20201219-Narit-Sangkrajay.pdf)]
