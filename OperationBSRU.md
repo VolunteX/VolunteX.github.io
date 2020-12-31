@@ -17,7 +17,7 @@
 ## Contributor[s]
 + Hatsaya Sae-Chua (หัสยา แซ่ฉั่ว) [[➳](https://www.facebook.com/profile.php?id=100005176634024)]
 + Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
-+ Jenjira Saechai (เจนจิรา แซ่ใช้)
++ Jenjira Saechai (เจนจิรา แซ่ใช้) [[➳](https://www.facebook.com/JaJa.jenjira)]
 + Somrut Chetnuch (สมรัฐ เชตนุช) [[➳](https://www.facebook.com/somrut.chetnuch)]
 + Patcharapon Susuk (พัชรพล สู่สุข) [[➳](https://www.facebook.com/Forestwick)]
 + Sommanut Ketpong (สมมนัส เกตุผ่อง) [[➳](https://www.facebook.com/tong.ketpong)]
