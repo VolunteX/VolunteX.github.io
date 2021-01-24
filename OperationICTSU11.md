@@ -16,7 +16,7 @@
 
 ## Attendees
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
-+ John Doe (ชนะกุล ไชยถาวร) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-John-Doe.pdf)]
++ John Doe (จอห์น โด) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-John-Doe.pdf)]
 
 ```markdown
 Let's volunteer to make an impact together!
