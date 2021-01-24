@@ -4,6 +4,7 @@
 + Venue : [Faculty of Information and Communication Technology, Silpakorn University](https://www.ict.su.ac.th/) (Virtual Classroom)
 
 [![](OperationICTSU11/pic/2021-01-19_092057.png "#OperationICTSU11")](https://www.facebook.com/hashtag/OperationICTSU11)
+[![](OperationICTSU11/pic/2021-01-19_153833.png "#OperationICTSU11")](https://www.facebook.com/hashtag/OperationICTSU11)
 
 ## Contributor[s]
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
