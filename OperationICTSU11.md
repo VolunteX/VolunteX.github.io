@@ -95,7 +95,7 @@
 1. Taksaporn Sinsongserm (ทักษพร สินส่งเสริม) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Taksaporn-Sinsongserm.pdf)]
 1. Tanyaporn Smittikorakul (ธัญพร สมิทธิกรกุล)
 1. Tawanrat Yensook (ธวัลรัตน์ เย็นสุข)
-1. Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค)
+1. Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Thadtarnan-Sangjitpondchok.pdf)]
 1. Thanapat Kwampean (ธนภัทร ความเพียร)
 1. Thanin Chinwattanakarn (ธนิน ชินวัฒนกาญจน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Thanin-Chinwattanakarn.pdf)]
 1. Varat Tanawatchwarapanya (วรัท ธนวัชร์วรปัญญา)
