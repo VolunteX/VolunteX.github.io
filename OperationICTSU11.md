@@ -1,0 +1,25 @@
+## Getting Started in Cybersecurity (CIA) (#OperationICTSU11)
+
++ Date : (Tue) January 19, 2021
++ Venue : [Faculty of Information and Communication Technology, Silpakorn University](https://www.ict.su.ac.th/) (Virtual Classroom)
+
+[![](OperationICTSU11/pic/AfterTheMatch.jpg "#OperationICTSU11")](https://www.facebook.com/hashtag/OperationICTSU11)
+
+## Contributor[s]
++ Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
++ Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
+
+## Attendees
+<!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
++ John Doe (ชนะกุล ไชยถาวร) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-John-Doe.pdf)]
+
+```markdown
+Let's volunteer to make an impact together!
+```
+
+## Become a Supporter
+
+[![](https://scdn.line-apps.com/n/line_add_friends/btn/en.png "Add @VolunteXTH to be your friend")](https://lin.ee/cnIgUj4)
+
+[![](/@VolunteXTH.png "Add @VolunteXTH to be your friend")](https://line.me/R/ti/p/@voluntex)
+[![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)

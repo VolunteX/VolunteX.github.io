@@ -1,6 +1,7 @@
 ## Voluntary eXchange of Thailand #VolunteXTH
 
 + IWD2021 : (Monday) March 8, 2021
++ [#OperationICTSU11](OperationICTSU11) : Getting Started in Cybersecurity (CIA) on Jan 19, 2021
 + [#OperationVRU](OperationVRU) : "#NewGradChallenge (AI & IoT)" on December 19, 2020
 + [#OperationRMUTTO](OperationRMUTTO) : "Fun with Git" on Nov 27, 2020
 + [#OperationICTSU10](OperationICTSU10) : "Security Mechanisms in DBMS" on Nov 17, 2020
