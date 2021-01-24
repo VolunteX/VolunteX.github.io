@@ -73,7 +73,7 @@
 1. Piphat Thongissara (พิพัฒน์ ทองอิสสระ)
 1. Pornthep kidchob (พรเทพ คิดชอบ)
 1. Pranisara Kijnate (ปาณิสรา กิจเนตร์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Pranisara-Kijnate.pdf)]
-1. Premruedi Techaaphichit (เปรมฤดี เตชอภิชิต)
+1. Premruedi Techaaphichit (เปรมฤดี เตชอภิชิต) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Premruedi-Techaaphichit.pdf)]
 1. Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ)
 1. Rachanon Suanma (รชานนท์ สวนมา)
 1. Ramita Thongdonam (รมิตา ทองดอนอ่ำ) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Ramita-Thongdonam.pdf)]
