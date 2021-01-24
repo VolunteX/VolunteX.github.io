@@ -33,7 +33,7 @@
 1. Jantarat Jareonsuk (จันทรัสม์ เจริญสุข) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Jantarat-Jareonsuk.pdf)]
 1. Jiratchaya Sutawong (จิรัชญา สุตะวงษ์)
 1. Jutamas Siriart (จุฑามาศ ศิริอรรถ)
-1. Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม)
+1. Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Kannatthanan-Biyaem.pdf)]
 1. Kanokporn angkasekwinai (กนกพร อังคเศกวินัย)
 1. Kanokporn Saewoon (กนกพร แซ่หวุ่น)
 1. Kittitat Arrucksomboon (กิตติธัช อารักษ์สมบูรณ์)
