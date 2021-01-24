@@ -43,7 +43,7 @@
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
 1. Krittima Eambunnapong (กฤติมา เอี่ยมบรรณพงษ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Krittima-Eambunnapong.pdf)]
 1. Kulkitti Nuangjagoun (กุลกิตติ เนื่องจากอวน)
-1. Lerdluk Satdee (เลิศลักษณ์ สาตดี)
+1. Lerdluk Satdee (เลิศลักษณ์ สาตดี) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Lerdluk-Satdee.pdf)]
 1. Manatsawan Channarong (มนัสวรรณ ชาญณรงค์)
 1. Nanthawat Pinitkijwat (นันทวัฒน์ พินิจกิจวัฒน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Nanthawat-Pinitkijwat.pdf)]
 1. Naratorn Phetchuchat (นราธร เพ็ชรชูชาติ)
