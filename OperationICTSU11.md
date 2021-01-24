@@ -28,7 +28,7 @@
 1. Chakkrit Khaewlek (จักรกฤษณ์ แก้วเล็ก)
 1. Chanasorn Sretongtae (ชนสรณ์ ศรีทองแท้)
 1. Chawalit Marayat (ชวลิต มารยาท)
-1. Chonrapat Settarat (ชนรพัฒน์ เศรษฐรัตน์)
+1. Chonrapat Settarat (ชนรพัฒน์ เศรษฐรัตน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chonrapat-Settarat.pdf)]
 1. Chonticha Mainoy (ชลธิชา ไม่น้อย)
 1. Jantarat Jareonsuk (จันทรัสม์ เจริญสุข) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Jantarat-Jareonsuk.pdf)]
 1. Jiratchaya Sutawong (จิรัชญา สุตะวงษ์)
