@@ -72,7 +72,7 @@
 1. Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม)
 1. Piphat Thongissara (พิพัฒน์ ทองอิสสระ)
 1. Pornthep kidchob (พรเทพ คิดชอบ)
-1. Pranisara Kijnate (ปาณิสรา กิจเนตร์)
+1. Pranisara Kijnate (ปาณิสรา กิจเนตร์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Pranisara-Kijnate.pdf)]
 1. Premruedi Techaaphichit (เปรมฤดี เตชอภิชิต)
 1. Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ)
 1. Rachanon Suanma (รชานนท์ สวนมา)
