@@ -76,7 +76,7 @@
 1. Premruedi Techaaphichit (เปรมฤดี เตชอภิชิต)
 1. Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ)
 1. Rachanon Suanma (รชานนท์ สวนมา)
-1. Ramita Thongdonam (รมิตา ทองดอนอ่ำ)
+1. Ramita Thongdonam (รมิตา ทองดอนอ่ำ) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Ramita-Thongdonam.pdf)]
 1. Ratnisa boonhenglee (รัตน์นิศา บุ้นเฮงหลี)
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
 1. Sariti Luanrak (ศริติ ล่วนรักษ์)
