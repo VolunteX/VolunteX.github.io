@@ -65,7 +65,7 @@
 1. Papawee Sriwattana (ปภาวี ศรีวัฒนา)
 1. Paphawadee Rubsung (ปภาวดี รูปสูง)
 1. Pattarawadee Saebae (ภัทรวดี แซ่เบ้)
-1. Payuda Makpasuk (ปยุดา มากผาสุข)
+1. Payuda Makpasuk (ปยุดา มากผาสุข) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Payuda-Makpasuk.pdf)]
 1. Phacharapon Pakchuen (พัชรพล ภักตรชื่น) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Phacharapon-Pakchuen.pdf)]
 1. Phannita Phumalai (พรรนนิตา ภู่มาลัย)
 1. Phittiphon Wangburapapaiboon (พิตติพล หวังบูรพาไพบูลย์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Phittiphon-W.pdf)]
