@@ -17,6 +17,7 @@
 ## Attendees
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
 + John Doe (จอห์น โด) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-John-Doe.pdf)]
+
 1. Apatcha Sonpray (อพัชชา สนพราย)
 1. Apichai Chomjun (อภิชัย ชมจันทร์)
 1. Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์)
