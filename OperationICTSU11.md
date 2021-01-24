@@ -64,7 +64,7 @@
 1. Nutrapee Phundech (นัฐระพี พันเดช)  [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Nutrapee-Phundech.pdf)]
 1. Papawee Sriwattana (ปภาวี ศรีวัฒนา)
 1. Paphawadee Rubsung (ปภาวดี รูปสูง)
-1. Pattarawadee Saebae (ภัทรวดี แซ่เบ้)
+1. Pattarawadee Saebae (ภัทรวดี แซ่เบ้) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Pattarawadee-Saebae.pdf)]
 1. Payuda Makpasuk (ปยุดา มากผาสุข) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Payuda-Makpasuk.pdf)]
 1. Phacharapon Pakchuen (พัชรพล ภักตรชื่น) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Phacharapon-Pakchuen.pdf)]
 1. Phannita Phumalai (พรรนนิตา ภู่มาลัย)
