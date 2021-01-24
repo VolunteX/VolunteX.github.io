@@ -88,7 +88,7 @@
 1. Somruthai Tangon (สมฤทัย แตงอ่อน)
 1. Suchawadee Yuedyaow (สุชาวดี ยืดยาว)
 1. Supakorn Chumsing (ศุภกร ชุมสิงห์)
-1. Supatida Upan (สุภธิดา อุปัญญ์)
+1. Supatida Upan (สุภธิดา อุปัญญ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Supatida-Upan.pdf)]
 1. Sureeya Sriuschariya (สุรีย์ญา ศรีอัจฉริยะ)
 1. Suthima poonsiripipat (สุธิมา พูนศิริพิพัฒน์)
 1. Sutthiphon Saengnum (สุทธิพร แสงนุ่ม)
