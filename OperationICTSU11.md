@@ -32,7 +32,7 @@
 1. Chawalit Marayat (ชวลิต มารยาท)
 1. Chonrapat Settarat (ชนรพัฒน์ เศรษฐรัตน์)
 1. Chonticha Mainoy (ชลธิชา ไม่น้อย)
-1. Jantarat Jareonsuk (จันทรัสม์ เจริญสุข)
+1. Jantarat Jareonsuk (จันทรัสม์ เจริญสุข) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Jantarat-Jareonsuk.pdf)]
 1. Jiratchaya Sutawong (จิรัชญา สุตะวงษ์)
 1. Jutamas Siriart (จุฑามาศ ศิริอรรถ)
 1. Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม)
