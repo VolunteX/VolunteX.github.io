@@ -45,7 +45,7 @@
 1. Kulkitti Nuangjagoun (กุลกิตติ เนื่องจากอวน)
 1. Lerdluk Satdee (เลิศลักษณ์ สาตดี)
 1. Manatsawan Channarong (มนัสวรรณ ชาญณรงค์)
-1. Nanthawat Pinitkijwat (นันทวัฒน์ พินิจกิจวัฒน์)
+1. Nanthawat Pinitkijwat (นันทวัฒน์ พินิจกิจวัฒน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Nanthawat-Pinitkijwat.pdf)]
 1. Naratorn Phetchuchat (นราธร เพ็ชรชูชาติ)
 1. Natawas Piemkhumdee (ณัฐวัส เปี่ยมขำดี)
 1. Nathakorn Wimonwatwethi (ณฐกร วิมลวัตรเวที)
