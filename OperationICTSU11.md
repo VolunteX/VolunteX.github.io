@@ -47,7 +47,7 @@
 1. Manatsawan Channarong (มนัสวรรณ ชาญณรงค์)
 1. Nanthawat Pinitkijwat (นันทวัฒน์ พินิจกิจวัฒน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Nanthawat-Pinitkijwat.pdf)]
 1. Naratorn Phetchuchat (นราธร เพ็ชรชูชาติ)
-1. Natawas Piemkhumdee (ณัฐวัส เปี่ยมขำดี)
+1. Natawas Piemkhumdee (ณัฐวัส เปี่ยมขำดี) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Natawas-Piemkhumdee.pdf)]
 1. Nathakorn Wimonwatwethi (ณฐกร วิมลวัตรเวที)
 1. Nathanicha Boonyaporn (ณัฏฐณิชา บุณยาภรณ์)
 1. Nattakan Noichalad (ณัฐกานต์ น้อยฉลาด)
