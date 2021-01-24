@@ -25,7 +25,7 @@
 1. Aunniya Vijittanantakul (อันต์ณิญา วิจิตตนันทากุล)
 1. Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chaimongkhon-Srilit.pdf)]
 1. Chaitoch Pansuvan (ชัยธัช ปานสุวรรณ์)
-1. Chakkrit Khaewlek (จักรกฤษณ์ แก้วเล็ก)
+1. Chakkrit Khaewlek (จักรกฤษณ์ แก้วเล็ก) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chakkrit-Khaewlek.pdf)]
 1. Chanasorn Sretongtae (ชนสรณ์ ศรีทองแท้)
 1. Chawalit Marayat (ชวลิต มารยาท) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chawalit-Marayat.pdf)]
 1. Chonrapat Settarat (ชนรพัฒน์ เศรษฐรัตน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chonrapat-Settarat.pdf)]
