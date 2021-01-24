@@ -23,7 +23,7 @@
 1. Atipong Chomdong (อธิพงศ์ ชมดง)
 1. Atita Somprasong (อทิตา สมประสงค์)
 1. Aunniya Vijittanantakul (อันต์ณิญา วิจิตตนันทากุล)
-1. Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์)
+1. Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chaimongkhon-Srilit.pdf)]
 1. Chaitoch Pansuvan (ชัยธัช ปานสุวรรณ์)
 1. Chakkrit Khaewlek (จักรกฤษณ์ แก้วเล็ก)
 1. Chanasorn Sretongtae (ชนสรณ์ ศรีทองแท้)
