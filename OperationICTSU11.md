@@ -29,7 +29,7 @@
 1. Chanasorn Sretongtae (ชนสรณ์ ศรีทองแท้)
 1. Chawalit Marayat (ชวลิต มารยาท) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chawalit-Marayat.pdf)]
 1. Chonrapat Settarat (ชนรพัฒน์ เศรษฐรัตน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chonrapat-Settarat.pdf)]
-1. Chonticha Mainoy (ชลธิชา ไม่น้อย)
+1. Chonticha Mainoy (ชลธิชา ไม่น้อย) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chonticha-Mainoy.pdf)]
 1. Jantarat Jareonsuk (จันทรัสม์ เจริญสุข) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Jantarat-Jareonsuk.pdf)]
 1. Jiratchaya Sutawong (จิรัชญา สุตะวงษ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Jiratchaya-Sutawong.pdf)]
 1. Jutamas Siriart (จุฑามาศ ศิริอรรถ)
