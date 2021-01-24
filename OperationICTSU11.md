@@ -92,7 +92,7 @@
 1. Sureeya Sriuschariya (สุรีย์ญา ศรีอัจฉริยะ) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Sureeya-Sriuschariya.pdf)]
 1. Suthima poonsiripipat (สุธิมา พูนศิริพิพัฒน์)
 1. Sutthiphon Saengnum (สุทธิพร แสงนุ่ม)
-1. Taksaporn Sinsongserm (ทักษพร สินส่งเสริม)
+1. Taksaporn Sinsongserm (ทักษพร สินส่งเสริม) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Taksaporn-Sinsongserm.pdf)]
 1. Tanyaporn Smittikorakul (ธัญพร สมิทธิกรกุล)
 1. Tawanrat Yensook (ธวัลรัตน์ เย็นสุข)
 1. Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค)
