@@ -53,7 +53,7 @@
 1. Nattakan Noichalad (ณัฐกานต์ น้อยฉลาด)
 1. Nattawat Champa (ณัฐวรรธน์ จำปา)
 1. Natthakarn Massuwan (ณัฐกาญจน์ เมษสุวรรณ)
-1. Natthasit Promsorn (ณัฐสิทธิ์ พรมสอน)
+1. Natthasit Promsorn (ณัฐสิทธิ์ พรมสอน) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Natthasit-Promsorn.pdf)]
 1. Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)
 1. Nawiya Leelanawalikhit (นวิญา ลีลานวลิขิต)
 1. Nontapat Supanwattanachai (นนทพัทธ์ สุพรรณวัฒนชัย) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Nontapat-Supanwattanachai.pdf)]
