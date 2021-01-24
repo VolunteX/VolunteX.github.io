@@ -91,7 +91,7 @@
 1. Supatida Upan (สุภธิดา อุปัญญ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Supatida-Upan.pdf)]
 1. Sureeya Sriuschariya (สุรีย์ญา ศรีอัจฉริยะ) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Sureeya-Sriuschariya.pdf)]
 1. Suthima poonsiripipat (สุธิมา พูนศิริพิพัฒน์)
-1. Sutthiphon Saengnum (สุทธิพร แสงนุ่ม)
+1. Sutthiphon Saengnum (สุทธิพร แสงนุ่ม) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Sutthiphon-Saengnum.pdf)]
 1. Taksaporn Sinsongserm (ทักษพร สินส่งเสริม) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Taksaporn-Sinsongserm.pdf)]
 1. Tanyaporn Smittikorakul (ธัญพร สมิทธิกรกุล)
 1. Tawanrat Yensook (ธวัลรัตน์ เย็นสุข)
