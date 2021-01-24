@@ -16,7 +16,7 @@
 
 ## Attendees
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
-1. Apatcha Sonpray (อพัชชา สนพราย)
+1. Apatcha Sonpray (อพัชชา สนพราย) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Apatcha-Sonpray.pdf)]
 1. Aphiwat Phoorahong (อภิวัฒน์ ภู่ระหงษ์)
 1. Apichai Chomjun (อภิชัย ชมจันทร์)
 1. Apinya Sangsam (อภิญญา สังข์เสม)
