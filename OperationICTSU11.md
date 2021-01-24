@@ -66,7 +66,7 @@
 1. Paphawadee Rubsung (ปภาวดี รูปสูง)
 1. Pattarawadee Saebae (ภัทรวดี แซ่เบ้)
 1. Payuda Makpasuk (ปยุดา มากผาสุข)
-1. Phacharapon Pakchuen (พัชรพล ภักตรชื่น)
+1. Phacharapon Pakchuen (พัชรพล ภักตรชื่น) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Phacharapon-Pakchuen.pdf)]
 1. Phannita Phumalai (พรรนนิตา ภู่มาลัย)
 1. Phittiphon Wangburapapaiboon (พิตติพล หวังบูรพาไพบูลย์)
 1. Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม)
