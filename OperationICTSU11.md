@@ -31,7 +31,7 @@
 1. Chonrapat Settarat (ชนรพัฒน์ เศรษฐรัตน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Chonrapat-Settarat.pdf)]
 1. Chonticha Mainoy (ชลธิชา ไม่น้อย)
 1. Jantarat Jareonsuk (จันทรัสม์ เจริญสุข) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Jantarat-Jareonsuk.pdf)]
-1. Jiratchaya Sutawong (จิรัชญา สุตะวงษ์)
+1. Jiratchaya Sutawong (จิรัชญา สุตะวงษ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Jiratchaya-Sutawong.pdf)]
 1. Jutamas Siriart (จุฑามาศ ศิริอรรถ)
 1. Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Kannatthanan-Biyaem.pdf)]
 1. Kanokporn angkasekwinai (กนกพร อังคเศกวินัย)
