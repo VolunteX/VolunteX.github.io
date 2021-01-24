@@ -16,8 +16,6 @@
 
 ## Attendees
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
-+ John Doe (จอห์น โด) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-John-Doe.pdf)]
-
 1. Apatcha Sonpray (อพัชชา สนพราย)
 1. Aphiwat Phoorahong (อภิวัฒน์ ภู่ระหงษ์)
 1. Apichai Chomjun (อภิชัย ชมจันทร์)
@@ -42,6 +40,7 @@
 1. Kongsook Wittayawanitchai (ก้องสุข วิทยาวนิชชัย)
 1. Kriengdet Janchai (เกรียงเดช จันทร์ฉาย)
 1. Kritsanapat Watcharakriengkrai (กฤษณพัทธ์ วัชระเกรียงไกร)
+<!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
 1. Krittima Eambunnapong (กฤติมา เอี่ยมบรรณพงษ์)
 1. Kulkitti Nuangjagoun (กุลกิตติ เนื่องจากอวน)
 1. Lerdluk Satdee (เลิศลักษณ์ สาตดี)
@@ -58,6 +57,7 @@
 1. Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)
 1. Nawiya Leelanawalikhit (นวิญา ลีลานวลิขิต)
 1. Nontapat Supanwattanachai (นนทพัทธ์ สุพรรณวัฒนชัย)
+<!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
 1. Nuntavut Baongam (นันทวุฒิ บัวงาม)
 1. Nuthapong Tungsuk (ณัฐพงศ์ ถึงสุข)
 1. Nutnicha Charoenkul (นัฐณิชา เจริญกุล)
@@ -78,6 +78,7 @@
 1. Rachanon Suanma (รชานนท์ สวนมา)
 1. Ramita Thongdonam (รมิตา ทองดอนอ่ำ)
 1. Ratnisa boonhenglee (รัตน์นิศา บุ้นเฮงหลี)
+<!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
 1. Sariti Luanrak (ศริติ ล่วนรักษ์)
 1. Sataporn Kennamthieng (สถาพร เคนน้ำเที่ยง)
 1. Sirindhorn Khola (ศิรินธร คอล้า)
