@@ -68,7 +68,7 @@
 1. Payuda Makpasuk (ปยุดา มากผาสุข)
 1. Phacharapon Pakchuen (พัชรพล ภักตรชื่น) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Phacharapon-Pakchuen.pdf)]
 1. Phannita Phumalai (พรรนนิตา ภู่มาลัย)
-1. Phittiphon Wangburapapaiboon (พิตติพล หวังบูรพาไพบูลย์)
+1. Phittiphon Wangburapapaiboon (พิตติพล หวังบูรพาไพบูลย์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Phittiphon-W.pdf)]
 1. Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม)
 1. Piphat Thongissara (พิพัฒน์ ทองอิสสระ)
 1. Pornthep kidchob (พรเทพ คิดชอบ)
