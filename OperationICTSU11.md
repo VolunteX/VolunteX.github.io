@@ -1,10 +1,13 @@
 ## Getting Started in Cybersecurity (CIA) (#OperationICTSU11)
 
 + Date : (Tue) January 19, 2021
-+ Venue : [Faculty of Information and Communication Technology, Silpakorn University](https://www.ict.su.ac.th/) (Virtual Classroom)
++ Venue : [Faculty of ICT, Silpakorn University](https://www.ict.su.ac.th/) (Virtual Classroom)
 
 [![](OperationICTSU11/pic/2021-01-19_092057.png "#OperationICTSU11")](https://www.facebook.com/hashtag/OperationICTSU11)
 [![](OperationICTSU11/pic/2021-01-19_153833.png "#OperationICTSU11")](https://www.facebook.com/hashtag/OperationICTSU11)
+
++ AM Session [![](OperationICTSU11/pic/video-youtube.png "#OperationICTSU11")](xxxxx)
++ PM Session [![](OperationICTSU11/pic/video-youtube.png "#OperationICTSU11")](xxxxx)
 
 ## Contributor[s]
 + Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
