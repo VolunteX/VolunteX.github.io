@@ -99,7 +99,7 @@
 1. Thanapat Kwampean (ธนภัทร ความเพียร)
 1. Thanin Chinwattanakarn (ธนิน ชินวัฒนกาญจน์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Thanin-Chinwattanakarn.pdf)]
 1. Varat Tanawatchwarapanya (วรัท ธนวัชร์วรปัญญา)
-1. Warachina Pokapanich (วรชินา โภคาพานิชย์)
+1. Warachina Pokapanich (วรชินา โภคาพานิชย์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Warachina-Pokapanich.pdf)]
 1. Warunyu Jantree (วรัญญู จันทร์ตรี)
 1. Wiraphon Khanngoen (วีราพร ขันเงิน) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Wiraphon-Khanngoen.pdf)]
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
