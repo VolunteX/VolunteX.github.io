@@ -86,7 +86,7 @@
 1. Siwakorn Chansomboon (ศิวกร จันทร์สมบูรณ์)
 1. Sompong Khunthamsiri (สมพงษ์ คุณธรรมสิริ) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Sompong-Khunthamsiri.pdf)]
 1. Somruthai Tangon (สมฤทัย แตงอ่อน) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Somruthai-Tangon.pdf)]
-1. Suchawadee Yuedyaow (สุชาวดี ยืดยาว)
+1. Suchawadee Yuedyaow (สุชาวดี ยืดยาว) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Suchawadee-Yuedyaow.pdf)]
 1. Supakorn Chumsing (ศุภกร ชุมสิงห์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Supakorn-Chumsing.pdf)]
 1. Supatida Upan (สุภธิดา อุปัญญ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Supatida-Upan.pdf)]
 1. Sureeya Sriuschariya (สุรีย์ญา ศรีอัจฉริยะ) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Sureeya-Sriuschariya.pdf)]
