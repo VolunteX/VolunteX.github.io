@@ -61,7 +61,7 @@
 1. Nuntavut Baongam (นันทวุฒิ บัวงาม)
 1. Nuthapong Tungsuk (ณัฐพงศ์ ถึงสุข)
 1. Nutnicha Charoenkul (นัฐณิชา เจริญกุล)
-1. Nutrapee Phundech (นัฐระพี พันเดช)
+1. Nutrapee Phundech (นัฐระพี พันเดช)  [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Nutrapee-Phundech.pdf)]
 1. Papawee Sriwattana (ปภาวี ศรีวัฒนา)
 1. Paphawadee Rubsung (ปภาวดี รูปสูง)
 1. Pattarawadee Saebae (ภัทรวดี แซ่เบ้)
