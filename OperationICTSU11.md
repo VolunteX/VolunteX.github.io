@@ -19,7 +19,7 @@
 1. Apatcha Sonpray (อพัชชา สนพราย) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Apatcha-Sonpray.pdf)]
 1. Aphiwat Phoorahong (อภิวัฒน์ ภู่ระหงษ์)
 1. Apichai Chomjun (อภิชัย ชมจันทร์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Apichai-Chomjun.pdf)]
-1. Apinya Sangsam (อภิญญา สังข์เสม)
+1. Apinya Sangsam (อภิญญา สังข์เสม) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Apinya-Sangsam.pdf)]
 1. Atipong Chomdong (อธิพงศ์ ชมดง) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Atipong-Chomdong.pdf)]
 1. Atita Somprasong (อทิตา สมประสงค์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Atita-Somprasong.pdf)]
 1. Aunniya Vijittanantakul (อันต์ณิญา วิจิตตนันทากุล)
