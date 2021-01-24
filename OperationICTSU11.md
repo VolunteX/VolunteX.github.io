@@ -38,7 +38,7 @@
 1. Kanokporn Saewoon (กนกพร แซ่หวุ่น) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Kanokporn-Saewoon.pdf)]
 1. Kittitat Arrucksomboon (กิตติธัช อารักษ์สมบูรณ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Kittitat-Arrucksomboon.pdf)]
 1. Kongsook Wittayawanitchai (ก้องสุข วิทยาวนิชชัย)
-1. Kriengdet Janchai (เกรียงเดช จันทร์ฉาย)
+1. Kriengdet Janchai (เกรียงเดช จันทร์ฉาย) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Kriengdet-Janchai.pdf)]
 1. Kritsanapat Watcharakriengkrai (กฤษณพัทธ์ วัชระเกรียงไกร) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Kritsanapat-W.pdf)]
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
 1. Krittima Eambunnapong (กฤติมา เอี่ยมบรรณพงษ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Krittima-Eambunnapong.pdf)]
