@@ -41,7 +41,7 @@
 1. Kriengdet Janchai (เกรียงเดช จันทร์ฉาย)
 1. Kritsanapat Watcharakriengkrai (กฤษณพัทธ์ วัชระเกรียงไกร) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Kritsanapat-W.pdf)]
 <!--  [[Cert](OperationICTSU11/attendance/xxx.pdf)] -->
-1. Krittima Eambunnapong (กฤติมา เอี่ยมบรรณพงษ์)
+1. Krittima Eambunnapong (กฤติมา เอี่ยมบรรณพงษ์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Krittima-Eambunnapong.pdf)]
 1. Kulkitti Nuangjagoun (กุลกิตติ เนื่องจากอวน)
 1. Lerdluk Satdee (เลิศลักษณ์ สาตดี)
 1. Manatsawan Channarong (มนัสวรรณ ชาญณรงค์)
