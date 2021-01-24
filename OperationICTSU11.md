@@ -82,7 +82,7 @@
 1. Sariti Luanrak (ศริติ ล่วนรักษ์)
 1. Sataporn Kennamthieng (สถาพร เคนน้ำเที่ยง)
 1. Sirindhorn Khola (ศิรินธร คอล้า)
-1. Sittipon Schrott (สิทธิพล ชร็อตต์)
+1. Sittipon Schrott (สิทธิพล ชร็อตต์) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Sittipon-Schrott.pdf)]
 1. Siwakorn Chansomboon (ศิวกร จันทร์สมบูรณ์)
 1. Sompong Khunthamsiri (สมพงษ์ คุณธรรมสิริ) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Sompong-Khunthamsiri.pdf)]
 1. Somruthai Tangon (สมฤทัย แตงอ่อน)
