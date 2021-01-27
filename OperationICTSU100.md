@@ -29,9 +29,9 @@
 -->
 
 1. Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Chaimongkhon-Srilit.pdf)]
+1. Chaitoch Pansuvan (ชัยธัช ปานสุวรรณ์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Chaitoch-Pansuvan.pdf)]
 
 <!--
-1. Chaitoch Pansuvan (ชัยธัช ปานสุวรรณ์)
 1. Chakkrit Khaewlek (จักรกฤษณ์ แก้วเล็ก) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Chakkrit-Khaewlek.pdf)]
 1. Chanasorn Sretongtae (ชนสรณ์ ศรีทองแท้)
 1. Chawalit Marayat (ชวลิต มารยาท) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Chawalit-Marayat.pdf)]
