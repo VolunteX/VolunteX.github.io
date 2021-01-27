@@ -3,10 +3,10 @@
 + Date : (Tue) January 26, 2021
 + Venue : [Faculty of ICT, Silpakorn University](https://www.ict.su.ac.th/) (Virtual Classroom)
 
-<!--
-[![](OperationICTSU100/pic/2021-01-19_092057.png "#OperationICTSU100")](OperationICTSU100/pic/2021-01-19_092057.png)
-[![](OperationICTSU100/pic/2021-01-19_153833.png "#OperationICTSU100")](OperationICTSU100/pic/2021-01-19_153833.png)
--->
+[![](OperationICTSU100/pic/2021-01-26_104612.png "#OperationICTSU100")](OperationICTSU100/pic/2021-01-26_104612.png)
+[![](OperationICTSU100/pic/2021-01-26_113310.png "#OperationICTSU100")](OperationICTSU100/pic/2021-01-26_113310.png)
+[![](OperationICTSU100/pic/2021-01-26_135721.png "#OperationICTSU100")](OperationICTSU100/pic/2021-01-26_135721.png)
+[![](OperationICTSU100/pic/2021-01-26_155944.png "#OperationICTSU100")](OperationICTSU100/pic/2021-01-26_155944.png)
 
 ## Session
 + AM [![](OperationICTSU100/pic/video-youtube.png "#OperationICTSU100")](https://drive.google.com/file/d/1Uow_Slk8LDnTD1sWqC-KRH9pBa2f2Qe1)
