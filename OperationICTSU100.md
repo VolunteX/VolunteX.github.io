@@ -62,7 +62,9 @@
 1. Natthasit Promsorn (ณัฐสิทธิ์ พรมสอน) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Natthasit-Promsorn.pdf)]
 1. Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)
 1. Nawiya Leelanawalikhit (นวิญา ลีลานวลิขิต)
+-->
 1. Nontapat Supanwattanachai (นนทพัทธ์ สุพรรณวัฒนชัย) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nontapat-Supanwattanachai.pdf)]
+<!--
 1. Nuntavut Baongam (นันทวุฒิ บัวงาม)
 1. Nuthapong Tungsuk (ณัฐพงศ์ ถึงสุข)
 1. Nutnicha Charoenkul (นัฐณิชา เจริญกุล)
