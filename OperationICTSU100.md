@@ -65,9 +65,9 @@
 + Natthakarn Massuwan (ณัฐกาญจน์ เมษสุวรรณ)
 + Natthasit Promsorn (ณัฐสิทธิ์ พรมสอน) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Natthasit-Promsorn.pdf)]
 + Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)
-+ Nawiya Leelanawalikhit (นวิญา ลีลานวลิขิต)
 -->
 
++ Nawiya Leelanawalikhit (นวิญา ลีลานวลิขิต) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nawiya-Leelanawalikhit.pdf)]
 + Nontapat Supanwattanachai (นนทพัทธ์ สุพรรณวัฒนชัย) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nontapat-Supanwattanachai.pdf)]
 
 <!--
