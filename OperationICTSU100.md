@@ -28,7 +28,11 @@
 + Apichai Chomjun (อภิชัย ชมจันทร์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Apichai-Chomjun.pdf)]
 + Apinya Sangsam (อภิญญา สังข์เสม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Apinya-Sangsam.pdf)]
 + Atipong Chomdong (อธิพงศ์ ชมดง) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Atipong-Chomdong.pdf)]
+-->
+
 + Atita Somprasong (อทิตา สมประสงค์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Atita-Somprasong.pdf)]
+
+<!--
 + Aunniya Vijittanantakul (อันต์ณิญา วิจิตตนันทากุล)
 -->
 
