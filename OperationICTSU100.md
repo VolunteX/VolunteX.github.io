@@ -55,7 +55,11 @@
 + Kongsook Wittayawanitchai (ก้องสุข วิทยาวนิชชัย)
 + Kriengdet Janchai (เกรียงเดช จันทร์ฉาย) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Kriengdet-Janchai.pdf)]
 + Kritsanapat Watcharakriengkrai (กฤษณพัทธ์ วัชระเกรียงไกร) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Kritsanapat-W.pdf)]
+-->
+
 + Krittima Eambunnapong (กฤติมา เอี่ยมบรรณพงษ์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Krittima-Eambunnapong.pdf)]
+
+<!--
 + Kulkitti Nuangjagoun (กุลกิตติ เนื่องจากอวน)
 + Lerdluk Satdee (เลิศลักษณ์ สาตดี) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Lerdluk-Satdee.pdf)]
 + Manatsawan Channarong (มนัสวรรณ ชาญณรงค์)
