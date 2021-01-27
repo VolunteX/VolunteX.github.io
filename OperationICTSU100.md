@@ -107,7 +107,11 @@
 <!--
 + Phannita Phumalai (พรรนนิตา ภู่มาลัย)
 + Phittiphon Wangburapapaiboon (พิตติพล หวังบูรพาไพบูลย์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Phittiphon-W.pdf)]
+-->
+
 + Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Pichayakorn-Saenatham.pdf)]
+
+<!--
 + Piphat Thongissara (พิพัฒน์ ทองอิสสระ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Piphat-Thongissara.pdf)]
 + Pornthep Kidchob (พรเทพ คิดชอบ)
 + Pornthep Yangsomboon (พรเทพ ยางสมบูรณ์)
