@@ -26,9 +26,9 @@
 
 <!--
 + Apichai Chomjun (อภิชัย ชมจันทร์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Apichai-Chomjun.pdf)]
-+ Apinya Sangsam (อภิญญา สังข์เสม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Apinya-Sangsam.pdf)]
 -->
 
++ Apinya Sangsam (อภิญญา สังข์เสม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Apinya-Sangsam.pdf)]
 + Atipong Chomdong (อธิพงศ์ ชมดง) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Atipong-Chomdong.pdf)]
 + Atita Somprasong (อทิตา สมประสงค์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Atita-Somprasong.pdf)]
 
@@ -132,9 +132,9 @@
 + Pornthep Kidchob (พรเทพ คิดชอบ)
 + Pornthep Yangsomboon (พรเทพ ยางสมบูรณ์)
 + Pranisara Kijnate (ปาณิสรา กิจเนตร์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Pranisara-Kijnate.pdf)]
-+ Premruedi Techaaphichit (เปรมฤดี เตชอภิชิต) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Premruedi-Techaaphichit.pdf)]
 -->
 
++ Premruedi Techaaphichit (เปรมฤดี เตชอภิชิต) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Premruedi-Techaaphichit.pdf)]
 + Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Punnalin-Shutrashata.pdf)]
 
 <!--
