@@ -106,7 +106,11 @@
 
 <!--
 + Paphawadee Rubsung (ปภาวดี รูปสูง)
+-->
+
 + Pattarawadee Saebae (ภัทรวดี แซ่เบ้) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Pattarawadee-Saebae.pdf)]
+
+<!--
 + Payuda Makpasuk (ปยุดา มากผาสุข) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Payuda-Makpasuk.pdf)]
 -->
 
