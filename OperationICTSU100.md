@@ -61,7 +61,11 @@
 
 <!--
 + Kulkitti Nuangjagoun (กุลกิตติ เนื่องจากอวน)
+-->
+
 + Lerdluk Satdee (เลิศลักษณ์ สาตดี) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Lerdluk-Satdee.pdf)]
+
+<!--
 + Manatsawan Channarong (มนัสวรรณ ชาญณรงค์)
 + Nanthawat Pinitkijwat (นันทวัฒน์ พินิจกิจวัฒน์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nanthawat-Pinitkijwat.pdf)]
 + Naratorn Phetchuchat (นราธร เพ็ชรชูชาติ)
