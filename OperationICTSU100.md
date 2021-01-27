@@ -124,7 +124,11 @@
 + Sutthiphon Saengnum (สุทธิพร แสงนุ่ม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Sutthiphon-Saengnum.pdf)]
 + Taksaporn Sinsongserm (ทักษพร สินส่งเสริม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Taksaporn-Sinsongserm.pdf)]
 + Tanyaporn Smittikorakul (ธัญพร สมิทธิกรกุล)
-+ Tawanrat Yensook (ธวัลรัตน์ เย็นสุข)
+-->
+
++ Tawanrat Yensook (ธวัลรัตน์ เย็นสุข) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Tawanrat-Yensook.pdf)]
+
+<!--
 + Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Thadtarnan-Sangjitpondchok.pdf)]
 + Thanapat Kwampean (ธนภัทร ความเพียร)
 -->
