@@ -68,7 +68,11 @@
 1. Paphawadee Rubsung (ปภาวดี รูปสูง)
 1. Pattarawadee Saebae (ภัทรวดี แซ่เบ้) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Pattarawadee-Saebae.pdf)]
 1. Payuda Makpasuk (ปยุดา มากผาสุข) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Payuda-Makpasuk.pdf)]
+-->
+
 1. Phacharapon Pakchuen (พัชรพล ภักตรชื่น) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Phacharapon-Pakchuen.pdf)]
+
+<!--
 1. Phannita Phumalai (พรรนนิตา ภู่มาลัย)
 1. Phittiphon Wangburapapaiboon (พิตติพล หวังบูรพาไพบูลย์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Phittiphon-W.pdf)]
 1. Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Pichayakorn-Saenatham.pdf)]
@@ -80,6 +84,7 @@
 1. Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ)
 1. Rachanon Suanma (รชานนท์ สวนมา)
 -->
+
 1. Ramita Thongdonam (รมิตา ทองดอนอ่ำ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Ramita-Thongdonam.pdf)]
 
 <!--
