@@ -20,7 +20,11 @@
 <!--  [[Cert](OperationICTSU100/attendance/xxx.pdf)] -->
 <!--
 + Apatcha Sonpray (อพัชชา สนพราย) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Apatcha-Sonpray.pdf)]
-+ Aphiwat Phoorahong (อภิวัฒน์ ภู่ระหงษ์)
+-->
+
++ Aphiwat Phoorahong (อภิวัฒน์ ภู่ระหงษ์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Aphiwat-Phoorahong.pdf)]
+
+<!--
 + Apichai Chomjun (อภิชัย ชมจันทร์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Apichai-Chomjun.pdf)]
 + Apinya Sangsam (อภิญญา สังข์เสม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Apinya-Sangsam.pdf)]
 + Atipong Chomdong (อธิพงศ์ ชมดง) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Atipong-Chomdong.pdf)]
