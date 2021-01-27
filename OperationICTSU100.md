@@ -55,7 +55,7 @@
 1. Nattawat Champa (ณัฐวรรธน์ จำปา)
 1. Natthakarn Massuwan (ณัฐกาญจน์ เมษสุวรรณ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Natthakarn-Massuwan.pdf)]
 1. Natthasit Promsorn (ณัฐสิทธิ์ พรมสอน)
-1. Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)
+1. Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Navarat-Sae-ieb.pdf)]
 1. Nawiya Leelanawalikhit (นวิญา ลีลานวลิขิต) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nawiya-Leelanawalikhit.pdf)]
 1. Nontapat Supanwattanachai (นนทพัทธ์ สุพรรณวัฒนชัย) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nontapat-Supanwattanachai.pdf)]
 1. Nuntavut Baongam (นันทวุฒิ บัวงาม)
