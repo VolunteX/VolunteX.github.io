@@ -103,7 +103,6 @@
 1. Warunyu Jantree (วรัญญู จันทร์ตรี)
 1. Wiraphon Khanngoen (วีราพร ขันเงิน) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210119-Wiraphon-Khanngoen.pdf)]
 <!--  [[Cert](OperationICTSU100/attendance/xxx.pdf)] -->
--->
 
 ```markdown
 Let's volunteer to make an impact together!
