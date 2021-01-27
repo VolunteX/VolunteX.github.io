@@ -93,7 +93,11 @@
 + Pornthep Yangsomboon (พรเทพ ยางสมบูรณ์)
 + Pranisara Kijnate (ปาณิสรา กิจเนตร์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Pranisara-Kijnate.pdf)]
 + Premruedi Techaaphichit (เปรมฤดี เตชอภิชิต) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Premruedi-Techaaphichit.pdf)]
-+ Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ)
+-->
+
++ Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Punnalin-Shutrashata.pdf)]
+
+<!--
 + Rachanon Suanma (รชานนท์ สวนมา)
 -->
 
