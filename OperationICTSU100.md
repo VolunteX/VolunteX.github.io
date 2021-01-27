@@ -63,6 +63,7 @@
 1. Nuthapong Tungsuk (ณัฐพงศ์ ถึงสุข)
 1. Nutnicha Charoenkul (นัฐณิชา เจริญกุล)
 1. Nutrapee Phundech (นัฐระพี พันเดช)  [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210119-Nutrapee-Phundech.pdf)]
+1. Pakawat Jundapram (ภควัต จันดาเปรม)
 1. Papawee Sriwattana (ปภาวี ศรีวัฒนา)
 1. Paphawadee Rubsung (ปภาวดี รูปสูง)
 1. Pattarawadee Saebae (ภัทรวดี แซ่เบ้) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210119-Pattarawadee-Saebae.pdf)]
@@ -72,7 +73,8 @@
 1. Phittiphon Wangburapapaiboon (พิตติพล หวังบูรพาไพบูลย์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210119-Phittiphon-W.pdf)]
 1. Pichayakorn Saenatham (พิชญากรณ์ เสนาธรรม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210119-Pichayakorn-Saenatham.pdf)]
 1. Piphat Thongissara (พิพัฒน์ ทองอิสสระ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210119-Piphat-Thongissara.pdf)]
-1. Pornthep kidchob (พรเทพ คิดชอบ)
+1. Pornthep Kidchob (พรเทพ คิดชอบ)
+1. Pornthep Yangsomboon (พรเทพ ยางสมบูรณ์)
 1. Pranisara Kijnate (ปาณิสรา กิจเนตร์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210119-Pranisara-Kijnate.pdf)]
 1. Premruedi Techaaphichit (เปรมฤดี เตชอภิชิต) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210119-Premruedi-Techaaphichit.pdf)]
 1. Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ)
