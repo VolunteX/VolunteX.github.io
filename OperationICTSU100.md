@@ -26,7 +26,11 @@
 1. Atipong Chomdong (อธิพงศ์ ชมดง) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Atipong-Chomdong.pdf)]
 1. Atita Somprasong (อทิตา สมประสงค์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Atita-Somprasong.pdf)]
 1. Aunniya Vijittanantakul (อันต์ณิญา วิจิตตนันทากุล)
+-->
+
 1. Chaimongkhon Srilit (ชัยมงคล ศรีฤทธิ์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Chaimongkhon-Srilit.pdf)]
+
+<!--
 1. Chaitoch Pansuvan (ชัยธัช ปานสุวรรณ์)
 1. Chakkrit Khaewlek (จักรกฤษณ์ แก้วเล็ก) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Chakkrit-Khaewlek.pdf)]
 1. Chanasorn Sretongtae (ชนสรณ์ ศรีทองแท้)
