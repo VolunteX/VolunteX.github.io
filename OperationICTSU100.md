@@ -98,9 +98,9 @@
 -->
 
 + Ramita Thongdonam (รมิตา ทองดอนอ่ำ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Ramita-Thongdonam.pdf)]
++ Ratnisa Boonhenglee (รัตน์นิศา บุ้นเฮงหลี) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Ratnisa-Boonhenglee.pdf)]
 
 <!--
-+ Ratnisa boonhenglee (รัตน์นิศา บุ้นเฮงหลี)
 + Sariti Luanrak (ศริติ ล่วนรักษ์)
 + Sataporn Kennamthieng (สถาพร เคนน้ำเที่ยง)
 + Sirindhorn Khola (ศิรินธร คอล้า)

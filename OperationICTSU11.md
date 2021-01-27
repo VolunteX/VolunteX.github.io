@@ -75,7 +75,7 @@
 1. Punnalin Shutrashata (ปัณณลิน ฉัฏฐ์รชฏ)
 1. Rachanon Suanma (รชานนท์ สวนมา)
 1. Ramita Thongdonam (รมิตา ทองดอนอ่ำ) [[Cert](OperationICTSU11/attendance/VXOpICTSU11-20210119-Ramita-Thongdonam.pdf)]
-1. Ratnisa boonhenglee (รัตน์นิศา บุ้นเฮงหลี)
+1. Ratnisa Boonhenglee (รัตน์นิศา บุ้นเฮงหลี)
 1. Sariti Luanrak (ศริติ ล่วนรักษ์)
 1. Sataporn Kennamthieng (สถาพร เคนน้ำเที่ยง)
 1. Sirindhorn Khola (ศิรินธร คอล้า)
