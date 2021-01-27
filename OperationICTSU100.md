@@ -146,9 +146,9 @@
 
 <!--
 + Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Thadtarnan-Sangjitpondchok.pdf)]
-+ Thanapat Kwampean (ธนภัทร ความเพียร)
 -->
 
++ Thanapat Kwampean (ธนภัทร ความเพียร) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Thanapat-Kwampean.pdf)]
 + Thanin Chinwattanakarn (ธนิน ชินวัฒนกาญจน์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Thanin-Chinwattanakarn.pdf)]
 
 <!--
