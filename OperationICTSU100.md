@@ -68,7 +68,11 @@
 
 <!--
 + Nuntavut Baongam (นันทวุฒิ บัวงาม)
-+ Nuthapong Tungsuk (ณัฐพงศ์ ถึงสุข)
+-->
+
++ Nuthapong Tungsuk (ณัฐพงศ์ ถึงสุข) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nuthapong-Tungsuk.pdf)]
+
+<!--
 + Nutnicha Charoenkul (นัฐณิชา เจริญกุล)
 + Nutrapee Phundech (นัฐระพี พันเดช)  [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nutrapee-Phundech.pdf)]
 + Pakawat Jundapram (ภควัต จันดาเปรม)
