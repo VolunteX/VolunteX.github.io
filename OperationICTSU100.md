@@ -43,7 +43,11 @@
 + Kannatthanan Biyaem (กันต์ณัฐนันท์ ใบแย้ม) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Kannatthanan-Biyaem.pdf)]
 + Kanokporn angkasekwinai (กนกพร อังคเศกวินัย)
 + Kanokporn Saewoon (กนกพร แซ่หวุ่น) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Kanokporn-Saewoon.pdf)]
+-->
+
 + Kittitat Arrucksomboon (กิตติธัช อารักษ์สมบูรณ์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Kittitat-Arrucksomboon.pdf)]
+
+<!--
 + Kongsook Wittayawanitchai (ก้องสุข วิทยาวนิชชัย)
 + Kriengdet Janchai (เกรียงเดช จันทร์ฉาย) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Kriengdet-Janchai.pdf)]
 + Kritsanapat Watcharakriengkrai (กฤษณพัทธ์ วัชระเกรียงไกร) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Kritsanapat-W.pdf)]
