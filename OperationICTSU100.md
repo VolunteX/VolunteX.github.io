@@ -107,7 +107,11 @@
 1. Tawanrat Yensook (ธวัลรัตน์ เย็นสุข)
 1. Thadtarnan Sangjitpondchok (ทัตธนันท์ สังข์จิตพรโชค) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Thadtarnan-Sangjitpondchok.pdf)]
 1. Thanapat Kwampean (ธนภัทร ความเพียร)
+-->
+
 1. Thanin Chinwattanakarn (ธนิน ชินวัฒนกาญจน์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Thanin-Chinwattanakarn.pdf)]
+
+<!--
 1. Varat Tanawatchwarapanya (วรัท ธนวัชร์วรปัญญา)
 1. Warachina Pokapanich (วรชินา โภคาพานิชย์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Warachina-Pokapanich.pdf)]
 1. Warunyu Jantree (วรัญญู จันทร์ตรี)
