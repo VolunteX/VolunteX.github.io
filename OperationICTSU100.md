@@ -66,7 +66,11 @@
 
 <!--
 + Nattawat Champa (ณัฐวรรธน์ จำปา)
-+ Natthakarn Massuwan (ณัฐกาญจน์ เมษสุวรรณ)
+-->
+
++ Natthakarn Massuwan (ณัฐกาญจน์ เมษสุวรรณ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Natthakarn-Massuwan.pdf)]
+
+<!--
 + Natthasit Promsorn (ณัฐสิทธิ์ พรมสอน) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Natthasit-Promsorn.pdf)]
 + Navarat Sae-ieb (นวรัตน์ แซ่เอี๊ยบ)
 -->
