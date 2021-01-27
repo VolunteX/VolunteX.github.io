@@ -81,6 +81,7 @@
 1. Rachanon Suanma (รชานนท์ สวนมา)
 -->
 1. Ramita Thongdonam (รมิตา ทองดอนอ่ำ) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Ramita-Thongdonam.pdf)]
+
 <!--
 1. Ratnisa boonhenglee (รัตน์นิศา บุ้นเฮงหลี)
 1. Sariti Luanrak (ศริติ ล่วนรักษ์)
@@ -106,7 +107,7 @@
 1. Warachina Pokapanich (วรชินา โภคาพานิชย์) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Warachina-Pokapanich.pdf)]
 1. Warunyu Jantree (วรัญญู จันทร์ตรี)
 1. Wiraphon Khanngoen (วีราพร ขันเงิน) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Wiraphon-Khanngoen.pdf)]
-<!--  [[Cert](OperationICTSU100/attendance/xxx.pdf)] -->
+-->
 
 ```markdown
 Let's volunteer to make an impact together!
