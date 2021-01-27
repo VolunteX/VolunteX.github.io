@@ -56,7 +56,11 @@
 + Natawas Piemkhumdee (ณัฐวัส เปี่ยมขำดี) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Natawas-Piemkhumdee.pdf)]
 + Nathakorn Wimonwatwethi (ณฐกร วิมลวัตรเวที) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nathakorn-Wimonwatwethi.pdf)]
 + Nathanicha Boonyaporn (ณัฏฐณิชา บุณยาภรณ์)
-+ Nattakan Noichalad (ณัฐกานต์ น้อยฉลาด)
+-->
+
++ Nattakan Noichalad (ณัฐกานต์ น้อยฉลาด) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Nattakan-Noichalad.pdf)]
+
+<!--
 + Nattawat Champa (ณัฐวรรธน์ จำปา)
 + Natthakarn Massuwan (ณัฐกาญจน์ เมษสุวรรณ)
 + Natthasit Promsorn (ณัฐสิทธิ์ พรมสอน) [[Cert](OperationICTSU100/attendance/VXOpICTSU100-20210126-Natthasit-Promsorn.pdf)]
