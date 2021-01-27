@@ -1,4 +1,4 @@
-## Getting Started in Cybersecurity (CIA) (#OperationICTSU100)
+## Getting Started in Cybersecurity (I, AAA) (#OperationICTSU100)
 
 + Date : (Tue) January 26, 2021
 + Venue : [Faculty of ICT, Silpakorn University](https://www.ict.su.ac.th/) (Virtual Classroom)
