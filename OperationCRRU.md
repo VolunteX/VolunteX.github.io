@@ -1,7 +1,7 @@
 ## Secure Software Development Lifecycle (#OperationCRRU)
 
 + Date : (Sat) February 27, 2021
-+ Venue : [School of Comp & IT, Chiang Rai Rajabhat University](https://scit.crru.ac.th/)
++ Venue : [School of Computer & IT, Chiang Rai Rajabhat University](https://scit.crru.ac.th/)
 
 ## Operation Facilitator
 + Dr.Mayoon Yaibuates (มยูร ใยบัวเทศ) [[➳](https://www.facebook.com/iamwon)]
