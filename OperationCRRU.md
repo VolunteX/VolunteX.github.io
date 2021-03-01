@@ -11,7 +11,40 @@
 
 ## Attendees
 <!--  [[Cert](OperationCRRU/attendance/xxx.pdf)] -->
-1. John Doe
+1. Adithep
+1. Anon
+1. Aranya
+1. Banthita
+1. Chaiwat
+1. Chattaporn
+1. Kittipoom
+1. Kittithat
+1. Korawit
+1. Kunakorn
+1. Natpakorn
+1. Natthaporn
+1. Natthawut
+1. Ninmanee
+1. Nonthawat
+1. Nutchanon
+1. Pantakan
+1. Phanprueksa
+1. PHUMIN
+1. Pimpisa
+1. Pisanu
+1. Runglawan
+1. Sahawan
+1. Sarawut
+1. Suphakit
+1. Suttita
+1. Tan
+1. Thaksin
+1. Thanadol
+1. Thidaporn
+1. Uthai
+1. Wannasiri
+1. Waranya
+1. Weeraponng
 
 ```markdown
 Let's volunteer to make an impact together!
