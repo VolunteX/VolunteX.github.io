@@ -3,6 +3,8 @@
 + Date : (Sat) February 27, 2021
 + Venue : [School of Computer & IT, Chiang Rai Rajabhat University](https://scit.crru.ac.th/)
 
+[![](OperationCRRU/pic/AfterTheMatch.jpg "#OperationCRRU")](https://www.facebook.com/hashtag/OperationCRRU)
+
 ## Operation Facilitator
 + Dr.Mayoon Yaibuates (มยูร ใยบัวเทศ) [[➳](https://www.facebook.com/iamwon)]
 
