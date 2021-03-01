@@ -31,7 +31,7 @@
 1. Nutchanon
 1. Pantakan
 1. Phanprueksa
-1. PHUMIN
+1. Phumin
 1. Pimpisa
 1. Pisanu
 1. Runglawan
