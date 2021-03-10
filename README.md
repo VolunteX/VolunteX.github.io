@@ -1,6 +1,6 @@
 ## Voluntary eXchange of Thailand #VolunteXTH
 
-+ IWD2021 : (Monday) March 8, 2021
++ IWD2022 : (Monday) March 7, 2022
 + [#OperationCRRU](OperationCRRU) : Secure Software Development Lifecycle on Feb 27, 2021
 + [#OperationICTSU100](OperationICTSU100) : Getting Started in Cybersecurity (I,AAA) on Jan 26, 2021
 + [#OperationICTSU11](OperationICTSU11) : Getting Started in Cybersecurity (CIA) on Jan 19, 2021
