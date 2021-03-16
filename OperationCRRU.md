@@ -27,7 +27,7 @@
 1. Natthaporn
 1. Natthawut Manaohwan (ณัฐวุฒิ มะนาวหวาน)
 1. Ninmanee
-1. Nonthawat
+1. Nonthawat Yodmeang (นนธวัช ยอดเมือง)
 1. Nutchanon
 1. Pantakan
 1. Phanprueksa
