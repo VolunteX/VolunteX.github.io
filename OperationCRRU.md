@@ -16,7 +16,7 @@
 1. Adithep
 1. Anon
 1. Aranya
-1. Banthita
+1. Banthita Krajongkaew
 1. Chaiwat
 1. Chattaporn
 1. Kittipoom
@@ -30,7 +30,7 @@
 1. Nonthawat Yodmeang (นนธวัช ยอดเมือง) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Nonthawat-Yodmeang.pdf)]
 1. Nutchanon
 1. Pantakan
-1. Phanprueksa
+1. Phanprueksa Janthajaem
 1. Phumin Nantachaiwut (ภูมิน นันตาชัยวุฒิ) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Phumin-Nantachaiwut.pdf)]
 1. Pimpisa
 1. Pisanu
