@@ -31,7 +31,7 @@
 1. Nutchanon
 1. Pantakan
 1. Phanprueksa
-1. Phumin
+1. Phumin Nantachaiwut (ภูมิน นันตาชัยวุฒิ)
 1. Pimpisa
 1. Pisanu
 1. Runglawan
@@ -39,7 +39,7 @@
 1. Sarawut
 1. Suphakit
 1. Suttita
-1. Tan
+1. Tan Pumma (ตาล พุ่มมา)
 1. Thaksin
 1. Thanadol
 1. Thidaporn
