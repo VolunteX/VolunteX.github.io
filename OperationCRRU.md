@@ -46,7 +46,7 @@
 1. Uthai
 1. Wannasiri
 1. Waranya
-1. Weeraponng
+1. Weerapong
 
 
 [![](OperationCRRU/pic/BeforeTheMatch.jpg "#OperationCRRU")](https://www.facebook.com/hashtag/OperationCRRU)
