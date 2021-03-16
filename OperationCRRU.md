@@ -27,7 +27,7 @@
 1. Natthaporn
 1. Natthawut Manaohwan (ณัฐวุฒิ มะนาวหวาน) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Natthawut-Manaohwan.pdf)]
 1. Ninmanee
-1. Nonthawat Yodmeang (นนธวัช ยอดเมือง)
+1. Nonthawat Yodmeang (นนธวัช ยอดเมือง) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Nonthawat-Yodmeang.pdf)]
 1. Nutchanon
 1. Pantakan
 1. Phanprueksa
