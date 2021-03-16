@@ -51,6 +51,8 @@
 
 [![](OperationCRRU/pic/BeforeTheMatch.jpg "#OperationCRRU")](https://www.facebook.com/hashtag/OperationCRRU)
 
+[![](OperationCRRU/pic/During02.jpg "#OperationCRRU")](https://www.facebook.com/hashtag/OperationCRRU)
+
 ```markdown
 Let's volunteer to make an impact together!
 ```
