@@ -25,7 +25,7 @@
 1. Kunakorn
 1. Natpakorn
 1. Natthaporn
-1. Natthawut
+1. Natthawut Manaohwan (ณัฐวุฒิ มะนาวหวาน)
 1. Ninmanee
 1. Nonthawat
 1. Nutchanon
