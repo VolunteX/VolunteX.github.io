@@ -29,7 +29,7 @@
 1. Ninmanee
 1. Nonthawat Yodmeang (นนธวัช ยอดเมือง) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Nonthawat-Yodmeang.pdf)]
 1. Nutchanon
-1. Pantakan Chummongkol (พันธกานต์ ชุ่มมงคล)
+1. Pantakan Chummongkol (พันธกานต์ ชุ่มมงคล) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Pantakan-Chummongkol.pdf)]
 1. Phanprueksa Janthajaem (พรรพฤษา) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Phanprueksa-Janthajaem.pdf)]
 1. Phumin Nantachaiwut (ภูมิน นันตาชัยวุฒิ) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Phumin-Nantachaiwut.pdf)]
 1. Pimpisa
@@ -37,7 +37,7 @@
 1. Runglawan
 1. Sahawan
 1. Sarawut
-1. Suphakit Sitthirat (ศุภกิจ สิทธิราช)
+1. Suphakit Sitthirat (ศุภกิจ สิทธิราช) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Suphakit-Sitthirat.pdf)]
 1. Suttita
 1. Tan Pumma (ตาล พุ่มมา) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Tan-Pumma.pdf)]
 1. Thaksin
