@@ -20,8 +20,8 @@
 1. Chaiwat
 1. Chattaporn
 1. Kittipoom
-1. Kittithat
-1. Korawit
+1. Kittithat (กิตติธัช พุทธา)
+1. Korawit (กรวิชญ์ ช่างแก้ว)
 1. Kunakorn
 1. Natpakorn
 1. Natthaporn
