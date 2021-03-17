@@ -36,7 +36,7 @@
 1. Pisanu
 1. Runglawan
 1. Sahawan
-1. Sarawut
+1. Sarawut Sonsukong (ศราวุฒิ สอนสุกอง) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Sarawut-Sonsukong.pdf)]
 1. Suphakit Sitthirat (ศุภกิจ สิทธิราช) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Suphakit-Sitthirat.pdf)]
 1. Suttita
 1. Tan Pumma (ตาล พุ่มมา) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Tan-Pumma.pdf)]
@@ -46,7 +46,7 @@
 1. Uthai
 1. Wannasiri
 1. Waranya
-1. Weerapong
+1. Weerapong Chomkham (วีรพงษ์ ชมคำ) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Weerapong-Chomkham.pdf)]
 
 
 [![](OperationCRRU/pic/BeforeTheMatch.jpg "#OperationCRRU")](https://www.facebook.com/hashtag/OperationCRRU)
