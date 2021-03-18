@@ -20,7 +20,7 @@
 1. Chaiwat
 1. Chattaporn
 1. Kittipoom
-1. Kittithat Phutta (กิตติธัช พุทธา)
+1. Kittithat Phutta (กิตติธัช พุทธา) [[Cert](OperationCRRU/attendance/VXOpCRRU-20210227-Kittithat-Phutta.pdf)]
 1. Korawit (กรวิชญ์ ช่างแก้ว)
 1. Kunakorn
 1. Natpakorn
