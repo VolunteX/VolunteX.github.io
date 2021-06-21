@@ -1,6 +1,6 @@
 ## Fun with #Git (#OperationRMUTTO)
 
-+ Date : (Fri) November 27, 2020
++ Date : [(Fri) November 27, 2020](https://www.facebook.com/permalink.php?story_fbid=3780036865392841&id=872051316191425))
 + Venue : [Faculty of Business Administration and Information Technology, RMUTTO](https://busit.rmutto.ac.th/)
 
 [![](OperationRMUTTO/pic/Group.jpg "#OperationRMUTTO")](https://www.facebook.com/hashtag/OperationRMUTTO)
