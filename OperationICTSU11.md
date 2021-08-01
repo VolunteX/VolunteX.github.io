@@ -7,7 +7,7 @@
 [![](OperationICTSU11/pic/2021-01-19_153833.png "#OperationICTSU11")](OperationICTSU11/pic/2021-01-19_153833.png)
 
 ## Session
-+ AM [![](OperationICTSU11/pic/video-youtube.png "#OperationICTSU11")](https://drive.google.com/file/d/1WIBS7C9WjLMUPKi6UnHyJyvzb07-YMP_)
++ AM [![](OperationICTSU11/pic/video-youtube.png "#OperationICTSU11")](https://drive.google.com/file/d/1WIBS7C9WjLMUPKi6UnHyJyvzb07-YMP_) <!-- https://youtu.be/piuSOblbZvs -->
 + PM [![](OperationICTSU11/pic/video-youtube.png "#OperationICTSU11")](https://drive.google.com/file/d/1S9Hxg1JAsBQquqYmnh8LM6dtSGJ8N6CZ)
 
 ## Contributor[s]
