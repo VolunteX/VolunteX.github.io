@@ -9,7 +9,7 @@
 [![](OperationICTSU100/pic/2021-01-26_155944.png "#OperationICTSU100")](OperationICTSU100/pic/2021-01-26_155944.png)
 
 ## Session
-+ AM [![](OperationICTSU100/pic/video-youtube.png "#OperationICTSU100")](https://drive.google.com/file/d/1Uow_Slk8LDnTD1sWqC-KRH9pBa2f2Qe1)
++ AM [![](OperationICTSU100/pic/video-youtube.png "#OperationICTSU100")](https://drive.google.com/file/d/1Uow_Slk8LDnTD1sWqC-KRH9pBa2f2Qe1) <!-- https://youtu.be/-t7PyEWHgQU -->
 + PM [![](OperationICTSU100/pic/video-youtube.png "#OperationICTSU100")](https://drive.google.com/file/d/1mvcYkmddMy5QLcUmWP1GAtfHKvDhwhos)
 
 ## Contributor[s]
