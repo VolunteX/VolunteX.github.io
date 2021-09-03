@@ -7,7 +7,7 @@
 
 ## Contributor[s]
 1. Sakchai Chaiyarak (ศักดิ์ชัย ไชยรักษ์) [[➳](https://www.facebook.com/chaiyaraks)]
-1. Kijnathee Thaweethanakosol (กิจนที ทวีธนโกศล) [[➳](https://www.facebook.com/xsever)]
+1. Kijnathee T.
 1. Phongsaphat Duma (พงศพัศ ดุมา) [[➳](https://www.facebook.com/phospt)]
 1. Jenjira Saechai (เจนจิรา แซ่ใช้) [[➳](https://www.facebook.com/JaJa.jenjira)]
 1. Siriya Jaiboon (สิริญา ใจบุญ) [[➳](https://www.facebook.com/adeer.yamin)]
