@@ -26,7 +26,7 @@
 
 [![](img/hpe-aruba.png "HPE Aruba Networking")](https://www.arubanetworks.com/)
 [![](img/iknex-black.png =100x100 "iKNEX (Thailand")](https://www.iknex.or.th/)
-![iKNEX (Thailand)](img/iknex-black.png){height=100px width=100px}
+[![iKNEX (Thailand)](img/iknex-black.png)]{height=100px width=100px}
 
 
 
