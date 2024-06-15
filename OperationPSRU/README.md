@@ -18,7 +18,7 @@
 + xxx
 
 ## Attendees
-<!--  [[Cert](OperationCRRU/attendance/xxx.pdf)] -->
+
 1. xxxx
 1. xxxx
 
@@ -26,8 +26,6 @@
 
 [![](img/hpe-aruba.png "HPE Aruba Networking")](https://www.arubanetworks.com/)
 [![iKNEX (Thailand)](img/iknex-black.png)](https://www.iknex.or.th/)
-
-
 
 ```markdown
 Let's volunteer to make an impact together!
