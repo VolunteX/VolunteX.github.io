@@ -22,13 +22,13 @@
 1. xxxx
 1. xxxx
 
+## Official Supporter
+
+[![](img/HPE-Aruba.jpg "HPE Aruba Networking")](https://www.arubanetworks.com/)
 
 ```markdown
 Let's volunteer to make an impact together!
 ```
-## Official Supporter
-
-[![](img/HPE-Aruba.jpg "HPE Aruba Networking")](https://www.arubanetworks.com/)
 
 ## Become a Supporter
 
