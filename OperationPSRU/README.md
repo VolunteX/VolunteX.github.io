@@ -28,7 +28,7 @@ Let's volunteer to make an impact together!
 ```
 ## Official Supporter
 
-[![](img/HPE-Aruba.jpg "HPE Aruba Networking")](#)
+[![](img/HPE-Aruba.jpg "HPE Aruba Networking")](https://www.arubanetworks.com/)
 
 ## Become a Supporter
 
