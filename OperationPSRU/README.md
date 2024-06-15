@@ -3,16 +3,16 @@
 + Date : (Fri) June 28, 2024
 + Venue : [Faculty of Science and Technology, Pibulsongkram Rajabhat University](http://science.psru.ac.th/)
 
-## Operation Facilitator
-+ xxx
-
 ## Operation Leader
 + [Wanasan Srisroy](https://x.com/namo_naja)
 
 ## Contributor
 + xxxx
 + xxxx
-+ xxxx
++ Maykin Warasart
+
+## Operation Facilitator
++ xxx
 
 ## Attendees
 <!--  [[Cert](OperationCRRU/attendance/xxx.pdf)] -->
