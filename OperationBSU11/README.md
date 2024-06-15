@@ -4,14 +4,14 @@
 + Venue : [Bangkok Suvarnabhumi University](http://www.bsu.ac.th/)
 
 ## Operation Leader
-+ [Wanasan Srisroy](https://x.com/namo_naja)
++ [Wanasan Srisroy (วณสัณฑ์ ศรีสร้อย)](https://x.com/namo_naja)
 
 ## Contributor[s]
-+ Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mayk.in)]
++ [Maykin Warasart (เมฆินทร์ วรศาสตร์)](http://mayk.in)
 + xxx
 
 ## Operation Facilitator
-+ [Tanapeak Pexyean](OperationBSU10/VXOpBSU10-20200905-Tanapeak-Pexyean.pdf) ([ธณพิชญ์ เป็กเยียน](OperationBSU10/VXOpBSU10-20200905-Tanapeak-Pexyean.pdf)) [[➳](https://www.facebook.com/teerapon.pexyean)]
++ [Tanapeak Pexyean (ธณพิชญ์ เป็กเยียน)](https://www.facebook.com/teerapon.pexyean)
 
 ## Official Supporter
 
