@@ -26,6 +26,9 @@
 ```markdown
 Let's volunteer to make an impact together!
 ```
+## Official Supporter
+
+[![](img/HPE-Aruba.jpg "HPE Aruba Networking")](#)
 
 ## Become a Supporter
 
