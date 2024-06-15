@@ -3,10 +3,10 @@
 + Date : (Sat) November 7, 2020
 + Venue : [Faculty of Science and Technology, BSRU](http://sci.bsru.ac.th/)
 
-[![](/OperationBSRU/pic/AfterTheMatch1.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/AfterTheMatch1.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
 ## Official Sponsor
-[![](OperationBSRU/pic/senses-logo.png "Industrial Internet of Things platform (IIoT) Customization dashboard and Data logger for Industrial Internet of Things device.")](https://www.sensesiot.com/)
+[![](pic/senses-logo.png "Industrial Internet of Things platform (IIoT) Customization dashboard and Data logger for Industrial Internet of Things device.")](https://www.sensesiot.com/)
 
 ## Operation Leader
 + Tossaporn Wetsiri (ทศพร เวชศิริ) [[➳](https://www.facebook.com/wetsiri)]
@@ -27,7 +27,7 @@
 + Asst.Prof.Dussadee Terdbaramee, Ph.D. (ผศ.ดร.ดุษฎี เทิดบารมี) [[➳](https://www.facebook.com/dussadee.tredbaramee)]
 
 ## Attendees
-1. ARTHITAYA KHAMSANGWAN (อาทิตยา คำสังวาล) <!--- [[Cert](OperationBSRU/attendance/VXOpBSRU-20201107-ARTHITAYA-KHAMSANGWAN.pdf)] -->
+1. ARTHITAYA KHAMSANGWAN (อาทิตยา คำสังวาล) <!--- [[Cert](attendance/VXOpBSRU-20201107-ARTHITAYA-KHAMSANGWAN.pdf)] -->
 1. ATCHA LANGKULKASATTRIN (อัชฌา ลางคุลเกษตริน)
 1. ATTAKOVIT MANGADE (อรรถโกวิท มั่นเกตุ)
 1. CHALOEMKIAT SATHAPANA (เฉลิมเกียรติ สถาปนะ)
@@ -55,51 +55,51 @@
 Let's volunteer to make an impact together!
 ```
 
-[![](/OperationBSRU/pic/AfterTheMatch9.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/AfterTheMatch9.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/01.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/01.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/02.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/02.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/07.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/07.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/10.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/10.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/11.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/11.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/12.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/12.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/13.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/13.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/14.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/14.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/15.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/15.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/26.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/26.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/28.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/28.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/30.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/30.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/44.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/44.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/50.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/50.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/58.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/58.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/60.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/60.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/70.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/70.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/82.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/82.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/88.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/88.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/90.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/90.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/92.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/92.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
-[![](/OperationBSRU/pic/94.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
+[![](/pic/94.jpg "#OperationBSRU")](https://www.facebook.com/hashtag/OperationBSRU)
 
 ## Become a Supporter
 
