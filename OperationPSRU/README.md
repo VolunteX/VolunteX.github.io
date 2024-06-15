@@ -7,7 +7,7 @@
 + xxx
 
 ## Operation Leader
-+ Wanasan Srisroy
++ [Wanasan Srisroy](https://x.com/namo_naja)
 
 ## Contributor
 + xxxx
