@@ -7,7 +7,7 @@
 + [Wanasan Srisroy](https://x.com/namo_naja)
 
 ## Contributor[s]
-+ Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mk.in.th)]
++ Maykin Warasart (เมฆินทร์ วรศาสตร์) [[➳](http://mayk.in)]
 + xxx
 
 ## Operation Facilitator
