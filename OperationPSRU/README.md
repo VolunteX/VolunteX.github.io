@@ -4,7 +4,7 @@
 + Venue : [Faculty of Science and Technology, Pibulsongkram Rajabhat University](http://science.psru.ac.th/)
 
 ## Operation Leader
-+ [Wanasan Srisroy](https://x.com/namo_naja)
++ [Wanasan Srisroy (วณสัณฑ์ ศรีสร้อย)](https://x.com/namo_naja)
 
 ## Contributor
 + xxxx
