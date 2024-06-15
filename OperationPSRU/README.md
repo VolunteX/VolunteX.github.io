@@ -24,8 +24,10 @@
 
 ## Official Supporter
 
+<div align="center">
 [![](img/hpe-aruba.png "HPE Aruba Networking")](https://www.arubanetworks.com/)
 [![iKNEX (Thailand)](img/iknex-black.png)](https://www.iknex.or.th/)
+</div>
 
 ```markdown
 Let's volunteer to make an impact together!
