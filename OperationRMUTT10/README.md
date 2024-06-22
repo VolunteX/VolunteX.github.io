@@ -4,7 +4,7 @@
 + Venue : [Faculty of Science and Technology, RMUTT](http://www.sci.rmutt.ac.th/)
 
 
-[![](/OperationRMUTT10/pic/Group.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
+[![](pic/Group.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
 
 ## Contributor[s]
 1. Angkarn Pummarin (อังคาร ภุมรินทร์) [[➳](https://www.facebook.com/in8l00p)]
@@ -35,10 +35,10 @@
 + Pongpat Rakdej (พงศ์ภัทร์ รักเดช) [[➳](https://www.facebook.com/pongpatrakdej)]
 
 ## Official Sponsor
-[![](/OperationRMUTT10/pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
+[![](pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
 
-[![](/OperationRMUTT10/pic/CAIlogo.png "พัฒนา ยกระดับ การนำความรู้ของบุคลากรในองค์กรให้ใช้ AI ได้อย่างมีคุณภาพระดับมาตรฐาน")](https://www.caicamp.com/)
-[![](/OperationRMUTT10/pic/cp-all-logo_150.png "บริษัท ซีพี ออลล์ จํากัด (มหาชน) &quot;ร่วมสร้างสรรค์และแบ่งปันโอกาสให้ทุกคน&quot;")](https://www.caicamp.com/)
+[![](pic/CAIlogo.png "พัฒนา ยกระดับ การนำความรู้ของบุคลากรในองค์กรให้ใช้ AI ได้อย่างมีคุณภาพระดับมาตรฐาน")](https://www.caicamp.com/)
+[![](pic/cp-all-logo_150.png "บริษัท ซีพี ออลล์ จํากัด (มหาชน) &quot;ร่วมสร้างสรรค์และแบ่งปันโอกาสให้ทุกคน&quot;")](https://www.caicamp.com/)
 
 ## Attendees
 
@@ -82,6 +82,6 @@ Let's volunteer to make an impact together!
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
 
 
-[![](/OperationRMUTT10/pic/Group-AI.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
+[![](pic/Group-AI.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
 
-[![](/OperationRMUTT10/pic/Group-Sec.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
+[![](pic/Group-Sec.jpg "#OperationRMUTT10")](https://www.facebook.com/hashtag/OperationRMUTT10)
