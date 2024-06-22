@@ -3,7 +3,7 @@
 + Date : (Sat) March 3, 2018
 + Venue : [Faculty of Technical Education : RMUTT](http://www.teched.rmutt.ac.th/)
 
-[![](/OperationRMUTT/pic/Group.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+[![](pic/Group.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
 ## Contributor[s]
 1. Suphawadee Charuteeranat (สุภาวดี จารุธีรนาท) [[➳](https://www.facebook.com/thdeemiss03)]
@@ -28,8 +28,8 @@
 + Chonlatit Rujiphut (ชลทิตย์ รุจิพืช) [[➳](https://www.facebook.com/Tsunakun27)]
 
 ## Official Sponsor
-[![](/OperationRMUTT/pic/Rapid7_logo_300.png "Rapid7 powers the practice of SecOps by delivering shared visibility, analytics, and automation to unite security, IT, and DevOps teams.")](https://www.rapid7.com/)
-[![](/OperationRMUTT/pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
+[![](pic/Rapid7_logo_300.png "Rapid7 powers the practice of SecOps by delivering shared visibility, analytics, and automation to unite security, IT, and DevOps teams.")](https://www.rapid7.com/)
+[![](pic/TechTalkThai.jpg "TechTalkThai - ศูนย์รวมข่าว Enterprise IT ออนไลน์แห่งแรกในประเทศไทย")](https://www.techtalkthai.com/)
 
 ```markdown
 Let's volunteer to make an impact together!
@@ -43,18 +43,18 @@ Let's volunteer to make an impact together!
 
 [![](/fb-m.png "Talk to us via FB messenger")](https://m.me/VolunteXTH)
 
-[![](/OperationRMUTT/pic/Opening.png "#OperationRMUTT")](https://youtu.be/9-vCHJvjWBU)
+[![](pic/Opening.png "#OperationRMUTT")](https://youtu.be/9-vCHJvjWBU)
 
-[![](/OperationRMUTT/pic/During.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+[![](pic/During.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
-[![](/OperationRMUTT/pic/During1.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+[![](pic/During1.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
-[![](/OperationRMUTT/pic/During2.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+[![](pic/During2.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
-[![](/OperationRMUTT/pic/During3.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+[![](pic/During3.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
-[![](/OperationRMUTT/pic/During4.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+[![](pic/During4.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
-[![](/OperationRMUTT/pic/During5.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+[![](pic/During5.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
 
-[![](/OperationRMUTT/pic/Poster.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
+[![](pic/Poster.jpg "#OperationRMUTT")](https://www.facebook.com/hashtag/OperationRMUTT)
