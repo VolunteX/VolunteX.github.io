@@ -6,7 +6,7 @@
 ## Operation Leader
 + [Wanasan Srisroy (วณสัณฑ์ ศรีสร้อย)](https://x.com/namo_naja)
 + [Chit Phommisay (ສົມຈິດ ພົມມີໄຊ)](https://www.facebook.com/jid.phommixay.7)
-+ [Bounkong Chanthavi] ()
++ [Bounkong Chanthavi ()](https://www.linkedin.com/in/bounkong-chanthavi)
 
 ## Contributor
 + xxxx
@@ -14,10 +14,11 @@
 + xxxx
 
 ## Operation Advisor
-+ Maykin Warasart
++ [Maykin Warasart (เมฆินทร์ วรศาสตร์, ເມຄິນ ວໍຣະສາດ, ຂວດ)](https://mayk.in)
++ [Souksawat Soulivanh ()](https://www.linkedin.com/in/souksawat-soulivanh/)
 
 ## Operation Facilitator
-+ Meedum Phongthai (ໝີດຳ ພົງໄທ)
++ [Meedum Phongthai (ໝີດຳ ພົງໄທ)](https://www.facebook.com/meedum.phongthai.1)
 
 
 ## Attendees
