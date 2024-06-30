@@ -14,8 +14,8 @@
 + xxxx
 
 ## Operation Advisor
-+ [Maykin Warasart (เมฆินทร์ วรศาสตร์, ເມຄິນ ວໍຣະສາດ, ຂວດ)](https://mayk.in)
-+ [Souksawat Soulivanh ()](https://www.linkedin.com/in/souksawat-soulivanh/)
++ [Maykin Warasart (เมฆินทร์ วรศาสตร์)](https://mayk.in)
++ [Souksawat Soulivanh (ສຸກສະຫວັດ ສຸລິວັນ)](https://www.linkedin.com/in/souksawat-soulivanh/)
 
 ## Operation Facilitator
 + [Meedum Phongthai (ໝີດຳ ພົງໄທ)](https://www.facebook.com/meedum.phongthai.1)
