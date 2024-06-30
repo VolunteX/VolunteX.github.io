@@ -2,6 +2,7 @@
 
 + [Tester’s Day 2024](https://testersday.github.io/2024) : (Mon) Sep 9, 2024
 + [#OperationBSU11](OperationBSU11) : (Sun) Aug 4, 2024
++ [#OperationFEN](OperationFEN) : (Wed) Jul 17, 2024
 + [#OperationNTC](OperationNTC) : (Tue) Jul 16, 2024
 + [#OperationPSRU](OperationPSRU) : (Fri) Jun 28, 2024
 + [Tester’s Day 2023 - Everything You Can Test](https://testersday.github.io/2023) : (Sat) Sep 9, 2023
