@@ -24,13 +24,12 @@
 
 ## Official Supporter
 
-<center>
+<div align="center">
 
-[![](img/hpe_aruba_orange_pos_rgb.png "HPE Aruba Networking")](https://www.arubanetworks.com/)
-<br>
-[![iKNEX (Thailand)](img/iknex-black.png)](https://www.iknex.or.th/)
+<a href="https://www.arubanetworks.com/"><img src="img/hpe_aruba_orange_pos_rgb.png" title="HPE Aruba Networking"></a>
+<a href="https://www.iknex.or.th/"><img src="img/iknex-black.png" title="iKNEX (Thailand)"></a>
 
-</center>
+</div>
 
 ```markdown
 Let's volunteer to make an impact together!
