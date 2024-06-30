@@ -30,7 +30,7 @@
 
 <div align="center">
 
-<a href="https://www.arubanetworks.com/" target="_blank"><img src="img/hpe_aruba_orange_pos_rgb.png" width="500" title="HPE Aruba Networking"></a><br>
+<a href="https://www.arubanetworks.com/" target="_blank"><img src="img/hpe/hpe_aruba_orange_pos_rgb.png" width="500" title="HPE Aruba Networking"></a><br>
 <a href="https://mangkone.com/" target="_blank"><img src="img/mks-logo.png" width="420" title="Mangkone Technology"></a><br><br><br>
 <a href="https://verisette.com/" target="_blank"><img src="img/verisette-logo.png" width="420" title="Verisette Co., Ltd."></a><br><br><br>
 <a href="https://www.iknex.or.th/" target="_blank"><img src="img/iknex-black.png" width="230" title="iKNEX (Thailand)"></a>
