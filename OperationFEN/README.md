@@ -26,8 +26,8 @@
 
 <div align="center">
 
-<a href="https://www.arubanetworks.com/"><img src="img/hpe_aruba_orange_pos_rgb.png" width="200" title="HPE Aruba Networking"></a>
-<a href="https://www.mangkone.com/"><img src="img/mks-logo.png" width="200" title="Mangkone Technology"></a>
+<a href="https://www.arubanetworks.com/"><img src="img/hpe_aruba_orange_pos_rgb.png" width="400" title="HPE Aruba Networking"></a><br>
+<a href="https://www.mangkone.com/"><img src="img/mks-logo.png" width="400" title="Mangkone Technology"></a><br>
 <a href="https://www.iknex.or.th/"><img src="img/iknex-black.png" title="iKNEX (Thailand)"></a>
 
 </div>
