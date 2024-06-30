@@ -1,4 +1,4 @@
-## Topic Name (#OperationFEN)
+## Wireless Network Security - Design and Implementation (#OperationFEN)
 
 + Date : (Wed) July 17, 2024
 + Venue : [Faculty of Engineering, National University of Laos](https://fe-nuol.edu.la/en/home-en/)
