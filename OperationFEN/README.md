@@ -16,6 +16,7 @@
 
 ## Operation Facilitator
 + [Meedum Phongthai (ໝີດຳ ພົງໄທ)](https://www.facebook.com/meedum.phongthai.1)
++ [Duangtavan THATSAPHONE](https://www.facebook.com/profile.php?id=100014312880109)
 
 
 ## Attendees
