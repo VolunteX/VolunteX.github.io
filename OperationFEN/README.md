@@ -1,7 +1,7 @@
 ## Wireless Network Security - Design and Implementation (#OperationFEN)
 
 + Date : (Wed) July 17, 2024
-+ Venue : [Faculty of Engineering, National University of Laos](https://fe-nuol.edu.la/en/home-en/)
++ Venue : Lao Telecom Co-Working Space
 
 ## Operation Leader
 + [Wanasan Srisroy (วณสัณฑ์ ศรีสร้อย)](https://x.com/namo_naja)
@@ -9,13 +9,10 @@
 + [Bounkong Chanthavi (ບຸນກອງ ຈັນທະວີ)](https://www.linkedin.com/in/bounkong-chanthavi)
 
 ## Contributor
-+ xxxx
-+ xxxx
-+ xxxx
++ [Pirom Nontarach](https://www.facebook.com/pirom.bkf)
 
 ## Operation Advisor
 + [Maykin Warasart (เมฆินทร์ วรศาสตร์)](https://mayk.in)
-+ [Souksawat Soulivanh (ສຸກສະຫວັດ ສຸລິວັນ)](https://www.linkedin.com/in/souksawat-soulivanh/)
 
 ## Operation Facilitator
 + [Meedum Phongthai (ໝີດຳ ພົງໄທ)](https://www.facebook.com/meedum.phongthai.1)
@@ -23,8 +20,27 @@
 
 ## Attendees
 
-1. xxxx
-1. xxxx
+1. [Amphone SANAMONGKHOUN](Certificates/Amphone-SANAMONGKHOUN.pdf)
+1. Anongluk-PHOUXAY.pdf
+1. Anuwat-MUANGTHONG.pdf
+1. Bounkong-CHANTHAVI.pdf
+1. Chittakone-CHANTHAVONG.pdf
+1. Duangtavan-THATSAPHONE.pdf
+1. Mack-INTAVONG.pdf
+1. Meedum-PHONGTHAI.pdf
+1. Nilakone-SIVILAY.pdf
+1. No-XAYYAVONGSA.pdf
+1. Phonesavanh-NAMMAKHONEN.pdf
+1. Phoutthavanh-MANEEKEO.pdf
+1. Santisouk-SOUTSANAHONGTHONG.pdf
+1. SayPhet-KEOVANXAY.pdf
+1. Sengphachanh-SIPHAXAI.pdf
+1. Siliphong-KINDAVONG.pdf
+1. Somsouk-KHANTHAMIXAY.pdf
+1. Sonesaksit-PHENGSOUVANHNAVONGSA.pdf
+1. Souksavanh-VORLASAN.pdf
+1. Soulintar-INSAVANH.pdf
+
 
 ## Official Supporter
 
