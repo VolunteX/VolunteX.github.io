@@ -1,4 +1,4 @@
-## Wireless Network Security - Design and Implementation (#OperationFEN)
+## Wireless Network Security - Design and Implementation
 
 + Date : (Wed) July 17, 2024
 + Venue : Lao Telecom Co-Working Space
