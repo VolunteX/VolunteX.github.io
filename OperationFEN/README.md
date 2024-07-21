@@ -5,10 +5,10 @@
 
 ## Operation Leader
 + [Wanasan Srisroy (วณสัณฑ์ ศรีสร้อย)](https://x.com/namo_naja)
-+ [Chit Phommisay (ສົມຈິດ ພົມມີໄຊ)](https://www.facebook.com/jid.phommixay.7)
 + [Bounkong Chanthavi (ບຸນກອງ ຈັນທະວີ)](https://www.linkedin.com/in/bounkong-chanthavi)
 
 ## Contributor
++ [Chit Phommisay (ສົມຈິດ ພົມມີໄຊ)](https://www.facebook.com/jid.phommixay.7)
 + [Pirom Nontarach](https://www.facebook.com/pirom.bkf)
 
 ## Operation Advisor
