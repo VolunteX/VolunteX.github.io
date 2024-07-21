@@ -11,7 +11,7 @@
 
 ## Contributor
 + [Chit Phommisay (ສົມຈິດ ພົມມີໄຊ)](https://www.facebook.com/jid.phommixay.7)
-+ [Pirom Nontarach](https://www.facebook.com/pirom.bkf)
++ [Pirom Nontarach (ภิรมย์ โนนทะราช)](https://www.facebook.com/pirom.bkf)
 
 ## Operation Advisor
 + [Maykin Warasart (เมฆินทร์ วรศาสตร์)](https://mayk.in)
