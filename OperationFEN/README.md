@@ -3,7 +3,7 @@
 + Date : (Wed) July 17, 2024
 + Venue : Lao Telecom Co-Working Space
 
-[![](Facebook-Namo.jpg "Arub Workshop")](https://www.facebook.com/wanasan.naja/posts/10229253222128520)
+[![](Facebook-Namo.png "Arub Workshop")](https://www.facebook.com/wanasan.naja/posts/10229253222128520)
 
 ## Operation Leader
 + [Wanasan Srisroy (วณสัณฑ์ ศรีสร้อย)](https://x.com/namo_naja)
