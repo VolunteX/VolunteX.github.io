@@ -42,6 +42,7 @@
 1. [Souksavanh VORLASAN](Certificates/Souksavanh-VORLASAN.pdf)
 1. [Soulintar INSAVANH](Certificates/Soulintar-INSAVANH.pdf)
 
+[![](Donation.jpg "ມອບອຸປະກອນໄວ້ໃຫ້ນ້ອງໆ ໃນແລັບ APC Basic Control Systems ໄດ້ສຶກສາ ແລະ ເຜີຍແຜ່ຄວາມຮູ້ສົ່ງຕໍ່ໄປເລື້ອຍໆ")](https://www.facebook.com/photo?fbid=10229812109900834)
 
 ## Official Supporter
 
